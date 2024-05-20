@@ -1,0 +1,70 @@
+riskAllele	pValue	pValueAnnotation	riskFrequency	orValue	beta	ci	mappedGenes	traitName	efoTraits	bgTraits	accessionId	locations	pubmedId	author
+rs9898058-?	1.00E-06	-	NR	-	-	-	FAM117A	Milk allergy	milk allergy measurement	-	GCST002788	17:49741459	25710614	Hong X
+rs17032597-?	2.00E-06	-	NR	-	-	-	"LINC01799,DNMT3AP1"	Milk allergy	milk allergy measurement	-	GCST002788	2:66827983	25710614	Hong X
+rs78405116-?	2.00E-06	-	NR	-	-	-	LSP1	Milk allergy	milk allergy measurement	-	GCST002788	11:1871332	25710614	Hong X
+rs10994613-?	5.00E-06	-	NR	-	-	-	LINC00845	Milk allergy	milk allergy measurement	-	GCST002788	10:61020369	25710614	Hong X
+rs7833294-?	7.00E-06	-	NR	-	-	-	"BPNT2,RNA5SP266"	Milk allergy	milk allergy measurement	-	GCST002788	8:57095722	25710614	Hong X
+rs17023017-G	7.00E-07	-	0.122	1.54 (discovery)	-	-	BMPR1B	Hen's egg allergy	egg allergy measurement	-	GCST004977	4:95103943	29051540	Marenholz I
+rs1243064-A	8.00E-08	-	0.259	1.65 (discovery)	-	-	"SERPINB7,SERPINB2"	Hen's egg allergy	egg allergy measurement	-	GCST004977	18:63846741	29051540	Marenholz I
+rs7717393-?	1.00E-06	-	NR	-	-	-	SGCD	Egg allergy	egg allergy measurement	-	GCST002789	5:156326904	25710614	Hong X
+rs5961136-?	2.00E-06	-	NR	-	-	-	ITIH6	Egg allergy	egg allergy measurement	-	GCST002789	X:54776087	25710614	Hong X
+rs250585-?	4.00E-06	-	NR	-	-	-	COG7	Egg allergy	egg allergy measurement	-	GCST002789	16:23389755	25710614	Hong X
+rs16823014-?	4.00E-06	-	NR	-	-	-	ABCB11	Egg allergy	egg allergy measurement	-	GCST002789	2:168961203	25710614	Hong X
+rs6498482-?	5.00E-06	-	NR	-	-	-	"TMF1P1,ERCC4"	Egg allergy	egg allergy measurement	-	GCST002789	16:13893862	25710614	Hong X
+rs17664036-C	2.00E-06	-	0.059	2.02 (discovery)	-	-	KIZ	Peanut allergy	peanut allergy measurement	-	GCST004980	20:21239574	29051540	Marenholz I
+rs115218289-?	9.00E-08	-	NR	-	-	-	"ITGA6,DLX2-DT"	Peanut allergy	peanut allergy measurement	-	GCST006039	2:172401022	29030101	Asai Y
+rs523865-?	2.00E-07	-	NR	-	-	-	ANGPT4	Peanut allergy	peanut allergy measurement	-	GCST006039	20:914238	29030101	Asai Y
+rs144897250-?	3.00E-07	-	NR	-	-	-	"MMP12,BOLA3P1"	Peanut allergy	peanut allergy measurement	-	GCST006039	11:102879534	29030101	Asai Y
+rs7936434-?	3.00E-07	-	NR	-	-	-	"LINC02757,EMSY"	Peanut allergy	peanut allergy measurement	-	GCST006039	11:76582761	29030101	Asai Y
+rs78048444-?	4.00E-07	-	NR	-	-	-	"RNU6-92P,ST13P7"	Peanut allergy	peanut allergy measurement	-	GCST006039	7:133147459	29030101	Asai Y
+rs744597-?	2.00E-06	-	NR	-	-	-	"RN7SKP48,ARHGAP24"	Peanut allergy	peanut allergy measurement	-	GCST006039	4:85415875	29030101	Asai Y
+rs72827854-?	3.00E-06	-	NR	-	-	-	SKAP1	Peanut allergy	peanut allergy measurement	-	GCST006039	17:48383163	29030101	Asai Y
+rs862942-?	3.00E-06	-	NR	-	-	-	LINC02306	Peanut allergy	peanut allergy measurement	-	GCST006039	14:26023027	29030101	Asai Y
+HLA-DQA1*0102	4.00E-09	(EA)	0.19	1.9	-	[1.0-3.4]	-	Peanut allergy	peanut allergy measurement	-	GCST002791	-	25710614	Hong X
+HLA-DQB1*06	6.00E-10	(EA)	0.25	1.9	-	[1.1-3.3]	-	Peanut allergy	peanut allergy measurement	-	GCST002791	-	25710614	Hong X
+rs9275596-C	6.00E-11	(EA)	0.35	1.7	-	[1.40-2.10]	"MTCO3P1,HLA-DQB3"	Peanut allergy	peanut allergy measurement	-	GCST002791	6:32713854	25710614	Hong X
+rs2212434-T	9.00E-11	-	0.459	1.29 (discovery)	-	-	"LINC02757,EMSY"	Food allergy	food allergy measurement	-	GCST004979	11:76570549	29051540	Marenholz I
+rs12964116-G	2.00E-08	-	0.05	1.9 (discovery)	-	-	SERPINB7	Food allergy	food allergy measurement	-	GCST004979	18:63775385	29051540	Marenholz I
+rs7936434-?	8.00E-11	(excluding GERA cohort)	NR	-	-	-	"LINC02757,EMSY"	Food allergy	food allergy measurement	-	GCST006038	11:76582761	29030101	Asai Y
+rs523865-?	4.00E-08	(excluding GERA cohort)	NR	-	-	-	ANGPT4	Food allergy	food allergy measurement	-	GCST006038	20:914238	29030101	Asai Y
+rs7936070-?	6.00E-11	(including GERA cohort)	NR	-	-	-	"LINC02757,EMSY"	Food allergy	food allergy measurement	-	GCST006038	11:76582483	29030101	Asai Y
+rs115218289-?	2.00E-08	(excluding GERA cohort)	NR	-	-	-	"ITGA6,DLX2-DT"	Food allergy	food allergy measurement	-	GCST006038	2:172401022	29030101	Asai Y
+rs78048444-?	3.00E-06	(excluding GERA cohort)	NR	-	-	-	"RNU6-92P,ST13P7"	Food allergy	food allergy measurement	-	GCST006038	7:133147459	29030101	Asai Y
+rs200314279-?	6.00E-07	(excluding GERA cohort)	NR	-	-	-	SKAP1	Food allergy	food allergy measurement	-	GCST006038	17:48369180	29030101	Asai Y
+rs12121623-?	3.00E-07	-	NR	-	-	-	"SSBP3,LINC02784"	Food allergy	food allergy measurement	-	GCST002790	1:54465723	25710614	Hong X
+rs1318710-?	3.00E-06	-	NR	-	-	-	EMCN	Food allergy	food allergy measurement	-	GCST002790	4:100515044	25710614	Hong X
+rs777717-?	5.00E-06	-	NR	-	-	-	"LINC01790,RNU6-169P"	Food allergy	food allergy measurement	-	GCST002790	2:195090010	25710614	Hong X
+rs10994607-?	7.00E-06	-	NR	-	-	-	RHOBTB1	Food allergy	food allergy measurement	-	GCST002790	10:61000984	25710614	Hong X
+rs6942407-?	8.00E-06	-	NR	-	-	-	"TMEM243,TP53TG1"	Food allergy	food allergy measurement	-	GCST002790	7:87231997	25710614	Hong X
+rs17236768-?	8.00E-07	-	NR	-	-	-	LINC01909	Milk allergy (parent-of-origin effect)	"milk allergy measurement,parental genotype effect measurement"	-	GCST005726	18:70340385	29489655	Liu X
+rs1243607-?	5.00E-06	-	NR	-	-	-	"RNASE11,RNASE9"	Milk allergy (parent-of-origin effect)	"milk allergy measurement,parental genotype effect measurement"	-	GCST005726	14:20581400	29489655	Liu X
+rs2254746-?	2.00E-06	-	NR	-	-	-	KLF17	Milk allergy (maternal genetic effects)	"milk allergy measurement,parental genotype effect measurement"	-	GCST005722	1:44133088	29489655	Liu X
+rs3848374-?	4.00E-06	-	NR	-	-	-	MGRN1	Milk allergy (maternal genetic effects)	"milk allergy measurement,parental genotype effect measurement"	-	GCST005722	16:4624148	29489655	Liu X
+rs12227569-?	2.00E-06	-	NR	-	-	-	GRIN2B	Egg allergy (parent-of-origin effect)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005725	12:13659623	29489655	Liu X
+rs131025-?	8.00E-06	-	NR	-	-	-	TAFA5	Egg allergy (parent-of-origin effect)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005725	22:48779197	29489655	Liu X
+rs1550286-?	8.00E-06	-	NR	-	-	-	"RPSAP49,SPATA31C2"	Egg allergy (parent-of-origin effect)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005725	9:88232441	29489655	Liu X
+rs1343795-?	4.00E-07	-	NR	-	-	-	ZNF652	Egg allergy (maternal genetic effects)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005728	17:49334880	29489655	Liu X
+rs10471966-?	3.00E-06	-	NR	-	-	-	"ANKRD55,IL6ST-DT"	Egg allergy (maternal genetic effects)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005728	5:56068744	29489655	Liu X
+rs2303921-?	3.00E-06	-	NR	-	-	-	TAF1B	Egg allergy (maternal genetic effects)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005728	2:9918968	29489655	Liu X
+rs6441713-?	4.00E-06	-	NR	-	-	-	"MIR548AB,NDUFA4P2"	Egg allergy (maternal genetic effects)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005728	3:103266621	29489655	Liu X
+rs10124568-?	9.00E-06	-	NR	-	-	-	"RPL31P43,RPS15AP27"	Egg allergy (maternal genetic effects)	"egg allergy measurement,parental genotype effect measurement"	-	GCST005728	9:107981011	29489655	Liu X
+rs4896888-?	3.00E-07	-	NR	-	-	-	ADGB	Peanut allergy (parent-of-origin effect)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005727	6:146777855	29489655	Liu X
+rs758147-?	1.00E-06	-	NR	-	-	-	"RPS15P9,PWWP3A"	Peanut allergy (parent-of-origin effect)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005727	19:1322313	29489655	Liu X
+rs3786829-?	2.00E-06	-	NR	-	-	-	RYR1	Peanut allergy (parent-of-origin effect)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005727	19:38523544	29489655	Liu X
+rs7290369-?	5.00E-06	-	NR	-	-	-	MIATNB	Peanut allergy (parent-of-origin effect)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005727	22:26747356	29489655	Liu X
+rs16973813-?	8.00E-06	-	NR	-	-	-	ATP2C2	Peanut allergy (parent-of-origin effect)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005727	16:84445975	29489655	Liu X
+rs998706-?	4.00E-06	-	NR	-	-	-	FAM118A	Peanut allergy (maternal genetic effects)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005723	22:45339725	29489655	Liu X
+rs1830169-?	4.00E-06	-	NR	-	-	-	"LINC00992,LINC02147"	Peanut allergy (maternal genetic effects)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005723	5:117713030	29489655	Liu X
+rs10161215-?	9.00E-06	-	NR	-	-	-	MRPL42	Peanut allergy (maternal genetic effects)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005723	12:93494763	29489655	Liu X
+rs17073303-?	9.00E-06	-	NR	-	-	-	PLAGL1	Peanut allergy (maternal genetic effects)	"peanut allergy measurement,parental genotype effect measurement"	-	GCST005723	6:144034900	29489655	Liu X
+rs7566508-?	1.00E-06	-	NR	-	-	-	EML6	Food allergy (parent-of-origin effect)	"food allergy measurement,parental genotype effect measurement"	-	GCST005721	2:54951869	29489655	Liu X
+rs4862495-?	1.00E-06	-	NR	-	-	-	LINC02436	Food allergy (parent-of-origin effect)	"food allergy measurement,parental genotype effect measurement"	-	GCST005721	4:185051943	29489655	Liu X
+rs2273971-?	4.00E-06	-	NR	-	-	-	PROZ	Food allergy (parent-of-origin effect)	"food allergy measurement,parental genotype effect measurement"	-	GCST005721	13:113158648	29489655	Liu X
+rs342821-?	8.00E-06	-	NR	-	-	-	"TMEM78,LINC02814"	Food allergy (parent-of-origin effect)	"food allergy measurement,parental genotype effect measurement"	-	GCST005721	1:229229244	29489655	Liu X
+rs1036504-?	8.00E-06	-	NR	-	-	-	IQCE	Food allergy (parent-of-origin effect)	"food allergy measurement,parental genotype effect measurement"	-	GCST005721	7:2570131	29489655	Liu X
+rs1243607-?	1.00E-06	-	NR	-	-	-	"RNASE11,RNASE9"	Food allergy (parent-of-origin effect)	"food allergy measurement,parental genotype effect measurement"	-	GCST005721	14:20581400	29489655	Liu X
+rs4235235-?	5.00E-08	-	NR	-	-	-	"DCHS2,SFRP2"	Food allergy (maternal genetic effects)	"food allergy measurement,parental genotype effect measurement"	-	GCST005724	4:154182301	29489655	Liu X
+rs976078-?	4.00E-07	-	NR	-	-	-	"GYG1P2,RNU6-67P"	Food allergy (maternal genetic effects)	"food allergy measurement,parental genotype effect measurement"	-	GCST005724	13:82963398	29489655	Liu X
+rs2092470-?	7.00E-06	-	NR	-	-	-	"SNRPB2,RPL7AP13"	Food allergy (maternal genetic effects)	"food allergy measurement,parental genotype effect measurement"	-	GCST005724	20:16726753	29489655	Liu X
+rs13276608-?	9.00E-06	-	NR	-	-	-	CYP7B1	Food allergy (maternal genetic effects)	"food allergy measurement,parental genotype effect measurement"	-	GCST005724	8:64769294	29489655	Liu X
+rs493642-?	9.00E-06	-	NR	-	-	-	"U8,CLMP"	Food allergy (maternal genetic effects)	"food allergy measurement,parental genotype effect measurement"	-	GCST005724	11:123226678	29489655	Liu X

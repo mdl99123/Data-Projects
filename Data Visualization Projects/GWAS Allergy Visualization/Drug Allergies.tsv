@@ -1,0 +1,27 @@
+riskAllele	pValue	pValueAnnotation	riskFrequency	orValue	beta	ci	mappedGenes	traitName	efoTraits	bgTraits	accessionId	locations	pubmedId	author
+HLA-B*55:01-?	1.00E-77	-	NR	1.33	-	[1.29-1.37]	-	Penicillin allergy	drug allergy	-	GCST011458	-	32888428	Krebs K
+rs11802311-C	6.00E-06	-	NR	5.65	-	[2.66-11.97]	PSEN2	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	1:226900791	34391895	Kanai M
+rs12997194-G	8.00E-06	-	NR	2.07	-	[1.51-2.86]	"LINC01819,CHORDC1P1"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	2:42894778	34391895	Kanai M
+rs181829194-G	9.00E-06	-	NR	7.41	-	[3.06-17.98]	"MTARC2P1,RN7SL553P"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	3:5361050	34391895	Kanai M
+rs2947669-T	7.00E-06	-	NR	0.47	-	[0.34-0.66]	"LINC02614,SNRPCP11"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	3:125819518	34391895	Kanai M
+rs79390442-C	8.00E-06	-	NR	3.55	-	[2.04-6.19]	CPNE4	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	3:131942812	34391895	Kanai M
+rs17084754-T	5.00E-06	-	NR	2.69	-	[1.76-4.11]	"KIT,LINC02358"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	4:54744026	34391895	Kanai M
+rs77909744-A	6.00E-06	-	NR	12.28	-	[4.15-36.35]	"RPL6P11,GASK1B"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	4:157987326	34391895	Kanai M
+rs532454805-G	2.00E-06	-	NR	7.94	-	[3.4-18.56]	GASK1B-AS1	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	4:158175500	34391895	Kanai M
+rs2660655-T	8.00E-06	-	NR	2.31	-	[1.6-3.34]	"KCNIP1,KCNIP1-OT1"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	5:170405517	34391895	Kanai M
+rs76631136-A	8.00E-06	-	NR	5.28	-	[2.54-10.98]	"LNC-LBCS,RPL21P61"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	6:19208394	34391895	Kanai M
+rs142701536-C	9.00E-06	-	NR	4.28	-	[2.25-8.12]	"POU3F2,EIF4EBP2P3"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	6:98782685	34391895	Kanai M
+rs80228341-T	9.00E-06	-	NR	6.34	-	[2.8-14.33]	DYNC1I1	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	7:95829622	34391895	Kanai M
+rs57803405-C	8.00E-06	-	NR	0.44	-	[0.31-0.63]	"MCPH1-DT,RN7SKP159"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:6057268	34391895	Kanai M
+rs78668355-G	6.00E-06	-	NR	3.81	-	[2.14-6.8]	"NEFL,DOCK5"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:25034829	34391895	Kanai M
+rs10504034-C	8.00E-06	-	NR	2.01	-	[1.48-2.74]	ZMAT4	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:40674623	34391895	Kanai M
+rs147066410-A	7.00E-06	-	NR	14.29	-	[4.46-45.73]	ATAD2	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:123344234	34391895	Kanai M
+rs2271847-C	7.00E-06	-	NR	2.09	-	[1.51-2.88]	MAPK8IP1	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	11:45904894	34391895	Kanai M
+rs117007512-G	1.00E-06	-	NR	9.56	-	[3.85-23.73]	TCF12	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	15:56959573	34391895	Kanai M
+rs139623002-A	5.00E-06	-	NR	5.1	-	[2.53-10.26]	"SMIM17,ZIM2-AS1"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	19:56643369	34391895	Kanai M
+rs79701786-A	6.00E-06	-	NR	4.91	-	[2.47-9.77]	"MYT1L,LINC01250"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	2:2789275	34391895	Kanai M
+rs116850690-A	5.00E-06	-	NR	5.14	-	[2.54-10.39]	VGLL4	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	3:11599164	34391895	Kanai M
+rs2947668-A	1.00E-05	-	NR	0.38	-	[0.25-0.58]	"SNRPCP11,LINC02614"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	3:125820086	34391895	Kanai M
+rs181829194-G	2.00E-07	-	NR	18.6	-	[6.13-56.43]	"MTARC2P1,RN7SL553P"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	3:5361050	34391895	Kanai M
+rs6811901-C	4.00E-06	-	NR	3.54	-	[2.07-6.05]	CAMK2D	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	4:113445575	34391895	Kanai M
+rs192104207-T	2.00E-06	-	NR	15.12	-	[4.92-46.47]	"LINC02476,GTF3AP6"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	7:119383049	34391895	Kanai M

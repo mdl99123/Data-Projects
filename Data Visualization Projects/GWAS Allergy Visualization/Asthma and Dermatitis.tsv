@@ -1,0 +1,1196 @@
+riskAllele	pValue	pValueAnnotation	riskFrequency	orValue	beta	ci	mappedGenes	traitName	efoTraits	bgTraits	accessionId	locations	pubmedId	author
+rs2367563-A	4.00E-06	-	NR	5.92	-	[NR]	"PGAM1P5,NTN4"	Allergic dermatitis (nickel)	contact dermatitis due to nickel	-	GCST002108	12:95663408	23921680	Kim DS
+rs6733160-C	7.00E-06	(2-fold positive reaction cases)	NR	9.276	-	[NR]	PELI1	Allergic dermatitis (nickel)	contact dermatitis due to nickel	-	GCST002108	2:64137498	23921680	Kim DS
+chr9:6255967-C	1.00E-26	-	0.0047	0.596	-	[0.542-0.656]	-	Allergic disease	allergic disease	-	GCST90081451	-	34662886	Backman JD
+rs6594499-C	5.00E-12	-	0.53	-	0.029 unit decrease	[0.021-0.037]	"WDR36,RPS3AP21"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	5:111134439	32603359	Ferreira MAR
+rs6780858-G	1.00E-13	-	0.524	-	0.031 unit decrease	[0.023-0.039]	LPP	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	3:188414322	32603359	Ferreira MAR
+rs6905282-A	1.00E-23	-	0.466	-	0.042 unit decrease	[0.034-0.05]	"HLA-DQA1,HLA-DQB1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	6:32658238	32603359	Ferreira MAR
+rs10865050-?	4.00E-33	-	0.874	-	0.075 unit decrease	[0.063-0.087]	"IL1RL1,IL18R1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	2:102324851	32603359	Ferreira MAR
+rs4648052-G	7.00E-09	-	0.633	-	0.025 unit decrease	[0.017-0.033]	NFKB1	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	4:102593898	32603359	Ferreira MAR
+rs4705962-T	2.00E-10	-	0.234	-	0.031 unit decrease	[0.021-0.041]	KIF3A	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	5:132693166	32603359	Ferreira MAR
+rs61816761-A	3.00E-82	-	0.026	-	0.266 unit decrease	[0.24-0.29]	"FLG,FLG-AS1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:152313385	32603359	Ferreira MAR
+rs7936323-G	7.00E-27	-	0.506	-	0.045 unit increase	[0.037-0.053]	"EMSY,LINC02757"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	11:76582714	32603359	Ferreira MAR
+rs7216890-T	7.00E-14	-	0.654	-	0.033 unit decrease	[0.025-0.041]	"SMARCE1,CCR7"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	17:40600717	32603359	Ferreira MAR
+rs72823628-G	2.00E-33	-	0.874	-	0.076 unit decrease	[0.064-0.088]	"IL18R1,IL1RL1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	2:102312157	32603359	Ferreira MAR
+rs928413-G	3.00E-09	-	0.271	-	0.028 unit decrease	[0.019-0.037]	"GTF3AP1,IL33"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	9:6213387	32603359	Ferreira MAR
+rs10187276-T	5.00E-13	-	0.256	-	0.034 unit decrease	[0.024-0.044]	"SNRPGP8,CCL20"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	2:227805721	32603359	Ferreira MAR
+rs7728612-T	1.00E-15	-	0.167	-	0.045 unit decrease	[0.033-0.057]	"SLC25A46,BCLAF1P1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	5:110828975	32603359	Ferreira MAR
+rs78037977-A	1.00E-11	-	0.879	-	0.044 unit decrease	[0.032-0.056]	"FASLG,SLC25A38P1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:172746562	32603359	Ferreira MAR
+rs7848215-T	8.00E-10	-	0.273	-	0.029 unit decrease	[0.019-0.039]	"IL33,GTF3AP1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	9:6213468	32603359	Ferreira MAR
+rs9431-A	2.00E-11	-	0.497	-	0.028 unit decrease	[0.02-0.036]	SPPL3	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	12:120764861	32603359	Ferreira MAR
+rs115045402-A	2.00E-47	-	0.028	-	0.202 unit decrease	[0.17-0.23]	"SPTLC1P4,S100A11"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:152057072	32603359	Ferreira MAR
+rs12572775-A	8.00E-15	-	0.447	-	0.033 unit decrease	[0.025-0.041]	SUFU	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	10:102525837	32603359	Ferreira MAR
+rs12964116-G	6.00E-23	-	0.037	-	0.108 unit decrease	[0.086-0.13]	SERPINB7	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	18:63775385	32603359	Ferreira MAR
+rs13398375-T	8.00E-10	-	0.716	-	0.029 unit decrease	[0.019-0.039]	LINC00299	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	2:8311571	32603359	Ferreira MAR
+rs61907712-C	2.00E-10	-	0.813	-	0.034 unit decrease	[0.024-0.044]	"ETS1,LINC02098"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	11:128291247	32603359	Ferreira MAR
+rs635634-T	1.00E-08	-	0.189	-	0.031 unit decrease	[0.021-0.041]	"Y_RNA,ABO"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	9:133279427	32603359	Ferreira MAR
+rs6531663-T	3.00E-38	-	0.808	-	0.067 unit decrease	[0.057-0.077]	TLR1	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	4:38790719	32603359	Ferreira MAR
+rs2041733-T	2.00E-13	-	0.447	-	0.031 unit decrease	[0.023-0.039]	CLEC16A	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	16:11135732	32603359	Ferreira MAR
+rs2085423-A	4.00E-13	-	0.248	-	0.035 unit decrease	[0.025-0.045]	"SPMIP7,IKZF1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	7:50286219	32603359	Ferreira MAR
+rs2601191-T	2.00E-11	-	0.473	-	0.028 unit decrease	[0.02-0.036]	IQGAP1	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	15:90392993	32603359	Ferreira MAR
+rs2854001-A	5.00E-13	-	0.237	-	0.035 unit decrease	[0.025-0.045]	"MIR6891,HLA-B"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	6:31355235	32603359	Ferreira MAR
+rs2918302-A	5.00E-11	-	0.156	-	0.038 unit decrease	[0.026-0.05]	NFILZ	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	19:8675909	32603359	Ferreira MAR
+rs3017289-C	2.00E-10	-	0.289	-	0.029 unit decrease	[0.019-0.039]	"MBD2,POLI"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	18:54254038	32603359	Ferreira MAR
+rs3024971-T	3.00E-10	-	0.9	-	0.044 unit decrease	[0.03-0.058]	STAT6	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	12:57099944	32603359	Ferreira MAR
+rs34290285-G	3.00E-13	-	0.757	-	0.036 unit decrease	[0.026-0.046]	D2HGDH	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	2:241759225	32603359	Ferreira MAR
+rs45610037-A	2.00E-17	-	0.227	-	0.042 unit decrease	[0.032-0.052]	"IL2,IL21"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	4:122481853	32603359	Ferreira MAR
+rs45613035-C	2.00E-08	-	0.104	-	0.038 unit decrease	[0.024-0.052]	BLTP1	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	4:122219915	32603359	Ferreira MAR
+rs4574025-T	3.00E-14	-	0.54	-	0.032 unit decrease	[0.024-0.04]	TNFRSF11A	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	18:62342581	32603359	Ferreira MAR
+rs12123821-T	3.00E-48	-	0.051	-	0.138 unit decrease	[0.12-0.16]	"CCDST,FLG-AS1"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:152206676	32603359	Ferreira MAR
+rs4795400-C	6.00E-33	-	0.541	-	0.05 unit decrease	[0.042-0.058]	GSDMB	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	17:39910767	32603359	Ferreira MAR
+rs705699-A	4.00E-09	-	0.432	-	0.025 unit decrease	[0.017-0.033]	RAB5B	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	12:55991020	32603359	Ferreira MAR
+rs7140939-A	2.00E-10	-	0.403	-	0.027 unit decrease	[0.019-0.035]	RAD51B	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	14:68293810	32603359	Ferreira MAR
+rs921650-G	2.00E-28	-	0.507	-	0.046 unit increase	[0.038-0.054]	GSDMB	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	17:39912823	32603359	Ferreira MAR
+rs73739621-C	4.00E-11	-	0.096	-	0.051 unit decrease	[0.035-0.067]	HLA-DPA1	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	6:33065933	32603359	Ferreira MAR
+rs7521390-C	2.00E-11	-	0.296	-	0.031 unit decrease	[0.021-0.041]	"TNFSF4,GOT2P2"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:173172821	32603359	Ferreira MAR
+rs7559046-C	3.00E-13	-	0.537	-	0.031 unit decrease	[0.023-0.039]	"PLB1,FOSL2"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	2:28421803	32603359	Ferreira MAR
+rs10791824-G	2.00E-16	-	0.575	-	0.035 unit decrease	[0.027-0.043]	OVOL1	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	11:65791795	32603359	Ferreira MAR
+rs11071559-C	5.00E-11	-	0.877	-	0.042 unit decrease	[0.03-0.054]	RORA	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	15:60777789	32603359	Ferreira MAR
+rs11236791-A	4.00E-28	-	0.469	-	0.046 unit decrease	[0.038-0.054]	"LINC02757,EMSY"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	11:76584554	32603359	Ferreira MAR
+rs4809619-G	4.00E-09	-	0.752	-	0.029 unit decrease	[0.019-0.039]	EYA2	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	20:47061144	32603359	Ferreira MAR
+rs4938576-G	2.00E-11	-	0.592	-	0.028 unit decrease	[0.02-0.036]	"Y_RNA,CXCR5"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	11:118876060	32603359	Ferreira MAR
+rs4971089-G	2.00E-08	-	0.488	-	0.024 unit decrease	[0.016-0.032]	KRTCAP2	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:155170451	32603359	Ferreira MAR
+rs56062135-T	3.00E-09	-	0.247	-	0.029 unit decrease	[0.019-0.039]	SMAD3	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	15:67163292	32603359	Ferreira MAR
+rs56101042-A	3.00E-11	-	0.82	-	0.036 unit decrease	[0.026-0.046]	TRAF3	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	14:102790624	32603359	Ferreira MAR
+rs597808-G	2.00E-15	-	0.523	-	0.033 unit decrease	[0.025-0.041]	ATXN2	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	12:111535554	32603359	Ferreira MAR
+rs184587444-T	4.00E-28	-	0.02	-	0.191 unit decrease	[0.16-0.22]	"SPRR2B,SPRR2E"	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	1:153079185	32603359	Ferreira MAR
+rs1853573-G	4.00E-12	-	0.465	-	0.029 unit decrease	[0.021-0.037]	LINC02341	"asthma, hay fever and/or eczema (age of onset)"	"allergic disease,age at onset"	-	GCST010985	13:42460832	32603359	Ferreira MAR
+rs10910095-G	3.00E-08	-	0.84	1.042	-	[1.03-1.06]	"TNFRSF14,PRXL2B"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:2579316	29083406	Ferreira MA
+rs61192126-T	9.00E-11	-	0.69	1.037	-	[1.03-1.05]	"RYBP,LINC00877"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:72345701	29083406	Ferreira MA
+rs760805-T	6.00E-13	-	0.58	1.038	-	[1.03-1.05]	RUNX3	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:24925432	29083406	Ferreira MA
+rs75557865-G	2.00E-08	-	0.57	1.029	-	[1.02-1.04]	SLC15A2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:121933294	29083406	Ferreira MA
+rs10663129-ACT	1.00E-13	-	0.33	1.042	-	[1.03-1.05]	RASA2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:141602995	29083406	Ferreira MA
+rs60946162-T	9.00E-15	-	0.42	1.041	-	[1.03-1.05]	LPP	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:188415548	29083406	Ferreira MA
+rs61816761-A	7.00E-21	-	0.01	1.224	-	[1.18-1.27]	"FLG,FLG-AS1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:152313385	29083406	Ferreira MA
+rs2030030-T	1.00E-08	-	0.86	1.041	-	[1.03-1.05]	"LPP-AS2,LINC01991"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:188076045	29083406	Ferreira MA
+rs80064395-C	2.00E-12	-	0.94	1.07	-	[1.05-1.09]	"NRROS,PIGX"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:196645675	29083406	Ferreira MA
+rs10033073-G	1.00E-10	-	0.35	1.04	-	[1.03-1.05]	STX18-AS1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	4:4773674	29083406	Ferreira MA
+rs2228145-C	4.00E-13	-	0.35	1.038	-	[1.03-1.05]	IL6R	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:154454494	29083406	Ferreira MA
+rs2070901-T	1.00E-11	-	0.26	1.039	-	[1.03-1.05]	FCER1G	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:161215268	29083406	Ferreira MA
+rs2988277-C	4.00E-14	-	0.66	1.04	-	[1.03-1.05]	CD247	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:167462115	29083406	Ferreira MA
+rs4090390-A	1.00E-15	-	0.22	1.048	-	[1.04-1.06]	"TNFSF4,GOT2P2"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:173177782	29083406	Ferreira MA
+rs1102705-G	3.00E-10	-	0.11	1.058	-	[1.04-1.08]	"SLC25A38P1,FASLG"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:172731728	29083406	Ferreira MA
+rs6594499-C	5.00E-46	-	0.48	1.075	-	[1.07-1.08]	"WDR36,RPS3AP21"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:111134439	29083406	Ferreira MA
+rs10174949-G	7.00E-31	-	0.68	1.066	-	[1.06-1.08]	LINC00299	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:8302118	29083406	Ferreira MA
+rs4671601-C	9.00E-09	-	0.83	1.039	-	[1.03-1.05]	LINC02579	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:64609133	29083406	Ferreira MA
+rs12551834-G	3.00E-09	-	0.92	1.058	-	[1.04-1.08]	KYAT1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	9:128850912	29083406	Ferreira MA
+rs12413578-C	1.00E-27	-	0.9	1.095	-	[1.08-1.11]	"LINC00709,LINC02676"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:9007290	29083406	Ferreira MA
+rs11255753-T	2.00E-12	-	0.26	1.041	-	[1.03-1.05]	"KRT8P37,CHCHD3P1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:8563590	29083406	Ferreira MA
+rs13403656-A	2.00E-08	-	0.16	1.045	-	[1.03-1.06]	"MIR4435-2HG,SOCAR"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:111511550	29083406	Ferreira MA
+rs1143633-C	2.00E-10	-	0.7	1.034	-	[1.02-1.04]	IL1B	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:112832890	29083406	Ferreira MA
+rs74847330-A	2.00E-09	-	0.88	1.048	-	[1.03-1.06]	"KYNU,ARHGAP15"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:143074030	29083406	Ferreira MA
+rs1064213-G	5.00E-12	-	0.47	1.035	-	[1.03-1.04]	PLCL1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:198085516	29083406	Ferreira MA
+rs13384448-T	3.00E-12	-	0.76	1.042	-	[1.03-1.05]	"TDGF1P2,CCL20"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:227843146	29083406	Ferreira MA
+rs1057258-C	1.00E-10	-	0.8	1.045	-	[1.03-1.06]	INPP5D	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:233206983	29083406	Ferreira MA
+rs34290285-G	4.00E-33	-	0.73	1.082	-	[1.07-1.09]	D2HGDH	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:241759225	29083406	Ferreira MA
+rs6776757-G	3.00E-10	-	0.47	1.033	-	[1.02-1.04]	GLB1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:33027599	29083406	Ferreira MA
+rs301806-T	2.00E-20	-	0.54	1.048	-	[1.04-1.06]	RERE	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:8422018	29083406	Ferreira MA
+rs13088318-A	9.00E-09	-	0.62	1.031	-	[1.02-1.04]	"TRMT10C,FAM172BP"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:101523907	29083406	Ferreira MA
+rs76167968-T	1.00E-08	-	0.93	1.056	-	[1.04-1.07]	"ZMYM4,Y_RNA"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:35216137	29083406	Ferreira MA
+rs7512552-C	1.00E-09	-	0.52	1.031	-	[1.02-1.04]	"MRPS21,CIART"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:150293284	29083406	Ferreira MA
+rs17607589-C	2.00E-14	-	0.84	1.053	-	[1.04-1.07]	LPP	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:188684798	29083406	Ferreira MA
+rs519973-A	5.00E-10	-	0.35	1.034	-	[1.02-1.04]	"BCL6,LINC01991"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	3:187915480	29083406	Ferreira MA
+rs12123821-T	7.00E-17	-	0.05	1.111	-	[1.09-1.14]	"CCDST,FLG-AS1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:152206676	29083406	Ferreira MA
+rs11204896-C	2.00E-12	-	0.9	1.063	-	[1.05-1.08]	RORC	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:151824266	29083406	Ferreira MA
+rs5743618-C	3.00E-58	-	0.7	1.1	-	[1.09-1.11]	TLR1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	4:38797027	29083406	Ferreira MA
+rs227275-C	4.00E-11	-	0.56	1.034	-	[1.02-1.04]	MANBA	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	4:102672741	29083406	Ferreira MA
+rs4145717-T	9.00E-27	-	0.34	1.059	-	[1.05-1.07]	ADAD1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	4:122394921	29083406	Ferreira MA
+rs150254607-ATAT	5.00E-14	-	0.07	1.078	-	[1.06-1.1]	"IL21,IL2"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	4:122532956	29083406	Ferreira MA
+rs16903574-G	1.00E-12	-	0.08	1.071	-	[1.05-1.09]	OTULINL	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:14610200	29083406	Ferreira MA
+rs7717955-C	9.00E-36	-	0.71	1.073	-	[1.06-1.08]	IL7R	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:35862739	29083406	Ferreira MA
+rs7714574-T	6.00E-10	-	0.53	1.032	-	[1.02-1.04]	"RNU1-150P,TTC33"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:40492553	29083406	Ferreira MA
+rs697852-A	2.00E-09	-	0.85	1.041	-	[1.03-1.05]	ITPKB	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	1:226727033	29083406	Ferreira MA
+rs6869502-T	6.00E-29	-	0.18	1.079	-	[1.07-1.09]	"BCLAF1P1,SLC25A46"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:110830384	29083406	Ferreira MA
+rs250308-T	4.00E-09	-	0.37	1.031	-	[1.02-1.04]	TNFAIP8	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:119348602	29083406	Ferreira MA
+rs3749833-C	3.00E-11	-	0.3	1.039	-	[1.03-1.05]	"IRF1,IRF1-AS1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:132463934	29083406	Ferreira MA
+rs10865050-G	7.00E-61	-	0.85	1.13	-	[1.12-1.14]	"IL1RL1,IL18R1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:102324851	29083406	Ferreira MA
+rs4848612-A	2.00E-10	-	0.76	1.038	-	[1.03-1.05]	ANAPC1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:111630961	29083406	Ferreira MA
+rs2893907-C	2.00E-09	-	0.58	1.031	-	[1.02-1.04]	LINC02929	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:62622599	29083406	Ferreira MA
+rs10883723-C	2.00E-08	-	0.31	1.03	-	[1.02-1.04]	"MFSD13A,ACTR1A"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:102466075	29083406	Ferreira MA
+rs740474-C	6.00E-11	-	0.42	1.034	-	[1.02-1.04]	DIAPH1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:141545795	29083406	Ferreira MA
+rs2910162-G	3.00E-09	-	0.68	1.033	-	[1.02-1.04]	MIR3142HG	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:160482338	29083406	Ferreira MA
+rs34004019-A	4.00E-52	-	0.7	1.101	-	[1.09-1.11]	"HLA-DQA1,HLA-DQB1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:32658626	29083406	Ferreira MA
+rs2854001-A	1.00E-19	-	0.18	1.059	-	[1.05-1.07]	"MIR6891,HLA-B"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:31355235	29083406	Ferreira MA
+rs9259819-G	2.00E-09	-	0.5	1.036	-	[1.02-1.05]	"HCG4B,MCCD1P1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:29925798	29083406	Ferreira MA
+rs28895016-C	9.00E-16	-	0.91	1.097	-	[1.07-1.12]	"NCR3,UQCRHP1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:31606748	29083406	Ferreira MA
+rs2134814-C	2.00E-17	-	0.65	1.046	-	[1.04-1.06]	BACH2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:90277793	29083406	Ferreira MA
+rs9372120-G	4.00E-11	-	0.18	1.042	-	[1.03-1.05]	ATG5	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:106219660	29083406	Ferreira MA
+rs5029937-G	2.00E-08	-	0.97	1.081	-	[1.05-1.11]	TNFAIP3	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:137874014	29083406	Ferreira MA
+rs9383820-C	1.00E-08	-	0.76	1.037	-	[1.02-1.05]	ARID1B	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:157098374	29083406	Ferreira MA
+rs6461503-T	2.00E-14	-	0.53	1.039	-	[1.03-1.05]	"ITGB8,EEF1A1P27"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	7:20521373	29083406	Ferreira MA
+rs10486391-A	7.00E-09	-	0.53	1.03	-	[1.02-1.04]	ITGB8	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	7:20336395	29083406	Ferreira MA
+rs17664743-A	6.00E-11	-	0.2	1.042	-	[1.03-1.05]	"SPMIP7,IKZF1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	7:50214301	29083406	Ferreira MA
+rs4296977-C	2.00E-13	-	0.16	1.055	-	[1.04-1.07]	GSAP	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	7:77389225	29083406	Ferreira MA
+rs6990534-A	6.00E-14	-	0.36	1.042	-	[1.03-1.05]	PVT1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	8:127801845	29083406	Ferreira MA
+rs144829310-T	1.00E-35	-	0.16	1.09	-	[1.08-1.1]	"IL33,GTF3AP1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	9:6208030	29083406	Ferreira MA
+rs16922576-C	3.00E-10	-	0.32	1.036	-	[1.03-1.05]	JAK2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	9:5064193	29083406	Ferreira MA
+rs10760123-T	5.00E-09	-	0.38	1.032	-	[1.02-1.04]	PHF19	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	9:120888256	29083406	Ferreira MA
+rs7936323-A	2.00E-63	-	0.46	1.088	-	[1.08-1.1]	"EMSY,LINC02757"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:76582714	29083406	Ferreira MA
+rs59593577-C	2.00E-11	-	0.87	1.053	-	[1.04-1.07]	"LNCRNA-IUR,FAM76B"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:95692362	29083406	Ferreira MA
+rs12365699-G	5.00E-18	-	0.85	1.061	-	[1.05-1.07]	"CXCR5,Y_RNA"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:118872577	29083406	Ferreira MA
+rs56129466-A	2.00E-13	-	0.79	1.047	-	[1.04-1.06]	"LINC02098,ETS1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:128288294	29083406	Ferreira MA
+rs55726902-G	3.00E-16	-	0.8	1.051	-	[1.04-1.06]	HDAC7	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:47803199	29083406	Ferreira MA
+rs11169225-A	1.00E-11	-	0.18	1.045	-	[1.03-1.06]	"AQP5-AS1,AQP2"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:49951888	29083406	Ferreira MA
+rs1059513-T	1.00E-22	-	0.89	1.084	-	[1.07-1.1]	STAT6	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:57095926	29083406	Ferreira MA
+rs10876864-G	1.00E-19	-	0.39	1.047	-	[1.04-1.06]	"SUOX,IKZF4"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:56007301	29083406	Ferreira MA
+rs7137828-T	2.00E-10	-	0.54	1.033	-	[1.02-1.04]	ATXN2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:111494996	29083406	Ferreira MA
+rs6489785-T	2.00E-15	-	0.37	1.043	-	[1.03-1.05]	"HNF1A-AS1,RPL12P33"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:120925921	29083406	Ferreira MA
+rs63406760-T	3.00E-13	-	0.77	1.047	-	[1.03-1.06]	CDK2AP1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	12:123258146	29083406	Ferreira MA
+rs4943794-C	7.00E-12	-	0.23	1.043	-	[1.03-1.05]	FOXO1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	13:40599271	29083406	Ferreira MA
+rs9573092-A	3.00E-08	-	0.7	1.03	-	[1.02-1.04]	"KLF5,PSMD10P3"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	13:73053137	29083406	Ferreira MA
+rs1048990-G	1.00E-08	-	0.16	1.039	-	[1.03-1.05]	PSMA6	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	14:35292469	29083406	Ferreira MA
+rs111914382-TG	8.00E-09	-	0.27	1.036	-	[1.02-1.05]	TTC6	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	14:37627797	29083406	Ferreira MA
+rs2104047-T	2.00E-13	-	0.36	1.042	-	[1.03-1.05]	RAD51B	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	14:68287700	29083406	Ferreira MA
+rs9323612-A	9.00E-09	-	0.7	1.032	-	[1.02-1.04]	"JDP2,BATF"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	14:75502265	29083406	Ferreira MA
+rs9989163-A	2.00E-08	-	0.49	1.029	-	[1.02-1.04]	"RCOR1,TRAF3"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	14:102768675	29083406	Ferreira MA
+rs12440045-C	5.00E-10	-	0.55	1.033	-	[1.02-1.04]	"RTF1,ITPKA"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	15:41490486	29083406	Ferreira MA
+rs10519067-G	9.00E-13	-	0.86	1.055	-	[1.04-1.07]	RORA	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	15:60776148	29083406	Ferreira MA
+rs56375023-A	8.00E-32	-	0.21	1.073	-	[1.06-1.08]	SMAD3	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	15:67156025	29083406	Ferreira MA
+rs3540-G	3.00E-11	-	0.65	1.036	-	[1.03-1.05]	IQGAP1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	15:90502176	29083406	Ferreira MA
+rs11644510-C	6.00E-38	-	0.64	1.072	-	[1.06-1.08]	"HNRNPCP4,CLEC16A"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	16:11183501	29083406	Ferreira MA
+rs12596613-C	6.00E-09	-	0.67	1.032	-	[1.02-1.04]	"RMI2,LITAF"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	16:11397150	29083406	Ferreira MA
+rs71368508-C	2.00E-09	-	0.99	1.124	-	[1.09-1.16]	"LINC01996,RNU6-955P"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:4618178	29083406	Ferreira MA
+rs921650-A	6.00E-30	-	0.48	1.059	-	[1.05-1.07]	GSDMB	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:39912823	29083406	Ferreira MA
+rs112401631-A	2.00E-26	-	0.01	1.26	-	[1.22-1.3]	"SMARCE1,CCR7"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:40608272	29083406	Ferreira MA
+rs7207591-A	1.00E-09	-	0.76	1.038	-	[1.03-1.05]	STAT5B	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:42262844	29083406	Ferreira MA
+rs7214661-G	1.00E-08	-	0.32	1.032	-	[1.02-1.04]	"ARHGAP27,RNA5SP443"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:45353330	29083406	Ferreira MA
+rs9889262-A	1.00E-15	-	0.35	1.043	-	[1.03-1.05]	ZNF652	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:49320708	29083406	Ferreira MA
+rs4801001-T	6.00E-09	-	0.42	1.031	-	[1.02-1.04]	"DYNAP,RAB27B"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	18:54668944	29083406	Ferreira MA
+rs4574025-T	7.00E-09	-	0.56	1.03	-	[1.02-1.04]	TNFRSF11A	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	18:62342581	29083406	Ferreira MA
+rs10414065-C	6.00E-18	-	0.92	1.098	-	[1.08-1.12]	"SLC7A10,CEBPA"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	19:33230549	29083406	Ferreira MA
+rs3787184-A	1.00E-12	-	0.78	1.049	-	[1.04-1.06]	NFATC2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	20:51541298	29083406	Ferreira MA
+rs2766678-G	5.00E-18	-	0.21	1.057	-	[1.04-1.07]	ZNF217	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	20:53591817	29083406	Ferreira MA
+rs6011033-G	4.00E-14	-	0.78	1.047	-	[1.04-1.06]	"RTEL1,RTEL1-TNFRSF6B"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	20:63691346	29083406	Ferreira MA
+rs73205303-A	8.00E-10	-	0.13	1.044	-	[1.03-1.06]	RUNX1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	21:35095533	29083406	Ferreira MA
+rs76081789-T	1.00E-08	-	0.94	1.065	-	[1.04-1.09]	SIK1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	21:43426546	29083406	Ferreira MA
+rs5758343-A	5.00E-14	-	0.22	1.048	-	[1.04-1.06]	"TOB2,TEF"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	22:41420648	29083406	Ferreira MA
+rs848-A	2.00E-24	-	0.24	1.068	-	[1.06-1.08]	"TH2LCRR,IL13"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:132660808	29083406	Ferreira MA
+rs61839660-T	4.00E-19	-	0.07	1.08	-	[1.06-1.1]	IL2RA	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:6052734	29083406	Ferreira MA
+rs2025758-T	5.00E-15	-	0.58	1.041	-	[1.03-1.05]	"LINC02676,RNA5SP299"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:8799706	29083406	Ferreira MA
+rs10068717-T	5.00E-15	-	0.62	1.042	-	[1.03-1.05]	NDFIP1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:142115369	29083406	Ferreira MA
+rs13153019-C	1.00E-08	-	0.26	1.035	-	[1.02-1.05]	"RGS14,LMAN2"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:177355217	29083406	Ferreira MA
+rs10947428-C	4.00E-13	-	0.19	1.046	-	[1.03-1.06]	ITPR3	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:33679281	29083406	Ferreira MA
+rs3097670-G	8.00E-12	-	0.88	1.064	-	[1.05-1.08]	"HLA-DPB1,HLA-DPA1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:33078975	29083406	Ferreira MA
+rs35469349-A	2.00E-10	-	0.26	1.037	-	[1.03-1.05]	PTPRK	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:127973564	29083406	Ferreira MA
+rs72033857-C	1.00E-09	-	0.11	1.057	-	[1.04-1.07]	"MIR3939,RNASET2"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:166977184	29083406	Ferreira MA
+rs6977955-T	7.00E-13	-	0.21	1.046	-	[1.03-1.06]	JAZF1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	7:28117268	29083406	Ferreira MA
+rs7824394-A	4.00E-20	-	0.37	1.05	-	[1.04-1.06]	"RNU6-1213P,RPL13AP18"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	8:80380364	29083406	Ferreira MA
+rs343478-G	3.00E-10	-	0.52	1.033	-	[1.02-1.04]	"GTF3AP1,RANBP6"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	9:6051399	29083406	Ferreira MA
+rs479844-G	2.00E-13	-	0.57	1.038	-	[1.03-1.05]	"OVOL1,AP5B1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:65784486	29083406	Ferreira MA
+rs7130753-C	7.00E-15	-	0.69	1.045	-	[1.03-1.06]	"SIK2,LAYN"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:111599843	29083406	Ferreira MA
+rs55646091-A	2.00E-40	-	0.05	1.179	-	[1.16-1.2]	"EMSY,LINC02757"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:76588387	29083406	Ferreira MA
+rs11236814-A	4.00E-14	-	0.91	1.068	-	[1.05-1.08]	"LINC02757,LRRC32"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	11:76632384	29083406	Ferreira MA
+rs11652139-A	8.00E-22	-	0.59	1.051	-	[1.04-1.06]	PSMD3	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:39992780	29083406	Ferreira MA
+rs11464691-TA	1.00E-21	-	0.57	1.052	-	[1.04-1.06]	"SMARCE1,CCR7"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	17:40614390	29083406	Ferreira MA
+rs12470864-A	4.00E-26	-	0.35	1.057	-	[1.05-1.07]	"FAM183DP,IL1RL1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	2:102309902	29083406	Ferreira MA
+rs1814576-C	1.00E-22	-	0.09	1.121	-	[1.1-1.14]	"SLC25A46,BCLAF1P1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:110824180	29083406	Ferreira MA
+rs1837253-C	2.00E-31	-	0.78	1.07	-	[1.06-1.08]	"TSLP,BCLAF1P1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:111066174	29083406	Ferreira MA
+rs3091307-G	4.00E-21	-	0.2	1.062	-	[1.05-1.07]	TH2LCRR	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	5:132653444	29083406	Ferreira MA
+rs2507978-G	1.00E-10	-	0.41	1.035	-	[1.02-1.05]	"MICA,HLA-S"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	6:31383887	29083406	Ferreira MA
+rs4747846-C	1.00E-11	-	0.52	1.036	-	[1.03-1.05]	IL2RA	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:6032488	29083406	Ferreira MA
+rs11255968-C	8.00E-09	-	0.96	1.09	-	[1.06-1.12]	"LINC02676,RNA5SP299"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:8894199	29083406	Ferreira MA
+rs72782676-C	3.00E-11	-	0.98	1.303	-	[1.23-1.38]	"LINC02676,LINC00709"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:8990592	29083406	Ferreira MA
+rs1444789-C	2.00E-22	-	0.2	1.066	-	[1.05-1.08]	"LINC00709,LINC02676"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST005038	10:9022398	29083406	Ferreira MA
+rs11117858-T	8.00E-06	(conditional)	0.784	-	0.0287 unit decrease	NR	IKBKE	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	1:206472931	29679657	Ferreira MA
+rs12045923-T	5.00E-07	(conditional)	0.6497	-	0.028762 unit increase	NR	PEX14	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	1:10583772	29679657	Ferreira MA
+rs151233-T	3.00E-06	(conditional)	0.1327	-	0.0385 unit increase	NR	"APOBR,CLN3"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28495107	29679657	Ferreira MA
+rs17137937-T	3.00E-06	(conditional)	0.07483	-	0.0424768 unit increase	NR	"FEM1C,CCT5P1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	5:115514125	29679657	Ferreira MA
+rs231970-A	5.00E-06	(conditional)	0.8827	-	0.035 unit decrease	NR	SGF29	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28555683	29679657	Ferreira MA
+rs2726040-C	5.00E-06	(conditional)	0.5748	-	0.0238 unit decrease	NR	SBK1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28319469	29679657	Ferreira MA
+rs27741-A	4.00E-06	(conditional)	0.3622	-	0.0239 unit decrease	NR	CLN3	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28492860	29679657	Ferreira MA
+rs4236540-T	8.00E-07	(conditional)	0.7143	-	0.0282 unit decrease	NR	"SMURF1,KPNA7"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	7:99171402	29679657	Ferreira MA
+rs4523932-A	5.00E-06	(conditional)	0.0119	-	0.1047 unit decrease	NR	NSMCE1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:27265406	29679657	Ferreira MA
+rs4821544-T	4.00E-07	(conditional)	0.6854	-	0.0290989 unit decrease	NR	"NCF4,NCF4-AS1"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	22:36862461	29679657	Ferreira MA
+rs550057-T	3.00E-07	(conditional)	0.2806	-	0.0293763 unit increase	NR	ABO	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	9:133271182	29679657	Ferreira MA
+rs5756391-A	9.00E-06	(conditional)	0.352	-	0.0231752 unit decrease	NR	"CSF2RB,NCF4"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	22:36902302	29679657	Ferreira MA
+rs6909158-T	7.00E-06	(conditional)	0.8078	-	0.0297268 unit decrease	NR	"BTF3P10,RAET1K"	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	6:149979828	29679657	Ferreira MA
+rs7092926-T	7.00E-07	(conditional)	0.432	-	0.0258662 unit increase	NR	STAM	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	10:17664114	29679657	Ferreira MA
+rs73078636-A	1.00E-07	(conditional)	0.148	-	0.0403 unit decrease	NR	DCAF1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	3:51403873	29679657	Ferreira MA
+rs75539558-C	2.00E-06	(conditional)	0.6633	-	0.025 unit increase	NR	SGF29	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28584489	29679657	Ferreira MA
+rs7562-T	9.00E-07	(conditional)	0.5306	-	0.0251 unit increase	NR	FOSL2	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	2:28412873	29679657	Ferreira MA
+rs7925585-A	3.00E-06	(conditional)	0.6565	-	0.0244 unit increase	NR	PRR5L	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	11:36365351	29679657	Ferreira MA
+rs8045689-T	6.00E-06	(conditional)	0.7466	-	0.0249 unit increase	NR	SPNS1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28976948	29679657	Ferreira MA
+rs8056890-A	2.00E-06	(conditional)	0.2959	-	0.0254 unit decrease	NR	ATP2A1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	16:28886131	29679657	Ferreira MA
+rs9397706-A	5.00E-07	(conditional)	0.5272	-	0.0257086 unit increase	NR	IPCEF1	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	6:154341513	29679657	Ferreira MA
+CADM3-?	3.00E-08	(conditional)	NR	-	-	-	-	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	-	29679657	Ferreira MA
+SLC39A8-?	3.00E-08	(conditional)	NR	-	-	-	-	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	-	29679657	Ferreira MA
+LRRC43-?	3.00E-08	(conditional)	NR	-	-	-	-	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	-	29679657	Ferreira MA
+KLF5-?	3.00E-08	(conditional)	NR	-	-	-	-	"Allergic disease (asthma, hay fever or eczema)"	allergic disease	-	GCST007732	-	29679657	Ferreira MA
+rs8043253-?	4.00E-08	-	NR	1.06	-	[1.04-1.08]	EXD1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	15:41211532	29785011	Zhu Z
+rs45605540-?	4.00E-10	-	NR	1.07	-	[1.05-1.1]	BLTP1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	4:122219899	29785011	Zhu Z
+rs12339348-?	2.00E-08	-	NR	1.07	-	[1.05-1.1]	IL33	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	9:6233082	29785011	Zhu Z
+rs11171739-?	4.00E-10	-	NR	1.07	-	[1.04-1.09]	ERBB3	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	12:56076841	29785011	Zhu Z
+rs2766664-?	1.00E-11	-	NR	1.08	-	[1.06-1.11]	"ZNF217,Y_RNA"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	20:53554702	29785011	Zhu Z
+rs56062135-?	6.00E-13	-	NR	1.09	-	[1.06-1.12]	SMAD3	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	15:67163292	29785011	Zhu Z
+rs11645657-?	7.00E-17	-	NR	1.09	-	[1.07-1.11]	CLEC16A	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	16:11129597	29785011	Zhu Z
+rs7936070-?	4.00E-22	-	NR	1.1	-	[1.08-1.13]	"LINC02757,EMSY"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	11:76582483	29785011	Zhu Z
+rs61839660-?	4.00E-12	-	NR	1.12	-	[1.09-1.16]	IL2RA	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	10:6052734	29785011	Zhu Z
+rs7705653-?	2.00E-20	-	NR	1.14	-	[1.11-1.17]	"SLC25A46,BCLAF1P1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	5:110807116	29785011	Zhu Z
+rs56267624-?	2.00E-08	-	NR	1.14	-	[1.09-1.2]	RAD51B	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	14:68195642	29785011	Zhu Z
+rs115288876-?	2.00E-08	-	NR	1.15	-	[1.09-1.21]	"S100A11,NBPF18P"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	1:152027641	29785011	Zhu Z
+rs76962799-?	4.00E-08	-	NR	1.15	-	[1.09-1.21]	"RANBP6,GTF3AP1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	9:6187132	29785011	Zhu Z
+rs61816766-?	3.00E-11	-	NR	1.21	-	[1.14-1.28]	FLG-AS1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	1:152347096	29785011	Zhu Z
+rs146668528-?	5.00E-12	-	NR	1.1904762	-	[1.12-1.25]	HLA-DQA1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	6:32630251	29785011	Zhu Z
+rs72823641-?	4.00E-24	-	NR	1.1627907	-	[1.14-1.2]	"IL1RL1,IL18R1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	2:102319699	29785011	Zhu Z
+rs148906978-?	1.00E-16	-	NR	1.1235955	-	[1.09-1.15]	"TLR6,TLR1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	4:38852748	29785011	Zhu Z
+rs4833093-?	7.00E-20	-	NR	1.1235955	-	[1.1-1.16]	"TLR10,TLR1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	4:38788119	29785011	Zhu Z
+rs10414065-?	3.00E-08	-	NR	1.1235955	-	[1.08-1.18]	"SLC7A10,CEBPA"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	19:33230549	29785011	Zhu Z
+rs12413578-?	5.00E-10	-	NR	1.1111112	-	[1.08-1.15]	"LINC00709,LINC02676"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	10:9007290	29785011	Zhu Z
+rs3024971-?	1.00E-09	-	NR	1.1111112	-	[1.08-1.15]	STAT6	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	12:57099944	29785011	Zhu Z
+rs34290285-?	2.00E-15	-	NR	1.098901	-	[1.08-1.12]	D2HGDH	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	2:241759225	29785011	Zhu Z
+rs10174949-?	6.00E-16	-	NR	1.098901	-	[1.08-1.12]	LINC00299	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	2:8302118	29785011	Zhu Z
+rs1438673-?	5.00E-20	-	NR	1.098901	-	[1.08-1.12]	"WDR36,RPS3AP21"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	5:111131801	29785011	Zhu Z
+rs6881270-?	3.00E-15	-	NR	1.098901	-	[1.08-1.12]	IL7R	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	5:35878993	29785011	Zhu Z
+rs9911533-?	2.00E-16	-	NR	1.0869565	-	[1.06-1.11]	"SMARCE1,CCR7"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	17:40619224	29785011	Zhu Z
+rs12743520-?	7.00E-09	-	NR	1.0752687	-	[1.04-1.1]	EVI5	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	1:92571555	29785011	Zhu Z
+rs659529-?	1.00E-10	-	NR	1.0752687	-	[1.05-1.1]	"SIK2,LAYN"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	11:111566171	29785011	Zhu Z
+rs3208007-?	3.00E-08	-	NR	1.0752687	-	[1.04-1.1]	"RTEL1,RTEL1-TNFRSF6B"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	20:63690935	29785011	Zhu Z
+rs742230-?	1.00E-08	-	NR	1.0638298	-	[1.04-1.09]	RUNX3	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	1:24924933	29785011	Zhu Z
+rs1214598-?	5.00E-10	-	NR	1.0638298	-	[1.04-1.09]	CD247	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	1:167457187	29785011	Zhu Z
+rs10008032-?	2.00E-10	-	NR	1.0638298	-	[1.04-1.09]	"RNA5SP158,KLF3"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	4:38743861	29785011	Zhu Z
+rs1409123-?	2.00E-10	-	NR	1.0638298	-	[1.04-1.09]	"KRT8P37,CHCHD3P1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,allergic disease"	-	GCST007563	10:8540354	29785011	Zhu Z
+rs479844-G	3.00E-17	-	0.5547	1.0472301	-	[1.04-1.06]	"OVOL1,AP5B1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	11:65784486	31361310	Johansson Å
+rs4648883-C	4.00E-16	-	0.5803	1.046244	-	[1.04-1.06]	RUNX3	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:24934712	31361310	Johansson Å
+rs7725052-T	2.00E-14	-	0.6082	1.0435146	-	[1.03-1.05]	"RNU1-150P,TTC33"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:40487168	31361310	Johansson Å
+rs449454-G	9.00E-14	-	0.6168	1.0427529	-	[1.03-1.05]	NDFIP1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:142153497	31361310	Johansson Å
+rs653178-T	3.00E-14	-	0.5173	1.0423181	-	[1.03-1.05]	ATXN2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	12:111569952	31361310	Johansson Å
+rs10910095-G	4.00E-13	-	0.8659	1.0602206	-	[1.04-1.08]	"TNFRSF14,PRXL2B"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:2579316	31361310	Johansson Å
+rs1940377-G	8.00E-13	-	0.7895	1.0494281	-	[1.04-1.06]	"ETS1,LINC02098"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	11:128261371	31361310	Johansson Å
+rs3540-G	2.00E-13	-	0.6767	1.0441684	-	[1.03-1.06]	IQGAP1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	15:90502176	31361310	Johansson Å
+rs4491851-A	1.00E-13	-	0.5336	1.0417751	-	[1.03-1.05]	GLB1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:33042493	31361310	Johansson Å
+rs12440045-C	2.00E-13	-	0.5279	1.0416667	-	[1.03-1.05]	"RTF1,ITPKA"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	15:41490486	31361310	Johansson Å
+rs113048054-A	4.00E-12	-	0.93413	1.080497	-	[1.06-1.1]	"LINC01063,FBXO45"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:196616946	31361310	Johansson Å
+rs2689282-C	5.00E-12	-	0.5203	1.0383137	-	[1.03-1.05]	SLC15A2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:121918956	31361310	Johansson Å
+rs9494883-A	1.00E-11	-	0.96875	1.1149515	-	[1.08-1.15]	WAKMAR2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	6:137850329	31361310	Johansson Å
+rs6011033-G	1.00E-11	-	0.7682	1.0454783	-	[1.03-1.06]	"RTEL1,RTEL1-TNFRSF6B"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	20:63691346	31361310	Johansson Å
+rs2139049-G	2.00E-11	-	0.5012	1.0373445	-	[1.03-1.05]	PLCL1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:198022936	31361310	Johansson Å
+rs34210653-G	2.00E-10	-	0.97875	1.1309658	-	[1.09-1.17]	ALOX15	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	17:4632019	31361310	Johansson Å
+rs16858573-T	2.00E-10	-	0.8752	1.0546298	-	[1.04-1.07]	ARHGAP15	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:143118156	31361310	Johansson Å
+rs11685995-C	2.00E-10	-	0.758	1.0415581	-	[1.03-1.05]	"CCL20,TDGF1P2"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:227857292	31361310	Johansson Å
+rs61192126-T	9.00E-10	-	0.709	1.0379905	-	[1.03-1.05]	"RYBP,LINC00877"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:72345701	31361310	Johansson Å
+rs7240948-C	3.00E-10	-	0.6013	1.03584	-	[1.03-1.05]	STARD6	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	18:54338086	31361310	Johansson Å
+rs6021268-T	2.00E-09	-	0.93884	1.0715816	-	[1.05-1.1]	NFATC2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	20:51524602	31361310	Johansson Å
+rs59183580-A	2.00E-09	-	0.8707	1.0503098	-	[1.03-1.07]	"FAM76B,LNCRNA-IUR"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	11:95692306	31361310	Johansson Å
+rs12365699-G	1.00E-09	-	0.8349	1.0459157	-	[1.03-1.06]	"CXCR5,Y_RNA"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	11:118872577	31361310	Johansson Å
+rs12623041-C	1.00E-09	-	0.6802	1.0364842	-	[1.03-1.05]	"SOCAR,MIR4435-2HG"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:111505565	31361310	Johansson Å
+rs1143633-C	1.00E-09	-	0.6486	1.0362694	-	[1.03-1.05]	IL1B	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:112832890	31361310	Johansson Å
+rs230504-C	2.00E-09	-	0.6437	1.0349823	-	[1.02-1.05]	NFKB1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	4:102560404	31361310	Johansson Å
+rs8086340-G	7.00E-09	-	0.5355	1.032418	-	[1.02-1.04]	TNFRSF11A	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	18:62339745	31361310	Johansson Å
+rs697852-?	7.00E-08	-	NR	1.0416667	-	NR	ITPKB	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:226727033	31361310	Johansson Å
+rs3787184-?	8.00E-08	-	NR	1.0386373	-	NR	NFATC2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	20:51541298	31361310	Johansson Å
+rs2013724-?	1.00E-08	-	NR	-	-	NR	"RPLP0P3,PSMA6"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	14:35387142	31361310	Johansson Å
+rs1057258-?	3.00E-07	-	NR	1.0309278	-	NR	INPP5D	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:233206983	31361310	Johansson Å
+rs13088318-?	9.00E-06	-	NR	1.0204082	-	NR	"TRMT10C,FAM172BP"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:101523907	31361310	Johansson Å
+rs45599938-A	1.00E-29	-	0.3341	1.067	-	[1.056-1.079]	"IL21,IL2"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	4:122465565	31361310	Johansson Å
+rs77665773-T	3.00E-10	-	0.05889	1.075	-	[1.052-1.099]	"OTULIN,ANKH"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:14700894	31361310	Johansson Å
+rs72743461-A	5.00E-37	-	0.237	1.084	-	[1.071-1.097]	SMAD3	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	15:67149412	31361310	Johansson Å
+rs981625-G	3.00E-14	-	0.06511	1.086	-	[1.064-1.109]	LINC00393	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	13:73465798	31361310	Johansson Å
+rs144829310-T	2.00E-37	-	0.1623	1.098	-	[1.083-1.113]	"IL33,GTF3AP1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	9:6208030	31361310	Johansson Å
+rs61839660-T	3.00E-28	-	0.09897	1.104	-	[1.085-1.123]	IL2RA	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	10:6052734	31361310	Johansson Å
+rs7936312-T	1.00E-77	-	0.4769	1.107	-	[1.095-1.118]	"EMSY,LINC02757"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	11:76582682	31361310	Johansson Å
+rs12122629-C	1.00E-24	-	0.04184	1.146	-	[1.118-1.176]	"TCHHL1,TCHH"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:152101640	31361310	Johansson Å
+rs112401631-A	2.00E-40	-	0.01884	1.295	-	[1.248-1.343]	"SMARCE1,CCR7"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	17:40608272	31361310	Johansson Å
+rs72823641-T	1.00E-78	-	0.8633	1.1645511	-	[1.15-1.18]	"IL1RL1,IL18R1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:102319699	31361310	Johansson Å
+rs28407950-C	7.00E-70	-	0.7564	1.1201972	-	[1.11-1.13]	"HLA-DQA1,HLA-DQB1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	6:32658571	31361310	Johansson Å
+rs28690449-C	2.00E-64	-	0.7986	1.1238481	-	[1.11-1.14]	"TLR10,TLR1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	4:38787511	31361310	Johansson Å
+rs1438673-C	7.00E-62	-	0.5166	1.0948106	-	[1.08-1.11]	"WDR36,RPS3AP21"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:111131801	31361310	Johansson Å
+rs34290285-G	6.00E-58	-	0.7452	1.1064395	-	[1.09-1.12]	D2HGDH	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:241759225	31361310	Johansson Å
+rs12935657-G	6.00E-45	-	0.7558	1.0945709	-	[1.08-1.11]	CLEC16A	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	16:11125184	31361310	Johansson Å
+rs6881270-C	3.00E-44	-	0.7254	1.0895619	-	[1.08-1.1]	IL7R	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:35878993	31361310	Johansson Å
+rs1775553-C	1.00E-31	-	0.5768	1.0666666	-	[1.06-1.08]	"LINC00709,LINC02676"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	10:9012362	31361310	Johansson Å
+rs3024971-T	5.00E-30	-	0.893	1.1072971	-	[1.09-1.13]	STAT6	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	12:57099944	31361310	Johansson Å
+rs891058-G	3.00E-29	-	0.7053	1.069862	-	[1.06-1.08]	LINC00299	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	2:8302417	31361310	Johansson Å
+rs117710327-C	3.00E-25	-	0.93779	1.1282861	-	[1.1-1.15]	"SLC7A10,CEBPA"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	19:33235672	31361310	Johansson Å
+rs1214598-G	8.00E-25	-	0.6147	1.0596588	-	[1.05-1.07]	CD247	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:167457187	31361310	Johansson Å
+rs10519068-G	3.00E-24	-	0.8722	1.0874293	-	[1.07-1.1]	RORA	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	15:60776505	31361310	Johansson Å
+rs905670-G	8.00E-23	-	0.648	1.0577533	-	[1.05-1.07]	BACH2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	6:90248783	31361310	Johansson Å
+rs11213941-T	3.00E-18	-	0.7096	1.0538518	-	[1.04-1.07]	"SIK2,LAYN"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	11:111563369	31361310	Johansson Å
+rs2961920-A	3.00E-17	-	0.7653	1.0559661	-	[1.04-1.07]	MIR3142HG	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:160484499	31361310	Johansson Å
+rs6446685-A	1.00E-09	-	0.3759	1.035	-	[1.024-1.046]	STX18-AS1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	4:4764538	31361310	Johansson Å
+rs10883723-C	1.00E-09	-	0.3586	1.035	-	[1.024-1.046]	"MFSD13A,ACTR1A"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	10:102466075	31361310	Johansson Å
+rs10995245-A	2.00E-09	-	0.3471	1.035	-	[1.024-1.046]	LINC02929	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	10:62631615	31361310	Johansson Å
+rs7953139-C	8.00E-11	-	0.4797	1.036	-	[1.025-1.046]	LRRC43	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	12:122177994	31361310	Johansson Å
+rs10468514-G	6.00E-11	-	0.3984	1.037	-	[1.026-1.047]	"ARHGAP27,RNA5SP443"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	17:45378874	31361310	Johansson Å
+rs2393717-G	8.00E-12	-	0.4697	1.038	-	[1.027-1.048]	SPPL3	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	12:120782572	31361310	Johansson Å
+rs3813308-G	1.00E-11	-	0.4352	1.038	-	[1.028-1.049]	TNFAIP8	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:119355086	31361310	Johansson Å
+rs2228145-C	1.00E-12	-	0.4108	1.04	-	[1.03-1.051]	IL6R	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:154454494	31361310	Johansson Å
+rs12165508-T	2.00E-09	-	0.2045	1.041	-	[1.028-1.054]	"TOB2,TEF"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	22:41423956	31361310	Johansson Å
+rs2070901-T	6.00E-12	-	0.2699	1.043	-	[1.031-1.056]	FCER1G	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:161215268	31361310	Johansson Å
+rs2190097-C	3.00E-11	-	0.2417	1.043	-	[1.031-1.056]	GSAP	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	7:77409628	31361310	Johansson Å
+rs3933376-A	9.00E-10	-	0.1868	1.044	-	[1.031-1.058]	PTPRK	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	6:127970926	31361310	Johansson Å
+rs10912564-T	1.00E-13	-	0.3047	1.045	-	[1.033-1.057]	TNFSF4	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	1:173201479	31361310	Johansson Å
+rs13277355-A	6.00E-13	-	0.2728	1.045	-	[1.033-1.057]	"MYC,PVT1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	8:127765473	31361310	Johansson Å
+rs1950897-C	3.00E-13	-	0.2869	1.045	-	[1.033-1.057]	RAD51B	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	14:68293424	31361310	Johansson Å
+rs6473228-G	2.00E-15	-	0.3652	1.046	-	[1.035-1.057]	"RPL13AP18,RNU6-1213P"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	8:80387531	31361310	Johansson Å
+rs9549238-A	1.00E-11	-	0.2128	1.046	-	[1.033-1.059]	FOXO1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	13:40605184	31361310	Johansson Å
+rs12952581-A	5.00E-16	-	0.3627	1.047	-	[1.036-1.059]	"PHB1,ZNF652-AS1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	17:49370984	31361310	Johansson Å
+rs9290877-C	2.00E-15	-	0.3016	1.048	-	[1.036-1.059]	LPP	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:188724692	31361310	Johansson Å
+rs7650683-C	2.00E-15	-	0.2994	1.048	-	[1.036-1.06]	LPP	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:188727995	31361310	Johansson Å
+rs12887759-A	1.00E-12	-	0.2176	1.048	-	[1.035-1.061]	"TRAF3,RCOR1"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	14:102772514	31361310	Johansson Å
+rs8126516-A	1.00E-09	-	0.1445	1.048	-	[1.033-1.063]	RUNX1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	21:35080321	31361310	Johansson Å
+rs10244416-C	2.00E-20	-	0.4879	1.052	-	[1.041-1.063]	"EEF1A1P27,ITGB8"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	7:20536128	31361310	Johansson Å
+rs4722758-G	2.00E-16	-	0.1992	1.057	-	[1.043-1.07]	JAZF1	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	7:28116987	31361310	Johansson Å
+rs1295685-A	3.00E-19	-	0.1796	1.065	-	[1.051-1.079]	"IL13,TH2LCRR"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:132660753	31361310	Johansson Å
+rs13153019-C	3.00E-06	-	NR	1.029	-	NR	"RGS14,LMAN2"	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	5:177355217	31361310	Johansson Å
+rs16922576-C	1.00E-07	-	NR	1.032	-	NR	JAK2	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	9:5064193	31361310	Johansson Å
+rs7632381-C	3.00E-10	-	0.4475	1.035	-	[1.024-1.046]	ZBTB38	"Allergic disease (asthma, hay fever or eczema)"	"asthma,Eczematoid dermatitis,allergic rhinitis"	-	GCST009716	3:141387221	31361310	Johansson Å
+rs1044573-A	1.00E-06	-	0.51	1.15	-	[1.09-1.21]	ENTPD6	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	20:25226018	22036096	Ramasamy A
+rs6898653-G	1.00E-06	-	0.22	1.23	-	[1.13-1.34]	"RPS17P2,SEMA6A-AS2"	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	5:116639960	22036096	Ramasamy A
+rs887864-A	1.00E-06	-	0.63	1.16	-	[1.09-1.23]	CLEC16A	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	16:11065028	22036096	Ramasamy A
+rs2155219-T	4.00E-08	-	0.47	1.17	-	[1.11-1.24]	"EMSY,LINC02757"	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	11:76588150	22036096	Ramasamy A
+rs17513503-G	7.00E-07	-	0.09	1.28	-	[1.16-1.41]	"SLC25A46,BCLAF1P1"	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	5:110810746	22036096	Ramasamy A
+rs216518-A	2.00E-06	-	0.15	1.21	-	[1.12-1.31]	"RPL17P2,PPM1A"	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	14:60216712	22036096	Ramasamy A
+rs6586513-C	4.00E-06	-	0.29	1.24	-	[1.13-1.36]	CROCC	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	1:16889836	22036096	Ramasamy A
+rs1898671-T	5.00E-06	-	0.35	1.15	-	[1.08-1.22]	TSLP	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	5:111072304	22036096	Ramasamy A
+rs4724100-C	2.00E-06	-	0.45	1.14	-	[1.08-1.21]	GLI3	Allergic rhinitis	seasonal allergic rhinitis	-	GCST001310	7:42225080	22036096	Ramasamy A
+rs868688-?	7.00E-07	(AA)	NR	1.89	-	[1.28-3.57]	PRDM16	Allergic rhinitis	allergic rhinitis	-	GCST002550	1:3384243	25085501	Bunyavanich S
+rs2149039-?	7.00E-07	(Latino)	NR	1.56	-	[1.22-2.17]	BSND	Allergic rhinitis	allergic rhinitis	-	GCST002550	1:55014701	25085501	Bunyavanich S
+rs11680788-?	4.00E-08	(Latino)	NR	2.13	-	[1.35-5.26]	LINC00486	Allergic rhinitis	allergic rhinitis	-	GCST002550	2:32834029	25085501	Bunyavanich S
+rs11680788-?	8.00E-07	-	NR	1.72	-	[1.39-2.13]	LINC00486	Allergic rhinitis	allergic rhinitis	-	GCST002550	2:32834029	25085501	Bunyavanich S
+rs6583203-?	1.00E-08	(Latino)	NR	1.65	-	[1.48-1.83]	"DLG1-AS1,LINC02012"	Allergic rhinitis	allergic rhinitis	-	GCST002550	3:197352715	25085501	Bunyavanich S
+rs4713039-?	6.00E-07	(Latino)	NR	1.57	-	[1.39-1.75]	SYCP2L	Allergic rhinitis	allergic rhinitis	-	GCST002550	6:10906023	25085501	Bunyavanich S
+rs6583337-?	1.00E-07	(AA)	NR	2.17	-	[1.33-5.56]	"LINC03015,FAM157D"	Allergic rhinitis	allergic rhinitis	-	GCST002550	7:40483	25085501	Bunyavanich S
+rs7780001-?	2.00E-08	-	NR	1.37	-	[1.19-1.61]	"FERD3L,POLR1F"	Allergic rhinitis	allergic rhinitis	-	GCST002550	7:19438358	25085501	Bunyavanich S
+rs10156309-?	3.00E-07	(EA)	NR	3.23	-	[1.33-]	NKAIN3	Allergic rhinitis	allergic rhinitis	-	GCST002550	8:62520233	25085501	Bunyavanich S
+rs10124907-?	6.00E-07	(Latino)	NR	1.43	-	[1.19-1.75]	"RN7SKP120,TUSC1"	Allergic rhinitis	allergic rhinitis	-	GCST002550	9:25659639	25085501	Bunyavanich S
+rs1332366-?	1.00E-06	(AA)	NR	2	-	[1.28-4.55]	"OTX2P1,RNU6-1228P"	Allergic rhinitis	allergic rhinitis	-	GCST002550	9:75217659	25085501	Bunyavanich S
+rs2472448-?	8.00E-07	(Latino)	NR	1.82	-	[1.27-3.13]	ABCA1	Allergic rhinitis	allergic rhinitis	-	GCST002550	9:104842226	25085501	Bunyavanich S
+rs17133587-?	5.00E-09	(Latino)	NR	1.8	-	[1.61-2.00]	"AKR1E2,LINC00705"	Allergic rhinitis	allergic rhinitis	-	GCST002550	10:4766883	25085501	Bunyavanich S
+rs17133587-?	1.00E-06	-	NR	1.45	-	[1.25-1.69]	"AKR1E2,LINC00705"	Allergic rhinitis	allergic rhinitis	-	GCST002550	10:4766883	25085501	Bunyavanich S
+rs11027293-?	7.00E-07	(Latino)	NR	3.38	-	[2.90-3.86]	"LINC02726,THAP12P4"	Allergic rhinitis	allergic rhinitis	-	GCST002550	11:23530907	25085501	Bunyavanich S
+rs11027293-?	7.00E-06	-	NR	2.1	-	[1.52-2.91]	"LINC02726,THAP12P4"	Allergic rhinitis	allergic rhinitis	-	GCST002550	11:23530907	25085501	Bunyavanich S
+rs1893361-?	7.00E-07	(Latino)	NR	1.66	-	[1.46-1.86]	"RN7SKP297,CHRDL2"	Allergic rhinitis	allergic rhinitis	-	GCST002550	11:74688380	25085501	Bunyavanich S
+rs2884670-?	2.00E-07	-	NR	1.28	-	[1.19-1.37]	DYRK4	Allergic rhinitis	allergic rhinitis	-	GCST002550	12:4566052	25085501	Bunyavanich S
+rs1352323-?	7.00E-07	(Latino)	NR	1.47	-	[1.32-1.63]	ST8SIA2	Allergic rhinitis	allergic rhinitis	-	GCST002550	15:92452411	25085501	Bunyavanich S
+rs1352323-?	1.00E-07	-	NR	1.33	-	[1.23-1.44]	ST8SIA2	Allergic rhinitis	allergic rhinitis	-	GCST002550	15:92452411	25085501	Bunyavanich S
+rs12597084-?	5.00E-07	(Latino)	NR	1.43	-	[1.19-1.82]	RBFOX1	Allergic rhinitis	allergic rhinitis	-	GCST002550	16:5769619	25085501	Bunyavanich S
+rs7187423-?	6.00E-07	(AA)	NR	2.02	-	[1.75-2.30]	FTO	Allergic rhinitis	allergic rhinitis	-	GCST002550	16:54056583	25085501	Bunyavanich S
+rs2061-?	9.00E-07	-	NR	2.04	-	[1.3-4.76]	"CDRT8,PMP22"	Allergic rhinitis	allergic rhinitis	-	GCST002550	17:15157487	25085501	Bunyavanich S
+rs7237244-?	4.00E-07	-	NR	1.72	-	[1.39-2.13]	LAMA3	Allergic rhinitis	allergic rhinitis	-	GCST002550	18:23850780	25085501	Bunyavanich S
+rs12973620-?	5.00E-08	(Latino)	NR	1.56	-	[1.40-1.72]	"ZNF671,ZNF776"	Allergic rhinitis	allergic rhinitis	-	GCST002550	19:57738275	25085501	Bunyavanich S
+rs7287939-?	4.00E-07	(Latino)	NR	2.19	-	[1.89-2.50]	"RBX1,Y_RNA"	Allergic rhinitis	allergic rhinitis	-	GCST002550	22:41000349	25085501	Bunyavanich S
+rs34004019-A	1.00E-30	-	0.7331	1.1235955	-	[1.11-1.15]	"HLA-DQA1,HLA-DQB1"	Allergic rhinitis	allergic rhinitis	-	GCST006409	6:32658626	30013184	Waage J
+rs950881-G	2.00E-30	-	0.8525	1.1363636	-	[1.11-1.15]	"IL18R1,IL1RL1"	Allergic rhinitis	allergic rhinitis	-	GCST006409	2:102316052	30013184	Waage J
+rs5743618-C	4.00E-27	-	0.7283	1.1111112	-	[1.09-1.12]	TLR1	Allergic rhinitis	allergic rhinitis	-	GCST006409	4:38797027	30013184	Waage J
+rs1438673-C	3.00E-26	-	0.4962	1.08	-	[1.07-1.10]	"WDR36,RPS3AP21"	Allergic rhinitis	allergic rhinitis	-	GCST006409	5:111131801	30013184	Waage J
+rs7936323-A	7.00E-24	-	0.4806	1.08	-	[1.06-1.09]	"EMSY,LINC02757"	Allergic rhinitis	allergic rhinitis	-	GCST006409	11:76582714	30013184	Waage J
+rs2428494-A	7.00E-19	-	0.4226	1.08	-	[1.06-1.09]	HLA-B	Allergic rhinitis	allergic rhinitis	-	GCST006409	6:31354420	30013184	Waage J
+rs11644510-C	2.00E-17	-	0.6291	1.0752687	-	[1.05-1.09]	"HNRNPCP4,CLEC16A"	Allergic rhinitis	allergic rhinitis	-	GCST006409	16:11183501	30013184	Waage J
+rs12939457-T	2.00E-17	-	0.5594	1.0638298	-	[1.05-1.09]	ZPBP2	Allergic rhinitis	allergic rhinitis	-	GCST006409	17:39875935	30013184	Waage J
+rs148505069-G	3.00E-15	-	0.333	1.07	-	[1.05-1.08]	"IL21,IL2"	Allergic rhinitis	allergic rhinitis	-	GCST006409	4:122496409	30013184	Waage J
+rs13395467-A	1.00E-14	-	0.7176	1.0638298	-	[1.05-1.09]	LINC00299	Allergic rhinitis	allergic rhinitis	-	GCST006409	2:8311368	30013184	Waage J
+rs9775039-A	2.00E-14	-	0.1642	1.08	-	[1.06-1.10]	"GTF3AP1,RANBP6"	Allergic rhinitis	allergic rhinitis	-	GCST006409	9:6177453	30013184	Waage J
+rs2164068-T	4.00E-14	-	0.5087	1.0638298	-	[1.04-1.08]	PLCL1	Allergic rhinitis	allergic rhinitis	-	GCST006409	2:198079128	30013184	Waage J
+rs2030519-G	2.00E-13	-	0.4869	1.06	-	[1.04-1.07]	LPP	Allergic rhinitis	allergic rhinitis	-	GCST006409	3:188402113	30013184	Waage J
+rs11256017-T	3.00E-12	-	0.1823	1.07	-	[1.05-1.09]	"LINC00709,LINC02676"	Allergic rhinitis	allergic rhinitis	-	GCST006409	10:9001956	30013184	Waage J
+rs17294280-G	6.00E-12	-	0.2484	1.07	-	[1.05-1.09]	SMAD3	Allergic rhinitis	allergic rhinitis	-	GCST006409	15:67175947	30013184	Waage J
+rs7824993-A	2.00E-10	-	0.3718	1.05	-	[1.04-1.07]	"RNU6-1213P,RPL13AP18"	Allergic rhinitis	allergic rhinitis	-	GCST006409	8:80350661	30013184	Waage J
+rs9282864-A	5.00E-10	-	0.6723	1.0638298	-	[1.04-1.08]	SULT1A1	Allergic rhinitis	allergic rhinitis	-	GCST006409	16:28605987	30013184	Waage J
+rs9687749-T	2.00E-09	-	0.4405	1.06	-	[1.04-1.09]	RAD50	Allergic rhinitis	allergic rhinitis	-	GCST006409	5:132619885	30013184	Waage J
+rs61977073-G	6.00E-09	-	0.2228	1.06	-	[1.04-1.08]	TTC6	Allergic rhinitis	allergic rhinitis	-	GCST006409	14:37682050	30013184	Waage J
+rs6470578-T	4.00E-08	-	0.2818	1.05	-	[1.03-1.07]	PVT1	Allergic rhinitis	allergic rhinitis	-	GCST006409	8:127797311	30013184	Waage J
+rs3787184-A	5.00E-08	-	0.8124	1.0638298	-	[1.04-1.08]	NFATC2	Allergic rhinitis	allergic rhinitis	-	GCST006409	20:51541298	30013184	Waage J
+rs7717955-C	4.00E-32	-	0.7333	1.0638298	-	[1.05-1.08]	IL7R	Allergic rhinitis	allergic rhinitis	-	GCST006409	5:35862739	30013184	Waage J
+rs63406760-?	3.00E-24	-	NR	1.0638298	-	[1.05-1.08]	CDK2AP1	Allergic rhinitis	allergic rhinitis	-	GCST006409	12:123258146	30013184	Waage J
+rs1504215-G	2.00E-18	-	0.6575	1.0526316	-	[1.04-1.06]	BACH2	Allergic rhinitis	allergic rhinitis	-	GCST006409	6:90296508	30013184	Waage J
+rs28361986-T	2.00E-23	-	0.8022	1.0638298	-	[1.05-1.09]	"COX7CP3,SETP16"	Allergic rhinitis	allergic rhinitis	-	GCST006409	11:118822452	30013184	Waage J
+rs2070902-T	6.00E-19	-	0.2524	1.05	-	[1.04-1.06]	FCER1G	Allergic rhinitis	allergic rhinitis	-	GCST006409	1:161217875	30013184	Waage J
+rs111371454-G	1.00E-14	-	0.2064	1.05	-	[1.03-1.06]	RTF1	Allergic rhinitis	allergic rhinitis	-	GCST006409	15:41468419	30013184	Waage J
+rs12509403-C	1.00E-15	-	0.6785	1.0416667	-	[1.03-1.05]	NFKB1	Allergic rhinitis	allergic rhinitis	-	GCST006409	4:102604193	30013184	Waage J
+rs9648346-G	3.00E-14	-	0.2158	1.05	-	[1.03-1.06]	JAZF1	Allergic rhinitis	allergic rhinitis	-	GCST006409	7:28120494	30013184	Waage J
+rs35350651-C	6.00E-14	-	0.4945	1.04	-	[1.03-1.05]	-	Allergic rhinitis	allergic rhinitis	-	GCST006409	-	30013184	Waage J
+rs2519093-T	3.00E-16	-	0.1957	1.05	-	[1.04-1.07]	ABO	Allergic rhinitis	allergic rhinitis	-	GCST006409	9:133266456	30013184	Waage J
+rs62257549-G	2.00E-13	-	0.7989	1.0526316	-	[1.03-1.06]	DCAF1	Allergic rhinitis	allergic rhinitis	-	GCST006409	3:51488660	30013184	Waage J
+rs11677002-T	7.00E-13	-	0.5486	1.0309278	-	[1.03-1.04]	FOSL2-AS1	Allergic rhinitis	allergic rhinitis	-	GCST006409	2:28391534	30013184	Waage J
+rs35597970-?	5.00E-18	-	NR	1.04	-	[1.03-1.05]	"MFSD13A,ACTR1A"	Allergic rhinitis	allergic rhinitis	-	GCST006409	10:102469301	30013184	Waage J
+rs2815765-C	9.00E-15	-	0.6344	1.0416667	-	[1.03-1.05]	"NEGR1,RPL31P12"	Allergic rhinitis	allergic rhinitis	-	GCST006409	1:72286547	30013184	Waage J
+rs11671925-G	6.00E-13	-	0.8255	1.0526316	-	[1.04-1.06]	"CEBPA,SLC7A10"	Allergic rhinitis	allergic rhinitis	-	GCST006409	19:33227147	30013184	Waage J
+rs2461475-C	4.00E-11	-	0.4727	1.03	-	[1.02-1.04]	SPPL3	Allergic rhinitis	allergic rhinitis	-	GCST006409	12:120852371	30013184	Waage J
+rs6738964-T	2.00E-10	-	0.7618	1.0416667	-	[1.03-1.05]	DAW1	Allergic rhinitis	allergic rhinitis	-	GCST006409	2:227874419	30013184	Waage J
+rs10519067-?	6.00E-13	-	NR	1.0752687	-	[1.05-1.09]	RORA	Allergic rhinitis	allergic rhinitis	-	GCST006409	15:60776148	30013184	Waage J
+rs138050288-?	7.00E-12	-	NR	1.04	-	[1.03-1.05]	RERE	Allergic rhinitis	allergic rhinitis	-	GCST006409	1:8400188	30013184	Waage J
+rs7328203-G	1.00E-10	-	0.4606	1.03	-	[1.02-1.04]	LINC02341	Allergic rhinitis	allergic rhinitis	-	GCST006409	13:42414410	30013184	Waage J
+rs11169225-A	5.00E-10	-	0.1924	1.04	-	[1.03-1.05]	"AQP5-AS1,AQP2"	Allergic rhinitis	allergic rhinitis	-	GCST006409	12:49951888	30013184	Waage J
+rs141023293-A	7.00E-07	-	0.0265	1.09	-	[1.06-1.13]	SIK3	Allergic rhinitis	allergic rhinitis	-	GCST006409	11:116902201	30013184	Waage J
+rs201428899-?	5.00E-06	-	NR	1.0309278	-	[1.02-1.04]	MIER1	Allergic rhinitis	allergic rhinitis	-	GCST006409	1:66975990	30013184	Waage J
+rs7728912-C	5.00E-26	-	0.1473	1.175	-	[1.141-1.209]	"BCLAF1P1,SLC25A46"	Allergic rhinitis	allergic rhinitis	-	GCST009719	5:110812772	31361310	Johansson Å
+rs112401631-A	3.00E-17	-	0.01598	1.378	-	[1.283-1.48]	"SMARCE1,CCR7"	Allergic rhinitis	allergic rhinitis	-	GCST009719	17:40608272	31361310	Johansson Å
+rs34210653-G	2.00E-09	-	0.97838	1.2914891	-	[1.19-1.4]	ALOX15	Allergic rhinitis	allergic rhinitis	-	GCST009719	17:4632019	31361310	Johansson Å
+rs72823641-T	2.00E-25	-	0.8651	1.1930327	-	[1.16-1.23]	"IL1RL1,IL18R1"	Allergic rhinitis	allergic rhinitis	-	GCST009719	2:102319699	31361310	Johansson Å
+rs66819621-A	2.00E-25	-	0.8428	1.1799409	-	[1.15-1.22]	TLR1	Allergic rhinitis	allergic rhinitis	-	GCST009719	4:38817782	31361310	Johansson Å
+rs34290285-G	3.00E-24	-	0.7465	1.1422044	-	[1.11-1.17]	D2HGDH	Allergic rhinitis	allergic rhinitis	-	GCST009719	2:241759225	31361310	Johansson Å
+rs34463936-C	8.00E-19	-	0.7201	1.1184431	-	[1.09-1.15]	"SPEF2,IL7R"	Allergic rhinitis	allergic rhinitis	-	GCST009719	5:35850047	31361310	Johansson Å
+rs12935657-G	8.00E-15	-	0.7569	1.1082788	-	[1.08-1.14]	CLEC16A	Allergic rhinitis	allergic rhinitis	-	GCST009719	16:11125184	31361310	Johansson Å
+rs891058-G	3.00E-16	-	0.7057	1.1071745	-	[1.08-1.13]	LINC00299	Allergic rhinitis	allergic rhinitis	-	GCST009719	2:8302417	31361310	Johansson Å
+rs4921290-A	6.00E-11	-	0.7691	1.0915838	-	[1.06-1.12]	MIR3142HG	Allergic rhinitis	allergic rhinitis	-	GCST009719	5:160487233	31361310	Johansson Å
+rs6094570-A	5.00E-11	-	0.7412	1.0893246	-	[1.06-1.12]	EYA2	Allergic rhinitis	allergic rhinitis	-	GCST009719	20:47053702	31361310	Johansson Å
+rs12920150-T	4.00E-09	-	0.7609	1.0813149	-	[1.05-1.11]	"CBLN1,MTND4LP25"	Allergic rhinitis	allergic rhinitis	-	GCST009719	16:49203127	31361310	Johansson Å
+rs962993-C	6.00E-11	-	0.5797	1.0770059	-	[1.05-1.1]	"LINC02676,LINC00709"	Allergic rhinitis	allergic rhinitis	-	GCST009719	10:9011169	31361310	Johansson Å
+rs2988277-C	3.00E-10	-	0.6016	1.0750376	-	[1.05-1.1]	CD247	Allergic rhinitis	allergic rhinitis	-	GCST009719	1:167462115	31361310	Johansson Å
+rs6738825-A	2.00E-10	-	0.502	1.0734221	-	[1.05-1.1]	PLCL1	Allergic rhinitis	allergic rhinitis	-	GCST009719	2:198032171	31361310	Johansson Å
+rs597808-G	2.00E-08	-	0.5183	1.0649627	-	[1.04-1.09]	ATXN2	Allergic rhinitis	allergic rhinitis	-	GCST009719	12:111535554	31361310	Johansson Å
+rs491087-A	2.00E-08	-	0.3366	1.068	-	[1.045-1.092]	"LINC01991,BCL6"	Allergic rhinitis	allergic rhinitis	-	GCST009719	3:187918378	31361310	Johansson Å
+rs2640564-T	1.00E-09	-	0.3439	1.074	-	[1.051-1.098]	"ERBB3,RPS26"	Allergic rhinitis	allergic rhinitis	-	GCST009719	12:56061510	31361310	Johansson Å
+rs1555926-C	2.00E-08	-	0.2054	1.079	-	[1.052-1.107]	ZNF217	Allergic rhinitis	allergic rhinitis	-	GCST009719	20:53568405	31361310	Johansson Å
+rs2070901-T	4.00E-10	-	0.2697	1.081	-	[1.056-1.107]	FCER1G	Allergic rhinitis	allergic rhinitis	-	GCST009719	1:161215268	31361310	Johansson Å
+rs2601191-T	6.00E-12	-	0.4651	1.08	-	[1.057-1.103]	IQGAP1	Allergic rhinitis	allergic rhinitis	-	GCST009719	15:90392993	31361310	Johansson Å
+rs1904522-A	5.00E-15	-	0.3326	1.096	-	[1.072-1.121]	ADAD1	Allergic rhinitis	allergic rhinitis	-	GCST009719	4:122415763	31361310	Johansson Å
+rs17293632-T	9.00E-16	-	0.237	1.109	-	[1.082-1.136]	SMAD3	Allergic rhinitis	allergic rhinitis	-	GCST009719	15:67150258	31361310	Johansson Å
+rs7848215-T	5.00E-18	-	0.255	1.116	-	[1.09-1.143]	"IL33,GTF3AP1"	Allergic rhinitis	allergic rhinitis	-	GCST009719	9:6213468	31361310	Johansson Å
+rs7744020-A	4.00E-25	-	0.3071	1.131	-	[1.106-1.157]	"HLA-DQB1,HLA-DQA1"	Allergic rhinitis	allergic rhinitis	-	GCST009719	6:32658353	31361310	Johansson Å
+rs11236797-A	5.00E-32	-	0.4505	1.141	-	[1.117-1.165]	"EMSY,LINC02757"	Allergic rhinitis	allergic rhinitis	-	GCST009719	11:76588605	31361310	Johansson Å
+rs79180837-A	7.00E-09	-	0.0268	1.209	-	[1.137-1.286]	ITGB8	Allergic rhinitis	allergic rhinitis	-	GCST009719	7:20390052	31361310	Johansson Å
+rs2160203-G	3.00E-09	-	0.2451931	0.91	-	-	"IL18R1,IL1RL1"	Allergic rhinitis	allergic rhinitis	-	GCST90086042	2:102344364	33893285	Guindo-Martínez M
+rs2399472-T	2.00E-08	-	0.926744	1.17	-	-	"BOC,NEPRO-AS1"	Allergic rhinitis	allergic rhinitis	-	GCST90086042	3:113192768	33893285	Guindo-Martínez M
+rs13166760-T	6.00E-10	-	0.4537935	0.92	-	-	"TSLP,WDR36"	Allergic rhinitis	allergic rhinitis	-	GCST90086042	5:111088885	33893285	Guindo-Martínez M
+rs10112506-G	9.00E-06	-	0.3900828	0.94	-	-	DLC1	Allergic rhinitis	allergic rhinitis	-	GCST90086042	8:13307237	33893285	Guindo-Martínez M
+rs4711207-A	2.00E-08	-	NR	-	0.087 unit decrease	[0.057-0.117]	POLR1HASP	Allergic rhinitis	allergic rhinitis	-	GCST90018792	6:30037977	34594039	Sakaue S
+rs1523643-?	3.00E-07	(AA)	NR	-	-	-	"RN7SL474P,FGF20"	Allergic rhinitis in asthma	allergic rhinitis	asthma	GCST002552	8:16931726	25085501	Bunyavanich S
+rs12520745-?	6.00E-07	(EA)	0.17	2.13	-	[1.3-5.56]	LINC02240	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	5:125252697	25085501	Bunyavanich S
+rs2823053-?	8.00E-07	(EA)	0.18	1.96	-	[1.28-4.35]	"CYCSP42,LINC02920"	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	21:15092828	25085501	Bunyavanich S
+rs17152484-?	4.00E-07	(EA)	0.16	2.17	-	[1.32-6.67]	LINC02240	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	5:125252465	25085501	Bunyavanich S
+rs2606618-T	4.00E-07	-	0.17	1.6	-	[1.33-1.92]	"RNU1-18P,HMGB3P18"	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	6:122095195	25085501	Bunyavanich S
+rs7780001-?	4.00E-07	-	0.13	1.64	-	[1.25-2.44]	"FERD3L,POLR1F"	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	7:19438358	25085501	Bunyavanich S
+rs2823048-?	8.00E-07	(EA)	0.19	1.92	-	[1.28-3.85]	"CYCSP42,LINC02920"	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	21:15089947	25085501	Bunyavanich S
+rs2834629-?	5.00E-07	(AA)	0.12	5.88	-	[1.16-]	LINC01426	Allergic rhinitis in non-asthmatics	allergic rhinitis	-	GCST002551	21:34753521	25085501	Bunyavanich S
+rs566750-?	3.00E-06	-	NR	-	0.67 unit increase	NR	PITX1-AS1	Allergic rhinitis x sex interaction	"sex interaction measurement,allergic rhinitis"	-	GCST008138	5:135149595	29981864	Mohammadnejad A
+rs34004019-?	3.00E-24	-	NR	1.1086475	-	[1.09-1.13]	"HLA-DQA1,HLA-DQB1"	Allergy	allergic disease	-	GCST003990	6:32658626	27182965	Pickrell JK
+rs1438673-?	3.00E-17	-	NR	1.0672358	-	[1.05-1.08]	"WDR36,RPS3AP21"	Allergy	allergic disease	-	GCST003990	5:111131801	27182965	Pickrell JK
+rs11644510-?	2.00E-16	-	NR	1.0706638	-	[1.05-1.09]	"HNRNPCP4,CLEC16A"	Allergy	allergic disease	-	GCST003990	16:11183501	27182965	Pickrell JK
+rs11727978-?	1.00E-15	-	NR	1.083	-	[1.062-1.104]	TLR1	Allergy	allergic disease	-	GCST003990	4:38809430	27182965	Pickrell JK
+rs4795400-?	3.00E-15	-	NR	1.0626993	-	[1.05-1.08]	GSDMB	Allergy	allergic disease	-	GCST003990	17:39910767	27182965	Pickrell JK
+rs7936323-?	1.00E-14	-	NR	1.0604454	-	[1.04-1.08]	"EMSY,LINC02757"	Allergy	allergic disease	-	GCST003990	11:76582714	27182965	Pickrell JK
+rs35061832-?	3.00E-13	-	NR	1.1	-	[1.073-1.129]	D2HGDH	Allergy	allergic disease	-	GCST003990	2:241753075	27182965	Pickrell JK
+rs4908769-?	2.00E-12	-	NR	1.061	-	[1.044-1.079]	RERE	Allergy	allergic disease	-	GCST003990	1:8641229	27182965	Pickrell JK
+rs9739070-?	1.00E-11	-	NR	1.067	-	[1.047-1.087]	"SBNO1,RNA5SP375"	Allergy	allergic disease	-	GCST003990	12:123286485	27182965	Pickrell JK
+rs367023-?	2.00E-11	-	NR	1.0582011	-	[1.04-1.08]	LINC00299	Allergy	allergic disease	-	GCST003990	2:8309993	27182965	Pickrell JK
+rs148505069-?	4.00E-11	-	NR	1.056	-	[1.039-1.073]	"IL21,IL2"	Allergy	allergic disease	-	GCST003990	4:122496409	27182965	Pickrell JK
+rs1775550-?	6.00E-11	-	NR	1.067	-	[1.047-1.088]	"LINC00709,LINC02676"	Allergy	allergic disease	-	GCST003990	10:9010779	27182965	Pickrell JK
+rs10975488-?	8.00E-11	-	NR	1.087	-	[1.060-1.115]	"GTF3AP1,IL33"	Allergy	allergic disease	-	GCST003990	9:6213829	27182965	Pickrell JK
+rs11217036-?	9.00E-11	-	NR	1.0649627	-	[1.04-1.09]	"COX7CP3,DDX6"	Allergy	allergic disease	-	GCST003990	11:118805063	27182965	Pickrell JK
+rs201333164-?	1.00E-10	-	NR	1.062	-	[1.042-1.081]	SUFU	Allergy	allergic disease	-	GCST003990	10:102518505	27182965	Pickrell JK
+rs2164068-?	2.00E-10	-	NR	1.051	-	[1.035-1.067]	PLCL1	Allergy	allergic disease	-	GCST003990	2:198079128	27182965	Pickrell JK
+rs61977073-?	4.00E-10	-	NR	1.061	-	[1.041-1.080]	TTC6	Allergy	allergic disease	-	GCST003990	14:37682050	27182965	Pickrell JK
+rs1295686-?	6.00E-10	-	NR	1.061	-	[1.041-1.080]	"TH2LCRR,IL13"	Allergy	allergic disease	-	GCST003990	5:132660151	27182965	Pickrell JK
+rs2070902-?	1.00E-09	-	NR	1.055	-	[1.037-1.073]	FCER1G	Allergy	allergic disease	-	GCST003990	1:161217875	27182965	Pickrell JK
+rs7824394-?	1.00E-09	-	NR	1.0504202	-	[1.03-1.07]	"RNU6-1213P,RPL13AP18"	Allergy	allergic disease	-	GCST003990	8:80380364	27182965	Pickrell JK
+rs2030519-?	3.00E-08	-	NR	1.043	-	[1.028-1.059]	LPP	Allergy	allergic disease	-	GCST003990	3:188402113	27182965	Pickrell JK
+rs17294280-?	4.00E-08	-	NR	1.053	-	[1.034-1.073]	SMAD3	Allergy	allergic disease	-	GCST003990	15:67175947	27182965	Pickrell JK
+rs2519093-?	4.00E-08	-	NR	1.055	-	[1.035-1.075]	ABO	Allergy	allergic disease	-	GCST003990	9:133266456	27182965	Pickrell JK
+rs28397663-?	4.00E-08	-	NR	1.046	-	[1.029-1.062]	FLJ40194	Allergy	allergic disease	-	GCST003990	17:49250821	27182965	Pickrell JK
+rs1059513-?	6.00E-07	-	NR	-	-	-	STAT6	Allergy	allergic disease	-	GCST003990	12:57095926	27182965	Pickrell JK
+rs950881-?	6.00E-27	-	NR	1.1235955	-	[1.1-1.15]	"IL18R1,IL1RL1"	Allergy	allergic disease	-	GCST003990	2:102316052	27182965	Pickrell JK
+rs9273373-G	4.00E-14	-	0.54	1.24	-	[1.17-1.30]	"HLA-DQB1,HLA-DQA1"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	6:32658824	24388013	Ferreira MA
+rs4833095-T	5.00E-12	-	0.74	1.2	-	[1.14-1.26]	TLR1	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	4:38798089	24388013	Ferreira MA
+rs1438673-C	3.00E-11	-	0.49	1.16	-	[1.11-1.21]	"WDR36,RPS3AP21"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	5:111131801	24388013	Ferreira MA
+rs10197862-A	4.00E-11	-	0.85	1.24	-	[1.16-1.32]	"IL1RL1,IL18R1"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	2:102350089	24388013	Ferreira MA
+rs7212938-G	4.00E-10	-	0.46	1.16	-	[1.11-1.20]	GSDMA	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	17:39966427	24388013	Ferreira MA
+rs1837253-C	1.00E-09	-	0.71	1.17	-	[1.12-1.24]	"TSLP,BCLAF1P1"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	5:111066174	24388013	Ferreira MA
+rs72699186-T	2.00E-09	-	0.15	1.26	-	[1.16-1.35]	"GTF3AP1,RANBP6"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	9:6175855	24388013	Ferreira MA
+rs17294280-G	4.00E-09	-	0.23	1.18	-	[1.11-1.25]	SMAD3	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	15:67175947	24388013	Ferreira MA
+rs7009110-T	4.00E-09	-	0.36	1.14	-	[1.09-1.19]	"RNU6-1213P,RPL13AP18"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	8:80379644	24388013	Ferreira MA
+rs62026376-C	1.00E-08	-	0.72	1.17	-	[1.11-1.24]	CLEC16A	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	16:11134855	24388013	Ferreira MA
+rs3853750-C	2.00E-07	-	NR	1.1533	-	[1.1-1.21]	"SLC25A46,BCLAF1P1"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	5:110818610	24388013	Ferreira MA
+rs11049300-G	3.00E-07	-	NR	1.4144	-	[1.28-1.55]	"PTHLH,CCDC91"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	12:28042192	24388013	Ferreira MA
+rs12450323-T	4.00E-07	-	NR	1.16	-	[1.1-1.22]	IKZF3	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	17:39816455	24388013	Ferreira MA
+rs6982751-G	4.00E-07	-	NR	1.1878	-	[1.12-1.25]	XKR6	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	8:10955964	24388013	Ferreira MA
+rs41295115-C	5.00E-07	-	NR	1.2769	-	[1.18-1.37]	"RPL32P23,RBM17"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	10:6082658	24388013	Ferreira MA
+rs72766477-A	5.00E-07	-	NR	1.3402	-	[1.23-1.45]	"PPIAP79,EDIL3-DT"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	5:84611411	24388013	Ferreira MA
+rs76043829-A	6.00E-07	-	NR	1.2133	-	[1.14-1.29]	TNS1	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	2:217812863	24388013	Ferreira MA
+rs7521681-A	7.00E-07	-	NR	1.1491	-	[1.09-1.2]	VAV3	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	1:107779913	24388013	Ferreira MA
+rs6517368-C	2.00E-06	-	NR	1.1201	-	[1.07-1.17]	"CLDN14,SIM2"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	21:36635645	24388013	Ferreira MA
+rs17605016-G	2.00E-06	-	NR	1.1878	-	[1.12-1.26]	TAFA2	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	12:61856639	24388013	Ferreira MA
+rs343496-T	2.00E-06	-	NR	1.1351	-	[1.08-1.19]	"GTF3AP1,RANBP6"	Asthma and hay fever	"asthma,seasonal allergic rhinitis"	-	GCST002322	9:6068077	24388013	Ferreira MA
+rs4916533-?	2.00E-08	-	NR	1.0752687	-	-	"PIGX,NRROS"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	3:196646711	29785011	Zhu Z
+rs12743520-?	4.00E-08	-	NR	1.0752687	-	-	EVI5	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	1:92571555	29785011	Zhu Z
+rs1017494-?	2.00E-16	-	NR	1.0638298	-	-	"LINC01173,SH3BP4"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	2:234770601	29785011	Zhu Z
+rs1214598-?	5.00E-11	-	NR	1.0526316	-	-	CD247	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	1:167457187	29785011	Zhu Z
+rs659529-?	6.00E-11	-	NR	1.0526316	-	-	"SIK2,LAYN"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	11:111566171	29785011	Zhu Z
+rs3208007-?	3.00E-10	-	NR	1.0526316	-	-	"RTEL1,RTEL1-TNFRSF6B"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	20:63690935	29785011	Zhu Z
+rs301805-?	6.00E-09	-	NR	1.0416667	-	-	RERE	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	1:8420956	29785011	Zhu Z
+rs742230-?	1.00E-08	-	NR	1.0416667	-	-	RUNX3	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	1:24924933	29785011	Zhu Z
+rs10876864-?	1.00E-13	-	NR	1.05	-	-	"SUOX,IKZF4"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	12:56007301	29785011	Zhu Z
+rs56267605-?	3.00E-12	-	NR	1.05	-	-	"IL2,ADAD1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	4:122441954	29785011	Zhu Z
+rs6461503-?	3.00E-10	-	NR	1.05	-	-	"ITGB8,EEF1A1P27"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	7:20521373	29785011	Zhu Z
+rs10795656-?	4.00E-10	-	NR	1.05	-	-	"KRT8P37,CHCHD3P1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	10:8553876	29785011	Zhu Z
+rs8008961-?	1.00E-08	-	NR	1.05	-	-	RAD51B	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	14:68285926	29785011	Zhu Z
+rs270636-?	4.00E-11	-	NR	1.06	-	-	LINC02121	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	5:5074712	29785011	Zhu Z
+rs793607-?	3.00E-28	-	NR	1.08	-	-	PRDM5	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	4:120876022	29785011	Zhu Z
+rs276666-?	8.00E-11	-	NR	1.08	-	-	SPATA31F3	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	9:34889447	29785011	Zhu Z
+rs2169282-?	2.00E-10	-	NR	1.09	-	-	"TPD52L3,UHRF2"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	9:6350235	29785011	Zhu Z
+rs2136016-?	2.00E-09	-	NR	1.09	-	-	"RNU6-1213P,RPL13AP18"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	8:80388446	29785011	Zhu Z
+rs10074523-?	2.00E-10	-	NR	1.1	-	-	KIF3A	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	5:132724891	29785011	Zhu Z
+rs2548992-?	5.00E-10	-	NR	1.1	-	-	"IRF1,IRF1-AS1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	5:132472976	29785011	Zhu Z
+rs869402-?	4.00E-17	-	NR	1.12	-	-	GSDMB	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	17:39911790	29785011	Zhu Z
+rs61839660-?	2.00E-11	-	NR	1.12	-	-	IL2RA	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	10:6052734	29785011	Zhu Z
+rs7705653-?	1.00E-19	-	NR	1.14	-	-	"SLC25A46,BCLAF1P1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	5:110807116	29785011	Zhu Z
+rs61816766-?	5.00E-12	-	NR	1.14	-	-	FLG-AS1	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	1:152347096	29785011	Zhu Z
+rs61815704-?	5.00E-09	-	NR	1.14	-	-	"IVL,LINC01527"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	1:152921415	29785011	Zhu Z
+rs9273374-?	8.00E-35	-	NR	1.1904762	-	-	"HLA-DQA1,HLA-DQB1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	6:32658837	29785011	Zhu Z
+rs72823641-?	2.00E-27	-	NR	1.1235955	-	-	"IL1RL1,IL18R1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	2:102319699	29785011	Zhu Z
+rs1241357-?	1.00E-14	-	NR	1.098901	-	-	"MELK,RNF38"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	9:36550486	29785011	Zhu Z
+rs6881270-?	2.00E-14	-	NR	1.098901	-	-	IL7R	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	5:35878993	29785011	Zhu Z
+rs10414065-?	3.00E-10	-	NR	1.098901	-	-	"SLC7A10,CEBPA"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	19:33230549	29785011	Zhu Z
+rs28393318-?	2.00E-19	-	NR	1.0869565	-	-	TLR10	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	4:38782646	29785011	Zhu Z
+rs9911533-?	1.00E-15	-	NR	1.0869565	-	-	"SMARCE1,CCR7"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	17:40619224	29785011	Zhu Z
+rs1059513-?	8.00E-13	-	NR	1.0869565	-	-	STAT6	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	12:57095926	29785011	Zhu Z
+rs36045143-?	2.00E-21	-	NR	1.0752687	-	-	CLEC16A	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	16:11131109	29785011	Zhu Z
+rs1837253-?	4.00E-21	-	NR	1.0752687	-	-	"TSLP,BCLAF1P1"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	5:111066174	29785011	Zhu Z
+rs34290285-?	5.00E-17	-	NR	1.0752687	-	-	D2HGDH	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	2:241759225	29785011	Zhu Z
+rs56062135-?	2.00E-22	-	NR	1.16	-	-	SMAD3	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	15:67163292	29785011	Zhu Z
+rs9775039-?	4.00E-22	-	NR	1.18	-	-	"GTF3AP1,RANBP6"	Asthma or allergic disease (pleiotropy)	"asthma,allergic disease"	-	GCST007564	9:6177453	29785011	Zhu Z
+rs115045402-A	2.00E-15	-	0.028	-	0.123 unit decrease	[0.094-0.152]	"SPTLC1P4,S100A11"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:152057072	32603359	Ferreira MAR
+rs184587444-T	4.00E-12	-	0.02	-	0.125 unit decrease	[0.09-0.16]	"SPRR2B,SPRR2E"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:153079185	32603359	Ferreira MAR
+rs4971089-G	2.00E-08	-	0.488	-	0.023 unit decrease	[0.015-0.031]	KRTCAP2	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:155170451	32603359	Ferreira MAR
+rs78037977-A	2.00E-12	-	0.879	-	0.046 unit decrease	[0.034-0.058]	"FASLG,SLC25A38P1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:172746562	32603359	Ferreira MAR
+rs7521390-C	4.00E-12	-	0.296	-	0.032 unit decrease	[0.022-0.042]	"TNFSF4,GOT2P2"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:173172821	32603359	Ferreira MAR
+rs13398375-T	8.00E-10	-	0.716	-	0.029 unit decrease	[0.019-0.039]	LINC00299	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	2:8311571	32603359	Ferreira MAR
+rs7559046-C	3.00E-13	-	0.537	-	0.031 unit decrease	[0.023-0.039]	"PLB1,FOSL2"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	2:28421803	32603359	Ferreira MAR
+rs10187276-T	5.00E-13	-	0.256	-	0.034 unit decrease	[0.024-0.044]	"SNRPGP8,CCL20"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	2:227805721	32603359	Ferreira MAR
+rs34290285-G	3.00E-13	-	0.757	-	0.036 unit decrease	[0.026-0.046]	D2HGDH	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	2:241759225	32603359	Ferreira MAR
+rs6780858-G	1.00E-13	-	0.524	-	0.031 unit decrease	[0.023-0.039]	LPP	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	3:188414322	32603359	Ferreira MAR
+rs6531663-T	3.00E-38	-	0.808	-	0.067 unit decrease	[0.057-0.077]	TLR1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	4:38790719	32603359	Ferreira MAR
+rs4648052-G	7.00E-09	-	0.633	-	0.025 unit decrease	[0.017-0.033]	NFKB1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	4:102593898	32603359	Ferreira MAR
+rs45613035-C	7.00E-13	-	0.104	-	0.05 unit decrease	[0.036-0.064]	BLTP1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	4:122219915	32603359	Ferreira MAR
+rs45610037-A	5.00E-22	-	0.227	-	0.049 unit decrease	[0.039-0.059]	"IL2,IL21"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	4:122481853	32603359	Ferreira MAR
+rs7728612-T	2.00E-15	-	0.167	-	0.045 unit decrease	[0.033-0.057]	"SLC25A46,BCLAF1P1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	5:110828975	32603359	Ferreira MAR
+rs6594499-C	9.00E-12	-	0.53	-	0.029 unit decrease	[0.021-0.037]	"WDR36,RPS3AP21"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	5:111134439	32603359	Ferreira MAR
+rs4705962-T	2.00E-10	-	0.234	-	0.031 unit decrease	[0.021-0.041]	KIF3A	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	5:132693166	32603359	Ferreira MAR
+rs2854001-A	1.00E-13	-	0.237	-	0.037 unit decrease	[0.027-0.047]	"MIR6891,HLA-B"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	6:31355235	32603359	Ferreira MAR
+rs2523501-C	8.00E-10	-	0.152	-	0.036 unit decrease	[0.024-0.048]	NFKBIL1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	6:31550126	32603359	Ferreira MAR
+rs3129900-G	7.00E-17	-	0.171	-	0.05 unit decrease	[0.038-0.062]	"TSBP1,TSBP1-AS1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	6:32338202	32603359	Ferreira MAR
+rs6905282-A	5.00E-28	-	0.466	-	0.05 unit decrease	[0.04-0.06]	"HLA-DQA1,HLA-DQB1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	6:32658238	32603359	Ferreira MAR
+rs73739621-C	2.00E-10	-	0.096	-	0.05 unit decrease	[0.034-0.066]	HLA-DPA1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	6:33065933	32603359	Ferreira MAR
+rs2085423-A	4.00E-13	-	0.248	-	0.035 unit decrease	[0.025-0.045]	"SPMIP7,IKZF1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	7:50286219	32603359	Ferreira MAR
+rs635634-T	1.00E-08	-	0.189	-	0.031 unit decrease	[0.021-0.041]	"Y_RNA,ABO"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	9:133279427	32603359	Ferreira MAR
+rs12572775-A	8.00E-15	-	0.447	-	0.033 unit decrease	[0.025-0.041]	SUFU	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	10:102525837	32603359	Ferreira MAR
+rs10791824-G	2.00E-16	-	0.575	-	0.035 unit decrease	[0.027-0.043]	OVOL1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	11:65791795	32603359	Ferreira MAR
+rs55646091-A	3.00E-12	-	0.056	-	0.067 unit decrease	[0.047-0.087]	"EMSY,LINC02757"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	11:76588387	32603359	Ferreira MAR
+rs4938576-G	2.00E-11	-	0.592	-	0.028 unit decrease	[0.02-0.036]	"Y_RNA,CXCR5"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	11:118876060	32603359	Ferreira MAR
+rs61907712-C	2.00E-10	-	0.813	-	0.034 unit decrease	[0.024-0.044]	"ETS1,LINC02098"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	11:128291247	32603359	Ferreira MAR
+rs705699-A	6.00E-09	-	0.432	-	0.024 unit decrease	[0.016-0.032]	RAB5B	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	12:55991020	32603359	Ferreira MAR
+rs3024971-T	6.00E-10	-	0.9	-	0.043 unit decrease	[0.029-0.057]	STAT6	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	12:57099944	32603359	Ferreira MAR
+rs597808-G	3.00E-15	-	0.523	-	0.033 unit decrease	[0.025-0.041]	ATXN2	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	12:111535554	32603359	Ferreira MAR
+rs9431-A	4.00E-11	-	0.497	-	0.028 unit decrease	[0.02-0.036]	SPPL3	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	12:120764861	32603359	Ferreira MAR
+rs1853573-G	4.00E-12	-	0.465	-	0.029 unit decrease	[0.021-0.037]	LINC02341	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	13:42460832	32603359	Ferreira MAR
+rs7140939-A	2.00E-10	-	0.403	-	0.027 unit decrease	[0.019-0.035]	RAD51B	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	14:68293810	32603359	Ferreira MAR
+rs56101042-A	3.00E-11	-	0.82	-	0.036 unit decrease	[0.026-0.046]	TRAF3	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	14:102790624	32603359	Ferreira MAR
+rs11071559-C	4.00E-11	-	0.877	-	0.042 unit decrease	[0.03-0.054]	RORA	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	15:60777789	32603359	Ferreira MAR
+rs56062135-T	2.00E-09	-	0.247	-	0.029 unit decrease	[0.019-0.039]	SMAD3	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	15:67163292	32603359	Ferreira MAR
+rs2601191-T	2.00E-11	-	0.473	-	0.028 unit decrease	[0.02-0.036]	IQGAP1	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	15:90392993	32603359	Ferreira MAR
+rs2041733-T	2.00E-13	-	0.447	-	0.031 unit decrease	[0.023-0.039]	CLEC16A	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	16:11135732	32603359	Ferreira MAR
+rs7216890-T	8.00E-15	-	0.654	-	0.034 unit decrease	[0.026-0.042]	"SMARCE1,CCR7"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	17:40600717	32603359	Ferreira MAR
+rs3017289-C	3.00E-10	-	0.289	-	0.029 unit decrease	[0.019-0.039]	"MBD2,POLI"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	18:54254038	32603359	Ferreira MAR
+rs4574025-T	2.00E-14	-	0.54	-	0.032 unit decrease	[0.024-0.04]	TNFRSF11A	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	18:62342581	32603359	Ferreira MAR
+rs12964116-G	5.00E-23	-	0.037	-	0.109 unit decrease	[0.087-0.131]	SERPINB7	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	18:63775385	32603359	Ferreira MAR
+rs2918302-A	5.00E-11	-	0.156	-	0.038 unit decrease	[0.026-0.05]	NFILZ	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	19:8675909	32603359	Ferreira MAR
+rs4809619-G	4.00E-09	-	0.752	-	0.029 unit decrease	[0.019-0.039]	EYA2	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	20:47061144	32603359	Ferreira MAR
+rs11236791-A	2.00E-18	-	0.469	-	0.038 unit decrease	[0.03-0.046]	"LINC02757,EMSY"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	11:76584554	32603359	Ferreira MAR
+rs12123821-T	6.00E-19	-	0.051	-	0.092 unit decrease	[0.072-0.112]	"CCDST,FLG-AS1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:152206676	32603359	Ferreira MAR
+rs61816761-A	5.00E-82	-	0.026	-	0.266 unit decrease	[0.24-0.29]	"FLG,FLG-AS1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	1:152313385	32603359	Ferreira MAR
+rs72823628-G	3.00E-33	-	0.874	-	0.076 unit decrease	[0.064-0.088]	"IL18R1,IL1RL1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	2:102312157	32603359	Ferreira MAR
+rs4795400-C	7.00E-34	-	0.541	-	0.051 unit decrease	[0.043-0.059]	GSDMB	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	17:39910767	32603359	Ferreira MAR
+rs7848215-T	8.00E-10	-	0.273	-	0.029 unit decrease	[0.019-0.039]	"IL33,GTF3AP1"	"asthma, hay fever and/or eczema"	allergic disease	-	GCST010984	9:6213468	32603359	Ferreira MAR
+rs72702813-T	1.00E-33	-	0.04056	2.06	-	[1.83–2.31]	"LCE3A,LCEP4"	Atopic dermatitis	atopic eczema	-	GCST010090	1:152628378	23727859	Ellinghaus D
+rs759382-C	6.00E-11	-	0.2454	1.22	-	[1.15–1.29]	SLC9A4	Atopic dermatitis	atopic eczema	-	GCST010090	2:102477754	23727859	Ellinghaus D
+rs848-T	8.00E-28	-	0.2067	1.4	-	[1.32–1.49]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST010090	5:132660808	23727859	Ellinghaus D
+rs7110818-A	3.00E-16	-	0.4392	1.28	-	[1.21–1.36]	"EMSY,LINC02757"	Atopic dermatitis	atopic eczema	-	GCST010090	11:76581531	23727859	Ellinghaus D
+rs909341-G	8.00E-17	-	0.774	1.2987013	-	-	"RTEL1-TNFRSF6B,TNFRSF6B"	Atopic dermatitis	atopic eczema	-	GCST010090	20:63697389	23727859	Ellinghaus D
+rs17389644-A	1.00E-08	-	0.2396	1.19	-	[1.12–1.26]	"IL21,IL2"	Atopic dermatitis	atopic eczema	-	GCST010090	4:122576542	23727859	Ellinghaus D
+rs12295535-A	8.00E-13	-	0.02376	1.68	-	[1.46–1.93]	PRR5L	Atopic dermatitis	atopic eczema	-	GCST010090	11:36410474	23727859	Ellinghaus D
+rs2041733-A	3.00E-15	-	0.4528	1.23	-	[1.17–1.29]	CLEC16A	Atopic dermatitis	atopic eczema	-	GCST010090	16:11135732	23727859	Ellinghaus D
+rs16948048-G	3.00E-09	-	0.3848	1.17	-	[1.11–1.23]	ZNF652-AS1	Atopic dermatitis	atopic eczema	-	GCST010090	17:49363104	23727859	Ellinghaus D
+rs78914480-A	8.00E-11	-	0.014657419	2.400272	-	[1.843869165-3.124573471]	S100A11	Atopic dermatitis	atopic eczema	-	GCST90013680	1:152033551	32514122	Ishigaki K
+rs10995256-T	1.00E-10	-	0.481433715	0.8158572	-	[0.766719863-0.868143594]	LINC02929	Atopic dermatitis	atopic eczema	-	GCST90013680	10:62642674	32514122	Ishigaki K
+rs59039403-A	1.00E-25	-	0.134053597	0.594037	-	[0.538764127-0.654980409]	NLRP10	Atopic dermatitis	atopic eczema	-	GCST90013680	11:7960885	32514122	Ishigaki K
+rs397776771-AT	1.00E-16	-	0.553206069	0.7628647	-	[0.715638576-0.813207335]	-	Atopic dermatitis	atopic eczema	-	GCST90013680	-	32514122	Ishigaki K
+rs75024669-C	2.00E-12	-	0.328563499	1.2705826	-	[1.188956631-1.357812297]	"CCDC80,MAT2AP1"	Atopic dermatitis	atopic eczema	-	GCST90013680	3:112675182	32514122	Ishigaki K
+rs79497729-G	2.00E-11	-	0.446180104	1.2465895	-	[1.169118136-1.329194619]	GLB1	Atopic dermatitis	atopic eczema	-	GCST90013680	3:33043419	32514122	Ishigaki K
+rs1295686-C	1.00E-09	-	0.694974117	0.8133829	-	[0.760806418-0.869592786]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST90013680	5:132660151	32514122	Ishigaki K
+rs3126085-A	6.00E-12	-	0.58	1.22	-	[NR]	FLG-AS1	Atopic dermatitis	atopic eczema	-	GCST001106	1:152328341	21666691	Sun LD
+rs6661961-T	9.00E-11	-	NR	-	0.338 unit increase	[0.24-0.44]	"FLG-AS1,LCE5A"	Atopic dermatitis	atopic eczema	-	GCST002100	1:152469813	23886662	Weidinger S
+rs1295686-A	2.00E-17	-	NR	1.383	-	[1.283-1.49]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST002100	5:132660151	23886662	Weidinger S
+rs12153855-T	3.00E-14	-	NR	1.581	-	[1.405-1.779]	TNXB	Atopic dermatitis	atopic eczema	-	GCST002100	6:32107027	23886662	Weidinger S
+rs7130588-G	4.00E-13	-	NR	1.29	-	[1.2-1.38]	"EMSY,LINC02757"	Atopic dermatitis	atopic eczema	-	GCST002100	11:76559639	23886662	Weidinger S
+rs12144049-C	1.00E-16	-	0.279	1.39	-	[NR]	"LCE5A,FLG-AS1"	Atopic dermatitis	atopic eczema	-	GCST002844	1:152468434	25865352	Schaarschmidt H
+rs6720763-C	4.00E-08	-	0.18	1.29	-	[NR]	"XIRP2-AS1,XIRP2"	Atopic dermatitis	atopic eczema	-	GCST002844	2:167135776	25865352	Schaarschmidt H
+rs3091307-A	4.00E-07	-	0.228	1.24	-	[NR]	TH2LCRR	Atopic dermatitis	atopic eczema	-	GCST002844	5:132653444	25865352	Schaarschmidt H
+rs10738626-T	1.00E-08	-	0.506	1.23	-	[NR]	"DMRTA1,CDKN2B-AS1"	Atopic dermatitis	atopic eczema	-	GCST002844	9:22373458	25865352	Schaarschmidt H
+rs1665050-A	1.00E-07	-	0.252	1.25	-	[NR]	RNF111	Atopic dermatitis	atopic eczema	-	GCST002844	15:59001406	25865352	Schaarschmidt H
+rs4796793-C	8.00E-06	-	0.748	1.08	-	[NR]	"STAT3,CAVIN1"	Atopic dermatitis	atopic eczema	-	GCST002844	17:42390192	25865352	Schaarschmidt H
+rs479844-G	1.00E-13	-	0.56	1.14	-	[1.10-1.18]	"OVOL1,AP5B1"	Atopic dermatitis	atopic eczema	-	GCST001363	11:65784486	22197932	Paternoster L
+rs2164983-A	7.00E-09	-	0.15	1.16	-	[1.10-1.22]	NFILZ	Atopic dermatitis	atopic eczema	-	GCST001363	19:8679120	22197932	Paternoster L
+rs2897442-C	4.00E-08	-	0.29	1.11	-	[1.07-1.15]	KIF3A	Atopic dermatitis	atopic eczema	-	GCST001363	5:132713335	22197932	Paternoster L
+rs7000782-A	1.00E-06	-	0.43	1.09	-	[1.05-1.13]	"RPL13AP18,RNU6-1213P"	Atopic dermatitis	atopic eczema	-	GCST001363	8:80395915	22197932	Paternoster L
+rs4821544-C	6.00E-06	-	0.29	1.09	-	[1.05-1.13]	"NCF4,NCF4-AS1"	Atopic dermatitis	atopic eczema	-	GCST001363	22:36862461	22197932	Paternoster L
+rs3853601-G	2.00E-06	-	0.12	1.13	-	[1.08-1.19]	"ATP6V1G2-DDX39B,DDX39B"	Atopic dermatitis	atopic eczema	-	GCST001363	6:31531826	22197932	Paternoster L
+rs9368677-G	1.00E-17	-	0.798	1.36	-	[1.27-1.46]	"HLA-B,LINC02571"	Atopic dermatitis	atopic eczema	-	GCST001709	6:31304544	23042114	Hirota T
+rs13015714-G	8.00E-18	-	0.412	1.27	-	[1.20-1.34]	IL18R1	Atopic dermatitis	atopic eczema	-	GCST001709	2:102355405	23042114	Hirota T
+rs11236809-G	3.00E-06	-	0.25	1.24	-	[NR]	LINC02757	Atopic dermatitis	atopic eczema	-	GCST001709	11:76621166	23042114	Hirota T
+rs593982-C	6.00E-07	-	0.53	1.23	-	[NR]	"KRT8P26,AP5B1"	Atopic dermatitis	atopic eczema	-	GCST001709	11:65745636	23042114	Hirota T
+rs1295686-T	2.00E-06	-	0.3	1.22	-	[NR]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST001709	5:132660151	23042114	Hirota T
+rs176095-T	8.00E-20	-	0.81	1.4	-	[1.30-1.51]	"PBX2,GPSM3"	Atopic dermatitis	atopic eczema	-	GCST001709	6:32190542	23042114	Hirota T
+rs9469099-G	5.00E-19	-	0.909	1.61	-	[1.44-1.80]	"TSBP1-AS1,TSBP1"	Atopic dermatitis	atopic eczema	-	GCST001709	6:32341131	23042114	Hirota T
+rs878860-G	2.00E-22	-	0.537	1.31	-	[1.24-1.38]	"NLRP10,OR10A3"	Atopic dermatitis	atopic eczema	-	GCST001709	11:7946812	23042114	Hirota T
+rs2271404-G	3.00E-07	-	0.238	1.17	-	[1.10-1.25]	MIR4435-2HG	Atopic dermatitis	atopic eczema	-	GCST001709	2:111246290	23042114	Hirota T
+rs7613051-A	6.00E-21	-	0.453	1.29	-	[1.22-1.36]	GLB1	Atopic dermatitis	atopic eczema	-	GCST001709	3:33023847	23042114	Hirota T
+rs12634229-G	2.00E-19	-	0.327	1.29	-	[1.22-1.37]	"CCDC80,MAT2AP1"	Atopic dermatitis	atopic eczema	-	GCST001709	3:112657461	23042114	Hirota T
+rs4722404-G	8.00E-09	-	0.326	1.18	-	[1.12-1.25]	"SDK1-AS1,CARD11"	Atopic dermatitis	atopic eczema	-	GCST001709	7:3089155	23042114	Hirota T
+rs7815944-A	4.00E-07	-	0.673	1.16	-	[1.10-1.23]	LINC00824	Atopic dermatitis	atopic eczema	-	GCST001709	8:128415272	23042114	Hirota T
+rs10995251-C	6.00E-20	-	0.511	1.28	-	[1.22-1.36]	LINC02929	Atopic dermatitis	atopic eczema	-	GCST001709	10:62638706	23042114	Hirota T
+rs1444418-A	2.00E-07	-	0.676	1.17	-	[1.10-1.24]	"ALDH7A1P4,ADO"	Atopic dermatitis	atopic eczema	-	GCST001709	10:62800710	23042114	Hirota T
+rs9923856-A	6.00E-06	-	0.781	1.17	-	[1.09-1.25]	CLEC16A	Atopic dermatitis	atopic eczema	-	GCST001709	16:11116558	23042114	Hirota T
+rs16999165-T	2.00E-08	-	0.692	1.19	-	[1.12-1.26]	"CYP24A1,PFDN4"	Atopic dermatitis	atopic eczema	-	GCST001709	20:54190682	23042114	Hirota T
+rs7927894-A	8.00E-10	-	0.36	1.22	-	[1.15-1.30]	"LINC02757,EMSY"	Atopic dermatitis	atopic eczema	-	GCST000374	11:76590272	19349984	Esparza-Gordillo J
+rs80199341-?	5.00E-08	-	NR	1.24	-	[1.15-1.34]	AFF1	Atopic dermatitis	atopic eczema	-	GCST90086148	4:86939362	34116867	Tanaka N
+rs3757723-?	2.00E-08	-	NR	1.33	-	[1.2-1.47]	ITGB8	Atopic dermatitis	atopic eczema	-	GCST90086148	7:20352241	34116867	Tanaka N
+rs3125788-?	1.00E-08	-	NR	1.76	-	[1.45-2.14]	EHMT1	Atopic dermatitis	atopic eczema	-	GCST90086148	9:137738823	34116867	Tanaka N
+rs61865882-?	3.00E-09	-	NR	0.75	-	[0.68-0.83]	EGR2	Atopic dermatitis	atopic eczema	-	GCST90086148	10:62812333	34116867	Tanaka N
+rs1427297901-?	2.00E-12	-	NR	0.41	-	[0.32-0.52]	"PUDPP2,RPTN"	Atopic dermatitis	atopic eczema	-	GCST90086148	1:152147825	34116867	Tanaka N
+rs189163698-?	4.00E-20	-	NR	2.23	-	[1.88-2.65]	FLG-AS1	Atopic dermatitis	atopic eczema	-	GCST90086148	1:152383617	34116867	Tanaka N
+rs200543403-?	3.00E-09	-	NR	0.81	-	[0.76-0.87]	"LINC01143,CD207"	Atopic dermatitis	atopic eczema	-	GCST90086148	2:70868280	34116867	Tanaka N
+rs368124191-?	4.00E-16	-	NR	1.26	-	[1.19-1.33]	IL18RAP	Atopic dermatitis	atopic eczema	-	GCST90086148	2:102426431	34116867	Tanaka N
+rs79497729-?	1.00E-12	-	NR	1.23	-	[1.16-1.3]	GLB1	Atopic dermatitis	atopic eczema	-	GCST90086148	3:33043419	34116867	Tanaka N
+rs72943976-?	3.00E-14	-	NR	1.25	-	[1.18-1.32]	"CCDC80,MAT2AP1"	Atopic dermatitis	atopic eczema	-	GCST90086148	3:112676192	34116867	Tanaka N
+rs847-?	7.00E-15	-	NR	0.79	-	[0.75-0.84]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST90086148	5:132660977	34116867	Tanaka N
+rs3864302-?	6.00E-17	-	NR	0.77	-	[0.72-0.82]	"TSBP1-AS1,TSBP1"	Atopic dermatitis	atopic eczema	-	GCST90086148	6:32311015	34116867	Tanaka N
+rs10995255-?	6.00E-14	-	NR	0.81	-	[0.76-0.85]	LINC02929	Atopic dermatitis	atopic eczema	-	GCST90086148	10:62642673	34116867	Tanaka N
+rs59039403-?	2.00E-35	-	NR	0.52	-	[0.47-0.57]	NLRP10	Atopic dermatitis	atopic eczema	-	GCST90086148	11:7960885	34116867	Tanaka N
+rs749848972-?	4.00E-09	-	NR	0.84	-	[0.79-0.89]	"KRT8P26,AP5B1"	Atopic dermatitis	atopic eczema	-	GCST90086148	11:65736582	34116867	Tanaka N
+rs11236809-?	2.00E-09	-	NR	1.21	-	[1.14-1.28]	LINC02757	Atopic dermatitis	atopic eczema	-	GCST90086148	11:76621166	34116867	Tanaka N
+rs2259735-?	3.00E-08	-	NR	0.84	-	[0.79-0.89]	CYP24A1	Atopic dermatitis	atopic eczema	-	GCST90086148	20:54171775	34116867	Tanaka N
+rs12743520-?	1.00E-08	-	NR	0.93	-	[0.91-0.96]	EVI5	Atopic dermatitis	atopic eczema	-	GCST90086149	1:92571555	34116867	Tanaka N
+rs4845373-?	5.00E-08	-	NR	1.06	-	[1.04-1.08]	IL6R	Atopic dermatitis	atopic eczema	-	GCST90086149	1:154445353	34116867	Tanaka N
+rs1214598-?	2.00E-10	-	NR	0.94	-	[0.92-0.96]	CD247	Atopic dermatitis	atopic eczema	-	GCST90086149	1:167457187	34116867	Tanaka N
+rs10174949-?	6.00E-08	-	NR	0.91	-	[0.89-0.93]	LINC00299	Atopic dermatitis	atopic eczema	-	GCST90086149	2:8302118	34116867	Tanaka N
+rs72823628-?	1.00E-25	-	NR	0.86	-	[0.84-0.89]	"IL18R1,IL1RL1"	Atopic dermatitis	atopic eczema	-	GCST90086149	2:102312157	34116867	Tanaka N
+rs34290285-?	2.00E-16	-	NR	0.91	-	[0.89-0.93]	D2HGDH	Atopic dermatitis	atopic eczema	-	GCST90086149	2:241759225	34116867	Tanaka N
+rs79497729-?	4.00E-12	-	NR	1.21	-	[1.15-1.28]	GLB1	Atopic dermatitis	atopic eczema	-	GCST90086149	3:33043419	34116867	Tanaka N
+rs56302621-?	9.00E-13	-	NR	0.82	-	[0.77-0.86]	"MAT2AP1,CCDC80"	Atopic dermatitis	atopic eczema	-	GCST90086149	3:112658770	34116867	Tanaka N
+rs6785012-?	3.00E-09	-	NR	1.06	-	[1.04-1.08]	ZBTB38	Atopic dermatitis	atopic eczema	-	GCST90086149	3:141390506	34116867	Tanaka N
+rs5743614-?	4.00E-18	-	NR	0.9	-	[0.88-0.92]	TLR1	Atopic dermatitis	atopic eczema	-	GCST90086149	4:38797314	34116867	Tanaka N
+rs45605540-?	9.00E-11	-	NR	1.08	-	[1.05-1.1]	BLTP1	Atopic dermatitis	atopic eczema	-	GCST90086149	4:122219899	34116867	Tanaka N
+rs7717955-?	1.00E-13	-	NR	0.92	-	[0.9-0.94]	IL7R	Atopic dermatitis	atopic eczema	-	GCST90086149	5:35862739	34116867	Tanaka N
+rs10073425-?	9.00E-24	-	NR	1.14	-	[1.1-1.16]	"BCLAF1P1,SLC25A46"	Atopic dermatitis	atopic eczema	-	GCST90086149	5:110827507	34116867	Tanaka N
+rs1438673-?	4.00E-23	-	NR	0.91	-	[0.89-0.93]	"WDR36,RPS3AP21"	Atopic dermatitis	atopic eczema	-	GCST90086149	5:111131801	34116867	Tanaka N
+rs20541-?	7.00E-15	-	NR	0.91	-	[0.89-0.93]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST90086149	5:132660272	34116867	Tanaka N
+rs2050190-?	4.00E-13	-	NR	0.8	-	[0.75-0.85]	"TSBP1-AS1,TSBP1"	Atopic dermatitis	atopic eczema	-	GCST90086149	6:32371299	34116867	Tanaka N
+rs6461503-?	2.00E-08	-	NR	0.95	-	[0.93-0.96]	"ITGB8,EEF1A1P27"	Atopic dermatitis	atopic eczema	-	GCST90086149	7:20521373	34116867	Tanaka N
+rs3125788-?	2.00E-08	-	NR	1.73	-	[1.43-2.1]	EHMT1	Atopic dermatitis	atopic eczema	-	GCST90086149	9:137738823	34116867	Tanaka N
+rs12244238-?	5.00E-09	-	NR	1.06	-	[1.04-1.08]	IL2RA	Atopic dermatitis	atopic eczema	-	GCST90086149	10:6041276	34116867	Tanaka N
+rs1409123-?	9.00E-12	-	NR	0.93	-	[0.92-0.95]	"KRT8P37,CHCHD3P1"	Atopic dermatitis	atopic eczema	-	GCST90086149	10:8540354	34116867	Tanaka N
+rs1444789-?	3.00E-08	-	NR	1.07	-	[1.05-1.1]	"LINC00709,LINC02676"	Atopic dermatitis	atopic eczema	-	GCST90086149	10:9022398	34116867	Tanaka N
+rs10995245-?	5.00E-12	-	NR	1.07	-	[1.05-1.1]	LINC02929	Atopic dermatitis	atopic eczema	-	GCST90086149	10:62631615	34116867	Tanaka N
+rs61878692-?	2.00E-08	-	NR	1.06	-	[1.04-1.09]	PRR5L	Atopic dermatitis	atopic eczema	-	GCST90086149	11:36311139	34116867	Tanaka N
+rs10791824-?	9.00E-10	-	NR	1.06	-	[1.04-1.09]	OVOL1	Atopic dermatitis	atopic eczema	-	GCST90086149	11:65791795	34116867	Tanaka N
+rs11236791-?	2.00E-27	-	NR	1.11	-	[1.09-1.13]	"LINC02757,EMSY"	Atopic dermatitis	atopic eczema	-	GCST90086149	11:76584554	34116867	Tanaka N
+rs659529-?	5.00E-10	-	NR	1.07	-	[1.05-1.1]	"SIK2,LAYN"	Atopic dermatitis	atopic eczema	-	GCST90086149	11:111566171	34116867	Tanaka N
+rs73018933-?	6.00E-09	-	NR	0.93	-	[0.91-0.95]	"LINC02098,ETS1"	Atopic dermatitis	atopic eczema	-	GCST90086149	11:128304886	34116867	Tanaka N
+rs11171739-?	6.00E-10	-	NR	0.94	-	[0.92-0.06]	ERBB3	Atopic dermatitis	atopic eczema	-	GCST90086149	12:56076841	34116867	Tanaka N
+rs1059513-?	3.00E-09	-	NR	0.91	-	[0.88-0.94]	STAT6	Atopic dermatitis	atopic eczema	-	GCST90086149	12:57095926	34116867	Tanaka N
+rs56101042-?	2.00E-08	-	NR	0.93	-	[0.91-0.96]	TRAF3	Atopic dermatitis	atopic eczema	-	GCST90086149	14:102790624	34116867	Tanaka N
+rs10152544-?	5.00E-13	-	NR	0.93	-	[0.91-0.95]	SMAD3	Atopic dermatitis	atopic eczema	-	GCST90086149	15:67152409	34116867	Tanaka N
+rs11857092-?	5.00E-08	-	NR	0.94	-	[0.92-0.96]	IQGAP1	Atopic dermatitis	atopic eczema	-	GCST90086149	15:90416883	34116867	Tanaka N
+rs2041733-?	2.00E-20	-	NR	0.91	-	[0.9-0.93]	CLEC16A	Atopic dermatitis	atopic eczema	-	GCST90086149	16:11135732	34116867	Tanaka N
+rs9911533-?	7.00E-19	-	NR	1.1	-	[1.07-1.12]	"SMARCE1,CCR7"	Atopic dermatitis	atopic eczema	-	GCST90086149	17:40619224	34116867	Tanaka N
+rs28558565-?	4.00E-08	-	NR	1.12	-	[1.07-1.16]	"SMAD7,CTIF"	Atopic dermatitis	atopic eczema	-	GCST90086149	18:48915227	34116867	Tanaka N
+rs8086340-?	2.00E-09	-	NR	1.06	-	[1.04-1.08]	TNFRSF11A	Atopic dermatitis	atopic eczema	-	GCST90086149	18:62339745	34116867	Tanaka N
+rs2766664-?	4.00E-11	-	NR	0.93	-	[0.91-0.95]	"ZNF217,Y_RNA"	Atopic dermatitis	atopic eczema	-	GCST90086149	20:53554702	34116867	Tanaka N
+rs2426500-?	8.00E-13	-	NR	0.91	-	[0.89-0.94]	"PFDN4,CYP24A1"	Atopic dermatitis	atopic eczema	-	GCST90086149	20:54181042	34116867	Tanaka N
+rs3208007-?	3.00E-12	-	NR	1.08	-	[1.06-1.11]	"RTEL1,RTEL1-TNFRSF6B"	Atopic dermatitis	atopic eczema	-	GCST90086149	20:63690935	34116867	Tanaka N
+rs7512552-C	5.00E-09	"(EA, fixed effects)"	0.51	1.0416667	-	-	"MRPS21,CIART"	Atopic dermatitis	atopic eczema	-	GCST003184	1:150293284	26482879	Paternoster L
+rs10199605-G	4.00E-08	"(EA, fixed effects)"	0.7	1.0416667	-	-	LINC00299	Atopic dermatitis	atopic eczema	-	GCST003184	2:8354967	26482879	Paternoster L
+rs4643526-A	6.00E-08	"(EA, fixed effects)"	0.19	1.05	-	[1.03-1.07]	PUS10	Atopic dermatitis	atopic eczema	-	GCST003184	2:60957516	26482879	Paternoster L
+rs112111458-A	9.00E-09	"(EA, fixed effects)"	0.87	1.0638298	-	-	"LINC01143,CD207"	Atopic dermatitis	atopic eczema	-	GCST003184	2:70872975	26482879	Paternoster L
+rs10214237-T	3.00E-14	"(EA, fixed effects)"	0.73	1.0638298	-	-	"IL7R,CAPSL"	Atopic dermatitis	atopic eczema	-	GCST003184	5:35883632	26482879	Paternoster L
+rs6473227-C	2.00E-16	"(EA, fixed effects)"	0.39	1.0638298	-	-	"RPL13AP18,RNU6-1213P"	Atopic dermatitis	atopic eczema	-	GCST003184	8:80373657	26482879	Paternoster L
+rs6602364-G	1.00E-10	"(EA, fixed effects)"	0.45	1.05	-	[1.03-1.06]	"IL15RA,IL2RA"	Atopic dermatitis	atopic eczema	-	GCST003184	10:5996890	26482879	Paternoster L
+rs7127307-T	2.00E-18	"(EA, fixed effects)"	0.53	1.0638298	-	-	"LINC02098,ETS1"	Atopic dermatitis	atopic eczema	-	GCST003184	11:128317488	26482879	Paternoster L
+rs2143950-T	2.00E-15	"(EA, fixed effects)"	0.17	1.08	-	[1.06-1.10]	"PPP2R3C,FAM177A1"	Atopic dermatitis	atopic eczema	-	GCST003184	14:35103151	26482879	Paternoster L
+rs17881320-T	1.00E-07	"(EA, fixed effects)"	0.08	1.08	-	[1.05-1.11]	STAT3	Atopic dermatitis	atopic eczema	-	GCST003184	17:42333221	26482879	Paternoster L
+rs7512552-T	1.00E-07	(random effects)	0.49	-	-	NR	"MRPS21,CIART"	Atopic dermatitis	atopic eczema	-	GCST003184	1:150293284	26482879	Paternoster L
+rs112111458-G	2.00E-07	(random effects)	0.13	-	-	NR	"LINC01143,CD207"	Atopic dermatitis	atopic eczema	-	GCST003184	2:70872975	26482879	Paternoster L
+rs10214237-C	2.00E-10	(random effects)	0.27	-	-	NR	"IL7R,CAPSL"	Atopic dermatitis	atopic eczema	-	GCST003184	5:35883632	26482879	Paternoster L
+rs6473227-A	5.00E-18	(random effects)	0.61	-	-	NR	"RPL13AP18,RNU6-1213P"	Atopic dermatitis	atopic eczema	-	GCST003184	8:80373657	26482879	Paternoster L
+rs6602364-G	2.00E-06	(random effects)	0.45	-	-	NR	"IL15RA,IL2RA"	Atopic dermatitis	atopic eczema	-	GCST003184	10:5996890	26482879	Paternoster L
+rs7127307-C	1.00E-20	(random effects)	0.47	-	-	NR	"LINC02098,ETS1"	Atopic dermatitis	atopic eczema	-	GCST003184	11:128317488	26482879	Paternoster L
+rs2143950-T	9.00E-10	(random effects)	0.17	-	-	NR	"PPP2R3C,FAM177A1"	Atopic dermatitis	atopic eczema	-	GCST003184	14:35103151	26482879	Paternoster L
+rs17881320-T	3.00E-06	(random effects)	0.08	-	-	NR	STAT3	Atopic dermatitis	atopic eczema	-	GCST003184	17:42333221	26482879	Paternoster L
+rs3917265-C	9.00E-07	(conditional on rs6419573)	0.53	1.06	-	[1.03-1.08]	IL1R1	Atopic dermatitis	atopic eczema	-	GCST003184	2:102162001	26482879	Paternoster L
+rs4705962-T	7.00E-12	(conditional on rs6419573)	0.28	1.1	-	[1.07-1.13]	KIF3A	Atopic dermatitis	atopic eczema	-	GCST003184	5:132693166	26482879	Paternoster L
+rs2041733-T	3.00E-11	"(EA, fixed effects)"	NR	1.08	-	[1.06-1.11]	CLEC16A	Atopic dermatitis	atopic eczema	-	GCST003184	16:11135732	26482879	Paternoster L
+rs17389644-A	4.00E-06	"(EA, fixed effects)"	NR	1.07	-	[1.04-1.10]	"IL21,IL2"	Atopic dermatitis	atopic eczema	-	GCST003184	4:122576542	26482879	Paternoster L
+rs7927894-T	3.00E-09	"(EA, fixed effects)"	NR	1.08	-	[1.05-1.10]	"LINC02757,EMSY"	Atopic dermatitis	atopic eczema	-	GCST003184	11:76590272	26482879	Paternoster L
+rs13015714-G	2.00E-12	"(EA, fixed effects)"	NR	1.1	-	[1.07-1.14]	IL18R1	Atopic dermatitis	atopic eczema	-	GCST003184	2:102355405	26482879	Paternoster L
+rs479844-?	2.00E-18	"(EA, fixed effects)"	NR	1.1111112	-	[1.09-1.14]	"OVOL1,AP5B1"	Atopic dermatitis	atopic eczema	-	GCST003184	11:65784486	26482879	Paternoster L
+rs2164983-A	2.00E-11	"(EA, fixed effects)"	NR	1.12	-	[1.08-1.15]	NFILZ	Atopic dermatitis	atopic eczema	-	GCST003184	19:8679120	26482879	Paternoster L
+rs2897442-C	1.00E-10	"(EA, fixed effects)"	NR	1.09	-	[1.06-1.12]	KIF3A	Atopic dermatitis	atopic eczema	-	GCST003184	5:132713335	26482879	Paternoster L
+rs6010620-G	2.00E-09	"(EA, fixed effects)"	NR	1.09	-	[1.06-1.13]	"RTEL1-TNFRSF6B,RTEL1"	Atopic dermatitis	atopic eczema	-	GCST003184	20:63678486	26482879	Paternoster L
+rs2228145-C	5.00E-10	"(EA, fixed effects)"	NR	1.08	-	[1.05-1.11]	IL6R	Atopic dermatitis	atopic eczema	-	GCST003184	1:154454494	26482879	Paternoster L
+rs61813875-G	6.00E-29	"(EA, fixed effects)"	0.02	1.61	-	[1.48–1.75]	"CRCT1,LCE3E"	Atopic dermatitis	atopic eczema	-	GCST003184	1:152564174	26482879	Paternoster L
+rs10791824-G	2.00E-19	"(EA, fixed effects)"	0.57	1.12	-	[1.09–1.15]	OVOL1	Atopic dermatitis	atopic eczema	-	GCST003184	11:65791795	26482879	Paternoster L
+rs12188917-C	4.00E-17	"(EA, fixed effects)"	0.21	1.14	-	[1.10–1.17]	TH2LCRR	Atopic dermatitis	atopic eczema	-	GCST003184	5:132655393	26482879	Paternoster L
+rs6419573-T	2.00E-13	"(EA, fixed effects)"	0.26	1.11	-	[1.08–1.14]	"IL18R1,SDR42E1P5"	Atopic dermatitis	atopic eczema	-	GCST003184	2:102410643	26482879	Paternoster L
+rs2212434-T	5.00E-13	"(EA, fixed effects)"	0.45	1.09	-	[1.07–1.12]	"LINC02757,EMSY"	Atopic dermatitis	atopic eczema	-	GCST003184	11:76570549	26482879	Paternoster L
+rs4809219-A	7.00E-13	"(EA, fixed effects)"	0.73	1.1111112	-	-	"RTEL1-TNFRSF6B,RTEL1"	Atopic dermatitis	atopic eczema	-	GCST003184	20:63671762	26482879	Paternoster L
+rs2918307-G	5.00E-12	"(EA, fixed effects)"	0.16	1.12	-	[1.08–1.16]	NFILZ	Atopic dermatitis	atopic eczema	-	GCST003184	19:8679458	26482879	Paternoster L
+rs4713555-G	5.00E-09	"(EA, fixed effects)"	0.73	1.098901	-	-	"HLA-DRB1,HLA-DQA1"	Atopic dermatitis	atopic eczema	-	GCST003184	6:32607747	26482879	Paternoster L
+rs2944542-G	1.00E-06	"(EA, fixed effects)"	0.59	1.0638298	-	-	LINC02929	Atopic dermatitis	atopic eczema	-	GCST003184	10:62610240	26482879	Paternoster L
+rs145809981-C	2.00E-06	"(EA, fixed effects)"	0.86	1.098901	-	-	DPY19L2P2	Atopic dermatitis	atopic eczema	-	GCST003184	7:103186912	26482879	Paternoster L
+rs2592555-T	9.00E-07	"(EA, fixed effects)"	0.73	1.0752687	-	-	PRR5L	Atopic dermatitis	atopic eczema	-	GCST003184	11:36350207	26482879	Paternoster L
+rs11205006-A	2.00E-25	-	NR	1.615	-	[1.543-1.691]	"FLG-AS1,LCE5A"	Atopic dermatitis	atopic eczema	-	GCST002737	1:152467700	25574825	Baurecht H
+rs1295686-T	5.00E-09	-	NR	1.347	-	[1.28-1.418]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST002737	5:132660151	25574825	Baurecht H
+rs41268896-A	4.00E-08	-	NR	1.298	-	[1.238-1.361]	TNXB	Atopic dermatitis	atopic eczema	-	GCST002737	6:32102292	25574825	Baurecht H
+rs148203517-T	3.00E-07	-	NR	1.305	-	[1.239-1.375]	"GALNT17,AUTS2"	Atopic dermatitis	atopic eczema	-	GCST002737	7:70906107	25574825	Baurecht H
+rs176095-G	3.00E-07	-	NR	1.3020833	-	[1.18-1.44]	"PBX2,GPSM3"	Atopic dermatitis	atopic eczema	-	GCST002737	6:32190542	25574825	Baurecht H
+rs17389644-A	1.00E-06	-	NR	1.208	-	[1.119–1.304]	"IL21,IL2"	Atopic dermatitis	atopic eczema	-	GCST002737	4:122576542	25574825	Baurecht H
+rs909341-G	8.00E-10	-	NR	1.316	-	[1.205-1.429]	"RTEL1-TNFRSF6B,TNFRSF6B"	Atopic dermatitis	atopic eczema	-	GCST002737	20:63697389	25574825	Baurecht H
+rs188069315-A	5.00E-09	-	0.0015	2.36	-	[1.77-3.15]	NBPF17P	Atopic dermatitis	atopic eczema	-	GCST90027161	1:143595936	34454985	Sliz E
+rs1035121917-A	4.00E-08	-	0.0017	1.94	-	[1.53-2.45]	LINC00624	Atopic dermatitis	atopic eczema	-	GCST90027161	1:147506275	34454985	Sliz E
+rs187325802-T	2.00E-10	-	0.0048	1.51	-	[1.33-1.71]	SEMA6C	Atopic dermatitis	atopic eczema	-	GCST90027161	1:151143311	34454985	Sliz E
+rs558269137-CACTG	3.00E-44	-	0.9927	0.5	-	[0.45-0.55]	"FLG,FLG-AS1"	Atopic dermatitis	atopic eczema	-	GCST90027161	1:152312601	34454985	Sliz E
+rs538763482-A	1.00E-13	-	0.997	0.56	-	[0.48-0.65]	PGLYRP4	Atopic dermatitis	atopic eczema	-	GCST90027161	1:153330248	34454985	Sliz E
+rs12126142-A	6.00E-09	-	0.3617	1.06	-	[1.04-1.09]	IL6R	Atopic dermatitis	atopic eczema	-	GCST90027161	1:154452980	34454985	Sliz E
+rs17371133-A	2.00E-10	-	0.517	0.94	-	[0.92-0.96]	"AIMP1P2,SLC25A38P1"	Atopic dermatitis	atopic eczema	-	GCST90027161	1:172859340	34454985	Sliz E
+rs1861246-T	2.00E-10	-	0.217	1.12	-	[1.09-1.15]	"IL1RL1,IL18R1"	Atopic dermatitis	atopic eczema	-	GCST90027161	2:102350323	34454985	Sliz E
+rs150979174-A	4.00E-08	-	0.9966	0.6	-	[0.5-0.72]	"LARP7P4,RNA5SP144"	Atopic dermatitis	atopic eczema	-	GCST90027161	3:144401986	34454985	Sliz E
+rs7666843-T	6.00E-11	-	0.0942	0.89	-	[0.86-0.92]	"BLTP1,RN7SL335P"	Atopic dermatitis	atopic eczema	-	GCST90027161	4:122111486	34454985	Sliz E
+rs847-T	4.00E-17	-	0.2607	1.1	-	[1.07-1.12]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST90027161	5:132660977	34454985	Sliz E
+rs28752924-T	5.00E-11	-	0.6336	1.1	-	[1.07-1.14]	"LINC02571,HLA-B"	Atopic dermatitis	atopic eczema	-	GCST90027161	6:31336145	34454985	Sliz E
+rs28383323-A	1.00E-13	-	0.2381	0.89	-	[0.86-0.92]	"HLA-DRB1,HLA-DQA1"	Atopic dermatitis	atopic eczema	-	GCST90027161	6:32626262	34454985	Sliz E
+rs11786685-A	2.00E-11	-	0.3393	1.07	-	[1.05-1.1]	"RPL13AP18,RNU6-1213P"	Atopic dermatitis	atopic eczema	-	GCST90027161	8:80363600	34454985	Sliz E
+rs6996614-A	2.00E-08	-	0.4491	1.08	-	[1.05-1.11]	"TRIB1AL,LINC02964"	Atopic dermatitis	atopic eczema	-	GCST90027161	8:125597624	34454985	Sliz E
+rs11033603-A	1.00E-12	-	0.042	1.18	-	[1.13-1.23]	PRR5L	Atopic dermatitis	atopic eczema	-	GCST90027161	11:36412992	34454985	Sliz E
+rs479844-A	2.00E-12	-	0.428	0.93	-	[0.91-0.95]	"OVOL1,AP5B1"	Atopic dermatitis	atopic eczema	-	GCST90027161	11:65784486	34454985	Sliz E
+rs34455012-CCCAGTAT	2.00E-22	-	0.6075	0.87	-	[0.85-0.89]	"EMSY,LINC02757"	Atopic dermatitis	atopic eczema	-	GCST90027161	11:76588801	34454985	Sliz E
+rs533495047-A	4.00E-08	-	0.8091	1.09	-	[1.06-1.13]	"ETS1,LINC02098"	Atopic dermatitis	atopic eczema	-	GCST90027161	11:128293268	34454985	Sliz E
+rs183884396-A	2.00E-10	-	0.0023	1.86	-	[1.54-2.26]	TESPA1	Atopic dermatitis	atopic eczema	-	GCST90027161	12:54963054	34454985	Sliz E
+rs4759228-C	5.00E-08	-	0.2738	1.07	-	[1.04-1.09]	"PA2G4,RPL41"	Atopic dermatitis	atopic eczema	-	GCST90027161	12:56114625	34454985	Sliz E
+rs3947727-T	1.00E-11	-	0.5994	1.07	-	[1.05-1.1]	"IL22,MDM1"	Atopic dermatitis	atopic eczema	-	GCST90027161	12:68258319	34454985	Sliz E
+rs12586305-T	8.00E-11	-	0.841	0.91	-	[0.89-0.94]	PRORP	Atopic dermatitis	atopic eczema	-	GCST90027161	14:35185261	34454985	Sliz E
+rs3862469-T	4.00E-12	-	0.313	0.93	-	[0.91-0.95]	CLEC16A	Atopic dermatitis	atopic eczema	-	GCST90027161	16:11100223	34454985	Sliz E
+rs35073649-T	2.00E-14	-	0.3931	1.08	-	[1.06-1.1]	ZNF652	Atopic dermatitis	atopic eczema	-	GCST90027161	17:49345148	34454985	Sliz E
+rs1361355315-T	4.00E-08	-	0.0036	1.54	-	[1.32-1.79]	"MIR302F,RNU6-408P"	Atopic dermatitis	atopic eczema	-	GCST90027161	18:29549105	34454985	Sliz E
+rs188720898-A	1.00E-09	-	0.9974	0.61	-	[0.52-0.72]	"SERPINB10,HMSD"	Atopic dermatitis	atopic eczema	-	GCST90027161	18:63945923	34454985	Sliz E
+rs35358447-A	2.00E-12	-	0.1683	1.1	-	[1.07-1.13]	"NFILZ,ACTL9"	Atopic dermatitis	atopic eczema	-	GCST90027161	19:8681319	34454985	Sliz E
+rs3848669-T	3.00E-15	-	0.7791	1.11	-	[1.08-1.13]	"RTEL1,RTEL1-TNFRSF6B"	Atopic dermatitis	atopic eczema	-	GCST90027161	20:63669458	34454985	Sliz E
+rs2075943-A	2.00E-09	-	0.576	1.07	-	[1.04-1.09]	CSF2RB	Atopic dermatitis	atopic eczema	-	GCST90027161	22:36922967	34454985	Sliz E
+rs187068709-T	1.00E-18	-	0.014263917	-	0.9823216 unit increase	[0.76-1.2]	FLG-AS1	Atopic dermatitis	atopic eczema	-	GCST90018564	1:152228911	34594039	Sakaue S
+rs397776771-AT	3.00E-15	-	0.569828697	-	0.1957903 unit decrease	[0.15-0.24]	-	Atopic dermatitis	atopic eczema	-	GCST90018564	-	34594039	Sakaue S
+rs1666723-T	4.00E-09	-	0.051360933	-	0.40042546 unit decrease	[0.27-0.53]	SOCAR	Atopic dermatitis	atopic eczema	-	GCST90018564	2:111543096	34594039	Sakaue S
+rs62192898-C	2.00E-08	-	0.451541251	-	0.1388864 unit increase	[0.09-0.188]	INPP5D	Atopic dermatitis	atopic eczema	-	GCST90018564	2:233205597	34594039	Sakaue S
+rs6723629-C	1.00E-08	-	0.256545849	-	0.16219871 unit decrease	[0.11-0.22]	"LINC01143,CD207"	Atopic dermatitis	atopic eczema	-	GCST90018564	2:70840723	34594039	Sakaue S
+rs12630906-T	4.00E-14	-	0.328614952	-	0.19780932 unit increase	[0.15-0.25]	"MAT2AP1,CCDC80"	Atopic dermatitis	atopic eczema	-	GCST90018564	3:112681250	34594039	Sakaue S
+rs6780220-C	3.00E-11	-	0.530443886	-	0.16698192 unit increase	[0.12-0.22]	GLB1	Atopic dermatitis	atopic eczema	-	GCST90018564	3:33045708	34594039	Sakaue S
+rs80199341-G	1.00E-08	-	0.141935482	-	0.21253885 unit increase	[0.14-0.29]	AFF1	Atopic dermatitis	atopic eczema	-	GCST90018564	4:86939362	34594039	Sakaue S
+rs1295685-G	2.00E-17	-	0.694925724	-	0.22578353 unit decrease	[0.17-0.28]	"IL13,TH2LCRR"	Atopic dermatitis	atopic eczema	-	GCST90018564	5:132660753	34594039	Sakaue S
+rs200291258-A	6.00E-15	-	0.179174296	-	0.25656497 unit decrease	[0.19-0.32]	"LINC02571,HLA-B"	Atopic dermatitis	atopic eczema	-	GCST90018564	6:31348794	34594039	Sakaue S
+rs11275478-A	4.00E-17	-	0.218070297	-	0.25364324 unit decrease	[0.19-0.31]	"TSBP1-AS1,TSBP1"	Atopic dermatitis	atopic eczema	-	GCST90018564	6:32370171	34594039	Sakaue S
+rs438694-C	1.00E-10	-	0.192973869	-	0.20064609 unit increase	[0.14-0.26]	"LINC02929,ALDH7A1P4"	Atopic dermatitis	atopic eczema	-	GCST90018564	10:62724921	34594039	Sakaue S
+rs34455012-C	3.00E-09	-	0.416870188	-	0.14712653 unit increase	[0.098-0.196]	"EMSY,LINC02757"	Atopic dermatitis	atopic eczema	-	GCST90018564	11:76588801	34594039	Sakaue S
+rs59039403-A	1.00E-35	-	0.135099077	-	0.4776405 unit decrease	[0.4-0.55]	NLRP10	Atopic dermatitis	atopic eczema	-	GCST90018564	11:7960885	34594039	Sakaue S
+rs2259735-C	4.00E-08	-	0.743568633	-	0.158531 unit decrease	[0.1-0.22]	CYP24A1	Atopic dermatitis	atopic eczema	-	GCST90018564	20:54171775	34594039	Sakaue S
+rs6010620-G	7.00E-10	-	0.335426722	-	0.17175277 unit increase	[0.12-0.23]	"RTEL1-TNFRSF6B,RTEL1"	Atopic dermatitis	atopic eczema	-	GCST90018564	20:63678486	34594039	Sakaue S
+rs9864845-A	2.00E-12	-	0.37	-	-	-	"MAT2AP1,CCDC80"	Atopic dermatitis	atopic eczema	-	GCST90244788	3:112665000	37794016	Budu-Aggrey A
+rs117137535-A	2.00E-08	-	0.03	-	-	-	ARRDC1	Atopic dermatitis	atopic eczema	-	GCST90244788	9:137605991	37794016	Budu-Aggrey A
+rs4312054-G	3.00E-12	-	0.43	-	-	-	"OR10A3,NLRP10"	Atopic dermatitis	atopic eczema	-	GCST90244788	11:7955614	37794016	Budu-Aggrey A
+rs4262739-A	2.00E-08	-	0.5	-	-	-	ETS1	Atopic dermatitis	atopic eczema	-	GCST90244788	11:128551280	37794016	Budu-Aggrey A
+rs1059513-C	5.00E-09	-	0.08	-	-	-	STAT6	Atopic dermatitis	atopic eczema	-	GCST90244788	12:57095926	37794016	Budu-Aggrey A
+rs4574025-T	7.00E-10	-	0.55	-	-	-	TNFRSF11A	Atopic dermatitis	atopic eczema	-	GCST90244788	18:62342581	37794016	Budu-Aggrey A
+rs6023002-C	4.00E-10	-	0.52	-	-	-	"CYP24A1,PFDN4"	Atopic dermatitis	atopic eczema	-	GCST90244788	20:54180698	37794016	Budu-Aggrey A
+rs12123821-T	1.00E-228	-	0.05	1.27	-	[1.25-1.29]	"CCDST,FLG-AS1"	Atopic dermatitis	atopic eczema	-	GCST90244787	1:152206676	37794016	Budu-Aggrey A
+rs61816766-C	1.00E-228	-	0.03	1.41	-	[1.39-1.43]	FLG-AS1	Atopic dermatitis	atopic eczema	-	GCST90244787	1:152347096	37794016	Budu-Aggrey A
+rs61815704-G	6.00E-212	-	0.02	1.36	-	[1.34-1.39]	"IVL,LINC01527"	Atopic dermatitis	atopic eczema	-	GCST90244787	1:152921415	37794016	Budu-Aggrey A
+rs72702900-A	4.00E-163	-	0.04	1.23	-	[1.22-1.25]	"LCE1D,LCE1C"	Atopic dermatitis	atopic eczema	-	GCST90244787	1:152799487	37794016	Budu-Aggrey A
+rs149199808-T	3.00E-134	-	0.03	1.24	-	[1.22-1.26]	SNX27	Atopic dermatitis	atopic eczema	-	GCST90244787	1:151653920	37794016	Budu-Aggrey A
+rs7936323-A	2.00E-133	-	0.46	1.07	-	[1.07-1.08]	"EMSY,LINC02757"	Atopic dermatitis	atopic eczema	-	GCST90244787	11:76582714	37794016	Budu-Aggrey A
+rs20541-G	1.00E-129	-	0.78	0.92	-	[0.91-0.92]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST90244787	5:132660272	37794016	Budu-Aggrey A
+rs6062486-A	5.00E-109	-	0.69	1.07	-	[1.07-1.08]	"RTEL1,RTEL1-TNFRSF6B"	Atopic dermatitis	atopic eczema	-	GCST90244787	20:63671186	37794016	Budu-Aggrey A
+rs12251307-T	5.00E-107	-	0.12	1.1	-	[1.09-1.11]	"RBM17,RPL32P23"	Atopic dermatitis	atopic eczema	-	GCST90244787	10:6081532	37794016	Budu-Aggrey A
+rs10791824-G	1.00E-105	-	0.58	1.07	-	[1.06-1.07]	OVOL1	Atopic dermatitis	atopic eczema	-	GCST90244787	11:65791795	37794016	Budu-Aggrey A
+rs2272128-A	2.00E-100	-	0.77	0.93	-	[0.93-0.94]	IL18RAP	Atopic dermatitis	atopic eczema	-	GCST90244787	2:102423469	37794016	Budu-Aggrey A
+rs10214273-G	3.00E-99	-	0.27	0.93	-	[0.93-0.94]	"CAPSL,IL7R"	Atopic dermatitis	atopic eczema	-	GCST90244787	5:35883884	37794016	Budu-Aggrey A
+rs2041733-C	4.00E-95	-	0.54	0.94	-	[0.94-0.95]	CLEC16A	Atopic dermatitis	atopic eczema	-	GCST90244787	16:11135732	37794016	Budu-Aggrey A
+rs71625130-A	2.00E-89	-	0.04	1.17	-	[1.16-1.19]	SNX27	Atopic dermatitis	atopic eczema	-	GCST90244787	1:151652618	37794016	Budu-Aggrey A
+rs146527530-G	2.00E-88	-	0.02	1.25	-	[1.22-1.28]	GABPB2	Atopic dermatitis	atopic eczema	-	GCST90244787	1:151086720	37794016	Budu-Aggrey A
+rs28520436-T	5.00E-81	-	0.03	1.18	-	[1.16-1.2]	PRR5L	Atopic dermatitis	atopic eczema	-	GCST90244787	11:36406897	37794016	Budu-Aggrey A
+rs2227491-C	1.00E-71	-	0.61	1.05	-	[1.05-1.06]	IL22	Atopic dermatitis	atopic eczema	-	GCST90244787	12:68252741	37794016	Budu-Aggrey A
+rs45599938-A	1.00E-62	-	0.35	1.05	-	[1.05-1.06]	"IL21,IL2"	Atopic dermatitis	atopic eczema	-	GCST90244787	4:122465565	37794016	Budu-Aggrey A
+rs6808249-T	5.00E-29	-	0.54	0.97	-	[0.96-0.97]	CD200R1	Atopic dermatitis	atopic eczema	-	GCST90244787	3:112930138	37794016	Budu-Aggrey A
+rs17368814-G	1.00E-27	-	0.13	0.95	-	[0.95-0.96]	"BOLA3P1,MMP12"	Atopic dermatitis	atopic eczema	-	GCST90244787	11:102877965	37794016	Budu-Aggrey A
+rs705699-A	9.00E-27	-	0.4	1.03	-	[1.03-1.04]	RAB5B	Atopic dermatitis	atopic eczema	-	GCST90244787	12:55991020	37794016	Budu-Aggrey A
+rs1358175-T	1.00E-26	-	0.63	1.03	-	[1.03-1.04]	"SMARCE1,CCR7"	Atopic dermatitis	atopic eczema	-	GCST90244787	17:40601537	37794016	Budu-Aggrey A
+rs35570272-T	2.00E-26	-	0.4	1.03	-	[1.03-1.04]	GLB1	Atopic dermatitis	atopic eczema	-	GCST90244787	3:33006170	37794016	Budu-Aggrey A
+rs2542147-T	3.00E-26	-	0.84	0.96	-	[0.95-0.97]	LINC01882	Atopic dermatitis	atopic eczema	-	GCST90244787	18:12775852	37794016	Budu-Aggrey A
+rs11236813-C	3.00E-26	-	0.1	0.95	-	[0.94-0.96]	"LINC02757,LRRC32"	Atopic dermatitis	atopic eczema	-	GCST90244787	11:76632383	37794016	Budu-Aggrey A
+rs10796303-C	6.00E-25	-	0.66	0.97	-	[0.96-0.97]	PRKCQ-AS1	Atopic dermatitis	atopic eczema	-	GCST90244787	10:6585738	37794016	Budu-Aggrey A
+rs7843258-C	7.00E-25	-	0.82	1.04	-	[1.03-1.05]	AGO2	Atopic dermatitis	atopic eczema	-	GCST90244787	8:140591443	37794016	Budu-Aggrey A
+rs7147439-A	5.00E-24	-	0.73	0.97	-	[0.96-0.97]	GPR132	Atopic dermatitis	atopic eczema	-	GCST90244787	14:105057326	37794016	Budu-Aggrey A
+rs112111458-G	1.00E-21	-	0.12	0.96	-	[0.95-0.97]	"LINC01143,CD207"	Atopic dermatitis	atopic eczema	-	GCST90244787	2:70872975	37794016	Budu-Aggrey A
+rs62193132-T	2.00E-19	-	0.46	1.03	-	[1.02-1.03]	"PDCD1,NEU4"	Atopic dermatitis	atopic eczema	-	GCST90244787	2:241846104	37794016	Budu-Aggrey A
+rs6996614-A	2.00E-19	-	0.53	1.03	-	[1.02-1.03]	"TRIB1AL,LINC02964"	Atopic dermatitis	atopic eczema	-	GCST90244787	8:125597624	37794016	Budu-Aggrey A
+rs4131280-A	2.00E-19	-	0.57	0.97	-	[0.97-0.98]	"SATB1,TBC1D5"	Atopic dermatitis	atopic eczema	-	GCST90244787	3:18373078	37794016	Budu-Aggrey A
+rs4532376-A	1.00E-18	-	0.3	1.03	-	[1.02-1.03]	LMAN2	Atopic dermatitis	atopic eczema	-	GCST90244787	5:177347402	37794016	Budu-Aggrey A
+rs112385344-T	2.00E-18	-	0.12	1.04	-	[1.03-1.05]	"MIR4435-2HG,SOCAR"	Atopic dermatitis	atopic eczema	-	GCST90244787	2:111517961	37794016	Budu-Aggrey A
+rs12153855-C	2.00E-18	-	0.1	0.96	-	[0.95-0.97]	TNXB	Atopic dermatitis	atopic eczema	-	GCST90244787	6:32107027	37794016	Budu-Aggrey A
+rs5005507-C	3.00E-18	-	0.74	1.03	-	[1.02-1.04]	PLXNC1	Atopic dermatitis	atopic eczema	-	GCST90244787	12:94218132	37794016	Budu-Aggrey A
+rs891058-A	3.00E-18	-	0.29	0.97	-	[0.97-0.98]	LINC00299	Atopic dermatitis	atopic eczema	-	GCST90244787	2:8302417	37794016	Budu-Aggrey A
+rs7857407-A	5.00E-18	-	0.4	1.03	-	[1.02-1.03]	"AQP3,AQP7"	Atopic dermatitis	atopic eczema	-	GCST90244787	9:33430709	37794016	Budu-Aggrey A
+rs4247364-C	2.00E-17	-	0.7	0.97	-	[0.97-0.98]	"MAP3K14-AS1,SPATA32"	Atopic dermatitis	atopic eczema	-	GCST90244787	17:45259320	37794016	Budu-Aggrey A
+rs114503346-T	3.00E-17	-	0.04	0.94	-	[0.93-0.95]	"NEURL1B,DUSP1"	Atopic dermatitis	atopic eczema	-	GCST90244787	5:172765347	37794016	Budu-Aggrey A
+rs12138773-A	4.00E-16	-	0.03	1.07	-	[1.05-1.09]	GATAD2B	Atopic dermatitis	atopic eczema	-	GCST90244787	1:153871013	37794016	Budu-Aggrey A
+rs301804-G	6.00E-16	-	0.3	1.03	-	[1.02-1.03]	RERE	Atopic dermatitis	atopic eczema	-	GCST90244787	1:8416381	37794016	Budu-Aggrey A
+rs10833-C	3.00E-15	-	0.65	1.02	-	[1.02-1.03]	IL15	Atopic dermatitis	atopic eczema	-	GCST90244787	4:141733394	37794016	Budu-Aggrey A
+rs629326-T	5.00E-61	-	0.61	0.95	-	[0.95-0.96]	TAGAP-AS1	Atopic dermatitis	atopic eczema	-	GCST90244787	6:159075681	37794016	Budu-Aggrey A
+rs7542147-C	5.00E-56	-	0.49	1.05	-	[1.04-1.05]	"RUNX3,MIR4425"	Atopic dermatitis	atopic eczema	-	GCST90244787	1:24968127	37794016	Budu-Aggrey A
+rs10822037-C	4.00E-55	-	0.61	1.05	-	[1.04-1.05]	LINC02929	Atopic dermatitis	atopic eczema	-	GCST90244787	10:62616798	37794016	Budu-Aggrey A
+rs10836538-T	6.00E-55	-	0.34	0.95	-	[0.95-0.96]	PRR5L	Atopic dermatitis	atopic eczema	-	GCST90244787	11:36343703	37794016	Budu-Aggrey A
+rs7127307-C	6.00E-52	-	0.49	0.96	-	[0.95-0.96]	"LINC02098,ETS1"	Atopic dermatitis	atopic eczema	-	GCST90244787	11:128317488	37794016	Budu-Aggrey A
+rs28383330-G	2.00E-51	-	0.13	0.94	-	[0.93-0.95]	HLA-DQA1	Atopic dermatitis	atopic eczema	-	GCST90244787	6:32632563	37794016	Budu-Aggrey A
+rs4821569-G	5.00E-50	-	0.53	1.04	-	[1.04-1.05]	CSF2RB	Atopic dermatitis	atopic eczema	-	GCST90244787	22:36920831	37794016	Budu-Aggrey A
+rs2967677-T	8.00E-49	-	0.15	1.06	-	[1.05-1.07]	NFILZ	Atopic dermatitis	atopic eczema	-	GCST90244787	19:8679457	37794016	Budu-Aggrey A
+rs12133641-G	3.00E-45	-	0.39	1.04	-	[1.04-1.05]	IL6R	Atopic dermatitis	atopic eczema	-	GCST90244787	1:154455807	37794016	Budu-Aggrey A
+rs118162691-A	1.00E-44	-	0.05	0.9	-	[0.88-0.91]	DOK2	Atopic dermatitis	atopic eczema	-	GCST90244787	8:21910298	37794016	Budu-Aggrey A
+rs72925996-C	2.00E-44	-	0.33	0.96	-	[0.95-0.96]	BACH2	Atopic dermatitis	atopic eczema	-	GCST90244787	6:90220794	37794016	Budu-Aggrey A
+rs67766926-G	1.00E-41	-	0.23	1.05	-	[1.04-1.05]	"REL,NONOP2"	Atopic dermatitis	atopic eczema	-	GCST90244787	2:60936446	37794016	Budu-Aggrey A
+rs187080438-T	2.00E-41	-	0.03	1.14	-	[1.12-1.16]	RPRD2	Atopic dermatitis	atopic eczema	-	GCST90244787	1:150401878	37794016	Budu-Aggrey A
+rs11811788-G	2.00E-39	-	0.24	1.04	-	[1.04-1.05]	"TNFSF4,GOT2P2"	Atopic dermatitis	atopic eczema	-	GCST90244787	1:173181588	37794016	Budu-Aggrey A
+rs859723-A	2.00E-39	-	0.36	0.96	-	[0.96-0.97]	"AIMP1P2,SLC25A38P1"	Atopic dermatitis	atopic eczema	-	GCST90244787	1:172775403	37794016	Budu-Aggrey A
+rs17881320-T	1.00E-38	-	0.08	1.07	-	[1.06-1.08]	STAT3	Atopic dermatitis	atopic eczema	-	GCST90244787	17:42333221	37794016	Budu-Aggrey A
+rs821429-A	3.00E-38	-	0.96	0.91	-	[0.89-0.92]	PGLYRP3	Atopic dermatitis	atopic eczema	-	GCST90244787	1:153302967	37794016	Budu-Aggrey A
+rs34215892-A	1.00E-36	-	0.03	0.89	-	[0.88-0.91]	DOK2	Atopic dermatitis	atopic eczema	-	GCST90244787	8:21909729	37794016	Budu-Aggrey A
+rs4906263-C	3.00E-36	-	0.65	1.04	-	[1.03-1.04]	TRAF3	Atopic dermatitis	atopic eczema	-	GCST90244787	14:102782790	37794016	Budu-Aggrey A
+rs28406364-T	2.00E-34	-	0.38	1.04	-	[1.03-1.04]	"PHB1,ZNF652-AS1"	Atopic dermatitis	atopic eczema	-	GCST90244787	17:49377145	37794016	Budu-Aggrey A
+rs115161931-T	2.00E-32	-	0.04	1.09	-	[1.08-1.11]	GABPB2	Atopic dermatitis	atopic eczema	-	GCST90244787	1:151090823	37794016	Budu-Aggrey A
+rs2415269-A	4.00E-32	-	0.26	0.96	-	[0.96-0.97]	PRORP	Atopic dermatitis	atopic eczema	-	GCST90244787	14:35169731	37794016	Budu-Aggrey A
+rs41293876-C	4.00E-32	-	0.14	0.95	-	[0.95-0.96]	MICB	Atopic dermatitis	atopic eczema	-	GCST90244787	6:31498759	37794016	Budu-Aggrey A
+rs952558-T	2.00E-31	-	0.62	0.97	-	[0.96-0.97]	"RPL13AP18,RNU6-1213P"	Atopic dermatitis	atopic eczema	-	GCST90244787	8:80376499	37794016	Budu-Aggrey A
+rs989437-G	7.00E-31	-	0.61	0.97	-	[0.96-0.97]	CREB5	Atopic dermatitis	atopic eczema	-	GCST90244787	7:28790881	37794016	Budu-Aggrey A
+rs12565349-G	6.00E-15	-	0.15	1.03	-	[1.02-1.04]	LINC01768	Atopic dermatitis	atopic eczema	-	GCST90244787	1:109829007	37794016	Budu-Aggrey A
+rs4705908-A	8.00E-15	-	0.37	0.98	-	[0.97-0.98]	ACSL6	Atopic dermatitis	atopic eczema	-	GCST90244787	5:132011827	37794016	Budu-Aggrey A
+rs11216206-G	9.00E-15	-	0.07	1.04	-	[1.03-1.05]	SIK3	Atopic dermatitis	atopic eczema	-	GCST90244787	11:116972709	37794016	Budu-Aggrey A
+rs10988863-C	1.00E-13	-	0.21	0.97	-	[0.97-0.98]	STX17-DT	Atopic dermatitis	atopic eczema	-	GCST90244787	9:99568999	37794016	Budu-Aggrey A
+rs56308324-T	3.00E-11	-	0.13	1.03	-	[1.02-1.04]	TBX21	Atopic dermatitis	atopic eczema	-	GCST90244787	17:47741840	37794016	Budu-Aggrey A
+rs10790275-C	1.00E-10	-	0.8	1.02	-	[1.02-1.03]	"CXCR5,Y_RNA"	Atopic dermatitis	atopic eczema	-	GCST90244787	11:118875175	37794016	Budu-Aggrey A
+rs9275218-G	5.00E-10	-	0.34	1.06	-	[1.04-1.08]	"MTCO3P1,HLA-DQB1"	Atopic dermatitis	atopic eczema	-	GCST90244787	6:32691156	37794016	Budu-Aggrey A
+rs61776548-A	6.00E-09	-	0.47	1.02	-	[1.01-1.02]	MIIP	Atopic dermatitis	atopic eczema	-	GCST90244787	1:12030967	37794016	Budu-Aggrey A
+rs4706020-A	6.00E-09	-	0.34	0.98	-	[0.98-0.99]	CDC42SE2	Atopic dermatitis	atopic eczema	-	GCST90244787	5:131338383	37794016	Budu-Aggrey A
+rs148161264-G	2.00E-08	-	0.04	1.05	-	[1.03-1.06]	OTULINL	Atopic dermatitis	atopic eczema	-	GCST90244787	5:14604412	37794016	Budu-Aggrey A
+rs17132590-C	1.00E-07	-	0.1	1.03	-	[1.02-1.04]	"TSLP,BCLAF1P1"	Atopic dermatitis	atopic eczema	-	GCST90244787	5:110996200	37794016	Budu-Aggrey A
+rs13097010-G	1.00E-07	-	0.34	1.02	-	[1.01-1.02]	SATB1-AS1	Atopic dermatitis	atopic eczema	-	GCST90244787	3:18631669	37794016	Budu-Aggrey A
+rs7701967-A	1.00E-06	-	0.31	0.99	-	[0.98-0.99]	"ARL2BPP4,HINT1"	Atopic dermatitis	atopic eczema	-	GCST90244787	5:130724057	37794016	Budu-Aggrey A
+rs20541-G	1.00E-18	-	NR	-	0.1451 unit decrease	[0.11-0.18]	"TH2LCRR,IL13"	Atopic dermatitis	atopic eczema	-	GCST90018784	5:132660272	34594039	Sakaue S
+rs9405068-T	1.00E-13	-	NR	-	0.2372 unit decrease	[0.17-0.3]	"LINC02571,HLA-B"	Atopic dermatitis	atopic eczema	-	GCST90018784	6:31329842	34594039	Sakaue S
+rs10957978-T	1.00E-09	-	NR	-	0.0946 unit decrease	[0.064-0.125]	"RPL13AP18,RNU6-1213P"	Atopic dermatitis	atopic eczema	-	GCST90018784	8:80372904	34594039	Sakaue S
+rs16917691-C	9.00E-09	-	NR	-	0.2009 unit increase	[0.13-0.27]	"ADO,ALDH7A1P4"	Atopic dermatitis	atopic eczema	-	GCST90018784	10:62751018	34594039	Sakaue S
+rs11256024-T	5.00E-08	-	NR	-	0.127 unit decrease	[0.082-0.172]	"LINC00709,LINC02676"	Atopic dermatitis	atopic eczema	-	GCST90018784	10:9009375	34594039	Sakaue S
+rs4245080-G	2.00E-08	-	NR	-	0.0867 unit decrease	[0.057-0.117]	ETS1	Atopic dermatitis	atopic eczema	-	GCST90018784	11:128551691	34594039	Sakaue S
+rs10791824-G	6.00E-10	-	NR	-	0.0942 unit increase	[0.064-0.124]	OVOL1	Atopic dermatitis	atopic eczema	-	GCST90018784	11:65791795	34594039	Sakaue S
+rs34455012-C	7.00E-19	-	NR	-	0.1326 unit increase	[0.1-0.16]	"EMSY,LINC02757"	Atopic dermatitis	atopic eczema	-	GCST90018784	11:76588801	34594039	Sakaue S
+rs59039403-A	1.00E-35	-	NR	-	0.4776 unit decrease	[0.4-0.55]	NLRP10	Atopic dermatitis	atopic eczema	-	GCST90018784	11:7960885	34594039	Sakaue S
+rs2227472-C	3.00E-11	-	NR	-	0.0997 unit increase	[0.07-0.129]	"MDM1,IL22"	Atopic dermatitis	atopic eczema	-	GCST90018784	12:68255353	34594039	Sakaue S
+rs16948048-G	4.00E-08	-	NR	-	0.0924 unit increase	[0.059-0.125]	ZNF652-AS1	Atopic dermatitis	atopic eczema	-	GCST90018784	17:49363104	34594039	Sakaue S
+rs146366338-ACACT	1.00E-09	-	NR	-	0.1171 unit increase	[0.079-0.155]	-	Atopic dermatitis	atopic eczema	-	GCST90018784	-	34594039	Sakaue S
+rs6010620-G	5.00E-18	-	NR	-	0.1525 unit increase	[0.12-0.19]	"RTEL1-TNFRSF6B,RTEL1"	Atopic dermatitis	atopic eczema	-	GCST90018784	20:63678486	34594039	Sakaue S
+rs56243319-T	3.00E-09	-	NR	-	0.0919 unit increase	[0.062-0.122]	MFN2	Atopic dermatitis	atopic eczema	-	GCST90018784	1:11988538	34594039	Sakaue S
+rs558269137-C	1.00E-18	-	NR	-	1.0276 unit increase	[0.8-1.26]	"FLG,FLG-AS1"	Atopic dermatitis	atopic eczema	-	GCST90018784	1:152312601	34594039	Sakaue S
+rs4576655-T	3.00E-13	-	NR	-	0.1122 unit increase	[0.082-0.142]	IL6R	Atopic dermatitis	atopic eczema	-	GCST90018784	1:154446273	34594039	Sakaue S
+rs397776771-AT	2.00E-20	-	NR	-	0.157 unit decrease	[0.12-0.19]	-	Atopic dermatitis	atopic eczema	-	GCST90018784	-	34594039	Sakaue S
+rs1666723-T	5.00E-09	-	NR	-	0.3833 unit decrease	[0.25-0.51]	SOCAR	Atopic dermatitis	atopic eczema	-	GCST90018784	2:111543096	34594039	Sakaue S
+rs6723629-C	3.00E-08	-	NR	-	0.1078 unit decrease	[0.07-0.146]	"LINC01143,CD207"	Atopic dermatitis	atopic eczema	-	GCST90018784	2:70840723	34594039	Sakaue S
+rs12637953-T	4.00E-14	-	NR	-	0.1805 unit increase	[0.13-0.23]	"CCDC80,MAT2AP1"	Atopic dermatitis	atopic eczema	-	GCST90018784	3:112676994	34594039	Sakaue S
+rs59706531-C	1.00E-11	-	NR	-	0.1629 unit increase	[0.12-0.21]	GLB1	Atopic dermatitis	atopic eczema	-	GCST90018784	3:33027235	34594039	Sakaue S
+rs11130215-G	2.00E-08	-	NR	-	0.1043 unit decrease	[0.068-0.141]	BHLHE40	Atopic dermatitis	atopic eczema	-	GCST90018784	3:4984323	34594039	Sakaue S
+rs79243012-C	2.00E-08	-	NR	-	0.1912 unit increase	[0.12-0.26]	AFF1	Atopic dermatitis	atopic eczema	-	GCST90018784	4:86939360	34594039	Sakaue S
+rs146984913-A	1.00E-09	(general)	NR	-	-	-	"RNU1-141P,LINC01653"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	1:218074307	32439431	Simard M
+rs17700654-C	1.00E-10	(general)	NR	-	-	-	"LINC01653,RNU1-141P"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	1:218077231	32439431	Simard M
+rs12465939-C	2.00E-07	(additive)	NR	-	0.566 unit decrease	[0.351-0.78]	"CTNNA2,ANKRD11P1"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	2:81014687	32439431	Simard M
+rs984521-A	2.00E-10	(additive)	NR	-	0.75 unit decrease	[0.521-0.98]	NCKAP5	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	2:132735177	32439431	Simard M
+rs213549-C	1.00E-41	(additive)	NR	-	1.327 unit increase	[1.135-1.519]	"TRPM8,MSL3P1"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	2:233877940	32439431	Simard M
+rs9825865-T	4.00E-11	(additive)	NR	-	0.712 unit decrease	[0.501-0.501]	"RPL23AP39,RPL21P17"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	3:1824026	32439431	Simard M
+rs6778759-T	2.00E-10	(additive)	NR	-	1.039 unit increase	[0.719-1.359]	RBMS3	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	3:29915452	32439431	Simard M
+rs6799780-G	7.00E-24	(additive)	NR	-	1.188 unit increase	[0.957-1.42]	"GOLGA4,APRG1"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	3:37369213	32439431	Simard M
+rs983363-A	2.00E-08	(additive)	NR	-	1.126 unit increase	[0.732-1.521]	KCTD8	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	4:44204005	32439431	Simard M
+rs11737164-A	4.00E-11	(general)	NR	-	-	-	"DCHS2,SFRP2"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	4:154049245	32439431	Simard M
+rs1438119-C	2.00E-16	(additive)	NR	-	0.874 unit increase	[0.666-1.081]	CPE	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	4:165427194	32439431	Simard M
+rs10053502-T	5.00E-15	(additive)	NR	-	1.259 unit increase	[0.944-1.574]	LINC00603	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	5:39979070	32439431	Simard M
+rs112464710-G	6.00E-06	(additive)	NR	-	1.035 unit increase	[0.587-1.484]	"RBBP4P4,PRIM2BP"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	6:58431454	32439431	Simard M
+rs2321443-C	3.00E-10	(additive)	NR	-	0.706 unit decrease	[0.485-0.926]	"IRAK1BP1,MEI4"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	6:78495243	32439431	Simard M
+rs6943506-G	2.00E-09	(general)	NR	-	-	-	CREB5	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	7:28431175	32439431	Simard M
+rs854560-A	2.00E-12	(additive)	NR	-	0.682 unit increase	[0.492-0.871]	PON1	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	7:95316772	32439431	Simard M
+rs11984204-G	3.00E-11	(additive)	NR	-	0.999 unit increase	[0.705-1.292]	KCND2	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	7:120712056	32439431	Simard M
+rs4554481-C	3.00E-11	(general)	NR	-	-	-	CSGALNACT1	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	8:19515754	32439431	Simard M
+rs1841513-A	2.00E-28	(additive)	NR	-	1.171 unit decrease	[0.963-1.379]	LINC02055	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	8:136798826	32439431	Simard M
+rs10512169-C	2.00E-13	(general)	NR	-	-	-	"NAA35,PHB1P7"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	9:85925495	32439431	Simard M
+rs17441316-T	6.00E-10	(general)	NR	-	-	-	LINC01503	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	9:129345968	32439431	Simard M
+rs61961401-T	8.00E-08	(additive)	NR	-	1.121 unit increase	[0.712-1.53]	RCBTB1	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	13:49567885	32439431	Simard M
+rs11303055-T	2.00E-06	(additive)	NR	-	0.595 unit increase	[0.35-0.841]	"LINC01080,SPRY2"	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	13:80052287	32439431	Simard M
+rs16960052-C	2.00E-10	(general)	NR	-	-	-	CDH13	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	16:83270625	32439431	Simard M
+rs35568883-A	1.00E-07	(additive)	NR	-	0.692 unit increase	[0.131-0.435]	ERG	Atopic dermatitis (moderate to severe)	atopic eczema	-	GCST90086172	21:38488333	32439431	Simard M
+rs993226-G	5.00E-09	-	0.034	1.58	-	[1.35-1.84]	"SLC6A15,RPL6P25"	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	12:84492794	26542096	Marenholz I
+rs9357733-A	2.00E-08	-	0.808	1.27	-	[1.17-1.38]	EFHC1	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	6:52427338	26542096	Marenholz I
+rs12081541-C	9.00E-11	-	0.091	1.61	-	[1.41-1.89]	"FLG-AS1,LCE5A"	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	1:152468890	26542096	Marenholz I
+rs17690965-C	5.00E-08	-	0.264	1.24	-	[1.15-1.33]	KIF3A	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	5:132694975	26542096	Marenholz I
+rs479844-G	4.00E-10	-	0.56	1.25	-	[1.24-1.43]	"OVOL1,AP5B1"	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	11:65784486	26542096	Marenholz I
+rs2155219-T	2.00E-15	-	0.487	1.33	-	[1.24-1.43]	"EMSY,LINC02757"	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	11:76588150	26542096	Marenholz I
+rs10445308-C	5.00E-08	-	0.529	1.22	-	[1.14-1.30]	IKZF3	Atopic march	"atopic eczema,childhood onset asthma,atopic march"	-	GCST003180	17:39781794	26542096	Marenholz I
+rs4916831-G	7.00E-09	-	0.56	1.4084507	-	[1.27-1.59]	ADGRV1	Atopy	atopy	-	GCST006040	5:90916459	28927820	Sugier PE
+rs6056732-C	3.00E-06	-	0.09	1.6393442	-	[1.33-2.00]	PAK5	Atopy	atopy	-	GCST006040	20:9595973	28927820	Sugier PE
+rs4952590-?	2.00E-06	-	0.86	1.92	-	[1.27-2.86]	PKDCC	Atopy	atopy	-	GCST000540	2:42049781	19961619	Castro-Giner F
+chr9:6255967-C	4.00E-18	-	0.0047	0.601	-	[0.535-0.674]	-	Atopy	atopy	-	GCST90081463	-	34662886	Backman JD
+rs1255383-C	9.00E-10	-	NR	-	-	-	ZNF37BP	Atopy in childhood asthma x sex interaction	"sex interaction measurement,atopy"	childhood onset asthma	GCST90258649	10:42527140	35953101	Lee S
+rs2483695-A	2.00E-09	-	NR	-	-	-	ZNF33B	Atopy in childhood asthma x sex interaction	"sex interaction measurement,atopy"	childhood onset asthma	GCST90258649	10:42638205	35953101	Lee S
+rs61816761-A	3.00E-12	-	NR	-	0.7356 unit increase	[0.53-0.94]	"FLG,FLG-AS1"	Contact dermatitis	contact dermatitis	-	GCST90018830	1:152313385	34594039	Sakaue S
+rs190850598-?	2.00E-07	-	NR	-	-	-	GPHN	COVID-19 or atopic dermatitis (trans-disease meta-analysis)	"atopic eczema,COVID-19"	-	GCST011476	14:66645703	33485957	Patrick MT
+chr1:152307547-A	4.00E-17	-	0.0047	1.906	-	[1.64-2.216]	-	Eczema or dermatitis	contact dermatitis	-	GCST90077853	-	34662886	Backman JD
+rs34416364-G	8.00E-09	-	0.90442	1.0608954	-	[1.04-1.08]	"HCG22,MUC22"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:31035692	31361310	Johansson Å
+rs16858573-T	9.00E-11	-	0.8752	1.0607829	-	[1.04-1.08]	ARHGAP15	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:143118156	31361310	Johansson Å
+rs4921290-A	1.00E-16	-	0.7659	1.0602206	-	[1.05-1.07]	MIR3142HG	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:160487233	31361310	Johansson Å
+rs1214598-G	6.00E-21	-	0.6147	1.0594343	-	[1.05-1.07]	CD247	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:167457187	31361310	Johansson Å
+rs6496676-A	3.00E-18	-	0.6894	1.0586492	-	[1.05-1.07]	IQGAP1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	15:90445152	31361310	Johansson Å
+rs6066184-C	7.00E-16	-	0.7448	1.0574179	-	[1.04-1.07]	EYA2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	20:47055837	31361310	Johansson Å
+rs2516466-G	4.00E-20	-	0.5538	1.0564125	-	[1.04-1.07]	LINC01149	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:31446550	31361310	Johansson Å
+rs12343737-C	2.00E-08	-	0.8958	1.0564125	-	[1.04-1.08]	"DELEC1,TNC"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:115041748	31361310	Johansson Å
+rs905670-G	5.00E-18	-	0.648	1.055409	-	[1.04-1.07]	BACH2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:90248783	31361310	Johansson Å
+rs130071-G	3.00E-16	-	0.7038	1.0548522	-	[1.04-1.07]	CCHCR1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:31148433	31361310	Johansson Å
+rs61907713-G	4.00E-13	-	0.7809	1.0538518	-	[1.04-1.07]	"ETS1,LINC02098"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:128293212	31361310	Johansson Å
+rs1201113-G	1.00E-08	-	0.8786	1.0537407	-	[1.04-1.07]	TNFRSF8	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:12084377	31361310	Johansson Å
+rs11255938-C	4.00E-18	-	0.5454	1.0535188	-	[1.04-1.07]	"RNA5SP299,LINC02676"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:8808772	31361310	Johansson Å
+rs4616071-C	2.00E-14	-	0.7315	1.0529641	-	[1.04-1.07]	"SIK2,LAYN"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:111570140	31361310	Johansson Å
+rs12365699-G	3.00E-10	-	0.8349	1.05241	-	[1.04-1.07]	"CXCR5,Y_RNA"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:118872577	31361310	Johansson Å
+rs7714574-T	5.00E-17	-	0.6032	1.0522993	-	[1.04-1.06]	"RNU1-150P,TTC33"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:40492553	31361310	Johansson Å
+rs59183580-A	2.00E-08	-	0.8707	1.0513036	-	[1.03-1.07]	"FAM76B,LNCRNA-IUR"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:95692306	31361310	Johansson Å
+rs479844-G	6.00E-17	-	0.5547	1.0511931	-	[1.04-1.06]	"OVOL1,AP5B1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:65784486	31361310	Johansson Å
+rs3128967-T	2.00E-12	-	0.90959	1.0504202	-	[1.04-1.06]	HLA-DPB1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:33088320	31361310	Johansson Å
+rs1998266-C	2.00E-08	-	0.8611	1.0500892	-	[1.03-1.07]	ETV7-AS1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:36390512	31361310	Johansson Å
+rs3787100-G	2.00E-12	-	0.7549	1.049979	-	[1.04-1.06]	"RTEL1-TNFRSF6B,RTEL1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	20:63675057	31361310	Johansson Å
+rs653178-T	1.00E-15	-	0.5173	1.0485477	-	[1.04-1.06]	ATXN2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:111569952	31361310	Johansson Å
+rs2621363-T	8.00E-13	-	0.7091	1.0481081	-	[1.04-1.06]	"HLA-DOB,HLA-DQB2"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32801612	31361310	Johansson Å
+rs12440045-C	7.00E-14	-	0.5279	1.0465724	-	[1.03-1.06]	"RTF1,ITPKA"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	15:41490486	31361310	Johansson Å
+rs9247-C	3.00E-09	-	0.8088	1.0461345	-	[1.03-1.06]	INPP5D	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:233204655	31361310	Johansson Å
+rs9494883-A	1.00E-10	-	0.96875	1.1196954	-	[1.08-1.16]	WAKMAR2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:137850329	31361310	Johansson Å
+rs117710327-C	4.00E-18	-	0.93779	1.116196	-	[1.09-1.14]	"SLC7A10,CEBPA"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	19:33235672	31361310	Johansson Å
+rs74060469-C	5.00E-12	-	0.96116	1.1150758	-	[1.08-1.15]	RUNX3	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:24907665	31361310	Johansson Å
+rs62379371-G	6.00E-14	-	0.95319	1.1135857	-	[1.08-1.14]	"VDAC1,TCF7"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:134103583	31361310	Johansson Å
+rs62404084-C	1.00E-43	-	0.8069	1.1116052	-	[1.1-1.13]	HLA-DQA1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32635544	31361310	Johansson Å
+rs34290285-G	2.00E-51	-	0.7452	1.1095084	-	[1.1-1.12]	D2HGDH	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:241759225	31361310	Johansson Å
+rs3024971-T	7.00E-25	-	0.893	1.10595	-	[1.09-1.13]	STAT6	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:57099944	31361310	Johansson Å
+rs6881270-C	1.00E-48	-	0.7254	1.1035092	-	[1.09-1.12]	IL7R	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:35878993	31361310	Johansson Å
+rs28407950-C	7.00E-45	-	0.7564	1.1032656	-	[1.09-1.12]	"HLA-DQA1,HLA-DQB1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32658571	31361310	Johansson Å
+rs1438673-C	2.00E-58	-	0.5166	1.1007154	-	[1.09-1.11]	"WDR36,RPS3AP21"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:111131801	31361310	Johansson Å
+rs12935657-G	1.00E-38	-	0.7558	1.0955303	-	[1.08-1.11]	CLEC16A	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	16:11125184	31361310	Johansson Å
+rs10519068-G	2.00E-20	-	0.8722	1.0868385	-	[1.07-1.11]	RORA	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	15:60776505	31361310	Johansson Å
+rs4845604-G	5.00E-21	-	0.8595	1.0864842	-	[1.07-1.1]	RORC	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:151829204	31361310	Johansson Å
+rs9276643-C	8.00E-12	-	0.6647	1.0858942	-	[1.06-1.11]	"HLA-DQB2,HLA-DOB"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32777057	31361310	Johansson Å
+rs186856025-C	5.00E-17	-	0.8923	1.0847163	-	[1.07-1.1]	"LINC02676,LINC00709"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:9001494	31361310	Johansson Å
+rs11539209-T	7.00E-13	-	0.92036	1.0828371	-	[1.06-1.11]	ZDHHC12	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:128721272	31361310	Johansson Å
+rs509399-C	2.00E-11	-	0.92476	1.079797	-	[1.06-1.1]	LINC01991	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:187963924	31361310	Johansson Å
+rs7749543-G	8.00E-10	-	0.6269	1.0775862	-	[1.05-1.1]	"HLA-DQB2,HLA-DOB"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32783639	31361310	Johansson Å
+rs891058-G	2.00E-27	-	0.7053	1.0738832	-	[1.06-1.09]	LINC00299	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:8302417	31361310	Johansson Å
+rs3918226-C	6.00E-10	-	0.9224	1.0728463	-	[1.05-1.1]	NOS3	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:150993088	31361310	Johansson Å
+rs4916533-C	6.00E-10	-	0.91931	1.0707784	-	[1.05-1.09]	"PIGX,NRROS"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:196646711	31361310	Johansson Å
+rs7221109-C	6.00E-25	-	0.6494	1.0665529	-	[1.05-1.08]	"CCR7,SMARCE1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	17:40614034	31361310	Johansson Å
+rs10910095-G	4.00E-13	-	0.8659	1.0658708	-	[1.05-1.08]	"TNFRSF14,PRXL2B"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:2579316	31361310	Johansson Å
+rs1837253-C	3.00E-19	-	0.7398	1.0629252	-	[1.05-1.08]	"TSLP,BCLAF1P1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:111066174	31361310	Johansson Å
+rs9986945-G	2.00E-10	-	0.883	1.0612332	-	[1.04-1.08]	"SDK1-AS1,CARD11"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:3113539	31361310	Johansson Å
+rs707954-A	1.00E-13	-	0.3039	1.062	-	[1.046-1.078]	HLA-DRB1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32581724	31361310	Johansson Å
+rs2422254-T	1.00E-09	-	0.09283	1.065	-	[1.044-1.086]	"AIMP1P2,SLC25A38P1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:172810693	31361310	Johansson Å
+rs9271701-T	2.00E-17	-	0.1795	1.067	-	[1.051-1.082]	"HLA-DRB1,HLA-DQA1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32625422	31361310	Johansson Å
+rs77665773-T	1.00E-08	-	0.05889	1.074	-	[1.049-1.1]	"OTULIN,ANKH"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:14700894	31361310	Johansson Å
+rs17293632-T	6.00E-25	-	0.2372	1.074	-	[1.06-1.088]	SMAD3	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	15:67150258	31361310	Johansson Å
+rs13020553-G	2.00E-33	-	0.3884	1.076	-	[1.064-1.088]	"IL18R1,IL1RL1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:102315366	31361310	Johansson Å
+rs1444789-C	7.00E-22	-	0.1849	1.076	-	[1.06-1.091]	"LINC00709,LINC02676"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:9022398	31361310	Johansson Å
+rs62623446-T	1.00E-11	-	0.07213	1.08	-	[1.057-1.103]	TESPA1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:54974507	31361310	Johansson Å
+rs17454584-G	2.00E-30	-	0.2184	1.085	-	[1.07-1.099]	"IL2,ADAD1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	4:122432277	31361310	Johansson Å
+rs144829310-T	4.00E-25	-	0.1623	1.086	-	[1.07-1.102]	"IL33,GTF3AP1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:6208030	31361310	Johansson Å
+rs981625-G	9.00E-13	-	0.06511	1.088	-	[1.064-1.113]	LINC00393	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	13:73465798	31361310	Johansson Å
+rs45613035-C	6.00E-20	-	0.09838	1.094	-	[1.074-1.115]	BLTP1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	4:122219915	31361310	Johansson Å
+rs2390314-A	8.00E-15	-	0.06907	1.094	-	[1.071-1.118]	"EEF1A1P27,ITGB8"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:20416355	31361310	Johansson Å
+rs380852-T	7.00E-15	-	0.05472	1.107	-	[1.08-1.135]	"LINC02571,HLA-B"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:31336711	31361310	Johansson Å
+rs7936312-T	4.00E-70	-	0.4769	1.111	-	[1.098-1.123]	"EMSY,LINC02757"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:76582682	31361310	Johansson Å
+rs61839660-T	1.00E-32	-	0.09897	1.123	-	[1.103-1.144]	IL2RA	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:6052734	31361310	Johansson Å
+rs17142799-T	6.00E-12	-	0.02657	1.132	-	[1.094-1.171]	ITGB8	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:20404337	31361310	Johansson Å
+rs7728912-C	5.00E-52	-	0.1461	1.134	-	[1.116-1.152]	"BCLAF1P1,SLC25A46"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:110812772	31361310	Johansson Å
+rs61815559-T	3.00E-19	-	0.03183	1.16	-	[1.125-1.197]	FLG-AS1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:152298743	31361310	Johansson Å
+rs12122629-C	8.00E-25	-	0.04184	1.16	-	[1.129-1.192]	"TCHHL1,TCHH"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:152101640	31361310	Johansson Å
+rs55646091-A	5.00E-32	-	0.04826	1.173	-	[1.144-1.204]	"EMSY,LINC02757"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:76588387	31361310	Johansson Å
+rs112401631-A	1.00E-43	-	0.01884	1.336	-	[1.284-1.39]	"SMARCE1,CCR7"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	17:40608272	31361310	Johansson Å
+rs9297768-A	2.00E-11	-	0.3335	1.043	-	[1.031-1.055]	"PVT1,MYC"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	8:127792134	31361310	Johansson Å
+rs2228145-C	7.00E-13	-	0.4108	1.044	-	[1.032-1.056]	IL6R	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:154454494	31361310	Johansson Å
+rs7646283-T	4.00E-12	-	0.3656	1.044	-	[1.032-1.056]	GLB1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:33004988	31361310	Johansson Å
+rs6986151-C	6.00E-09	-	0.197	1.044	-	[1.029-1.058]	"MIR4471,ANKRD46"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	8:100507673	31361310	Johansson Å
+rs2190097-C	2.00E-10	-	0.2417	1.045	-	[1.032-1.059]	GSAP	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:77409628	31361310	Johansson Å
+rs7140939-A	1.00E-12	-	0.3916	1.045	-	[1.033-1.057]	RAD51B	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	14:68293810	31361310	Johansson Å
+rs12886625-G	2.00E-13	-	0.4688	1.045	-	[1.033-1.056]	"TRAF3,RCOR1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	14:102772597	31361310	Johansson Å
+rs2229768-C	8.00E-11	-	0.2381	1.046	-	[1.032-1.059]	"H4C3,H2BC4"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:26104052	31361310	Johansson Å
+rs507666-A	3.00E-09	-	0.1859	1.046	-	[1.031-1.061]	-	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	-	31361310	Johansson Å
+rs12952581-A	3.00E-13	-	0.3627	1.046	-	[1.034-1.058]	"PHB1,ZNF652-AS1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	17:49370984	31361310	Johansson Å
+rs7601800-T	4.00E-13	-	0.3283	1.047	-	[1.034-1.059]	"MOB4,HSPE1-MOB4"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:197530375	31361310	Johansson Å
+rs7650683-C	4.00E-13	-	0.2994	1.048	-	[1.035-1.06]	LPP	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:188727995	31361310	Johansson Å
+rs2070901-T	7.00E-13	-	0.2699	1.049	-	[1.036-1.062]	FCER1G	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:161215268	31361310	Johansson Å
+rs10912564-T	2.00E-13	-	0.3047	1.049	-	[1.036-1.062]	TNFSF4	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:173201479	31361310	Johansson Å
+rs3933376-A	4.00E-10	-	0.1868	1.049	-	[1.034-1.064]	PTPRK	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:127970926	31361310	Johansson Å
+rs7359623-C	2.00E-16	-	0.4857	1.05	-	[1.038-1.062]	"GSDMB,ZPBP2"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	17:39893336	31361310	Johansson Å
+rs906363-C	4.00E-09	-	0.1459	1.05	-	[1.033-1.066]	"BATF3,LINC02773"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:212685455	31361310	Johansson Å
+rs763342-C	4.00E-16	-	0.3393	1.052	-	[1.04-1.064]	"BCL6,LINC01991"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:187921587	31361310	Johansson Å
+rs113377887-T	2.00E-12	-	0.2107	1.052	-	[1.038-1.067]	FOXO1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	13:40629228	31361310	Johansson Å
+rs10244416-C	1.00E-18	-	0.4879	1.054	-	[1.042-1.065]	"EEF1A1P27,ITGB8"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:20536128	31361310	Johansson Å
+rs20541-A	5.00E-13	-	0.1799	1.057	-	[1.041-1.072]	"TH2LCRR,IL13"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:132660272	31361310	Johansson Å
+rs1555926-C	3.00E-14	-	0.2072	1.057	-	[1.042-1.071]	ZNF217	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	20:53568405	31361310	Johansson Å
+rs9276796-G	1.00E-20	-	0.3953	1.058	-	[1.046-1.07]	"HLA-DOB,HLA-DQB2"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32810645	31361310	Johansson Å
+rs1689510-C	2.00E-19	-	0.3398	1.058	-	[1.045-1.07]	SUOX	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:56002984	31361310	Johansson Å
+rs9648346-G	2.00E-15	-	0.1994	1.06	-	[1.045-1.074]	JAZF1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	7:28120494	31361310	Johansson Å
+rs12722502-C	3.00E-18	-	0.9827	1.2312238	-	[1.18-1.29]	IL2RA	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:6051176	31361310	Johansson Å
+rs143021546-G	3.00E-10	-	0.98377	1.2528188	-	[1.17-1.34]	IL4R	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	16:27337163	31361310	Johansson Å
+rs72782675-C	2.00E-09	-	0.98955	1.198897	-	[1.13-1.27]	"LINC00709,LINC02676"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:8986983	31361310	Johansson Å
+rs147725790-T	2.00E-12	-	0.98229	1.1804981	-	[1.13-1.23]	HLA-DMB	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32940196	31361310	Johansson Å
+rs72823641-T	1.00E-63	-	0.8633	1.1611705	-	[1.14-1.18]	"IL1RL1,IL18R1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:102319699	31361310	Johansson Å
+rs5743604-A	1.00E-72	-	0.8013	1.1467891	-	[1.13-1.16]	TLR1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	4:38799664	31361310	Johansson Å
+rs34210653-G	9.00E-10	-	0.97875	1.1385632	-	[1.09-1.18]	ALOX15	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	17:4632019	31361310	Johansson Å
+rs4648883-C	2.00E-13	-	0.5803	1.0454783	-	[1.03-1.06]	RUNX3	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:24934712	31361310	Johansson Å
+rs9816071-T	1.00E-13	-	0.5205	1.0450413	-	[1.03-1.06]	SLC15A2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:121921471	31361310	Johansson Å
+rs7989041-T	2.00E-12	-	0.6506	1.0449321	-	[1.03-1.06]	"KLF5,PSMD10P3"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	13:73053538	31361310	Johansson Å
+rs10909912-T	2.00E-08	-	0.8102	1.0440594	-	[1.03-1.06]	PRDM16	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:3258807	31361310	Johansson Å
+rs301806-T	1.00E-12	-	0.5842	1.0439503	-	[1.03-1.06]	RERE	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:8422018	31361310	Johansson Å
+rs1260294-T	2.00E-08	-	0.8004	1.0430791	-	[1.03-1.06]	PITPNM2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:123075742	31361310	Johansson Å
+rs2396497-C	1.00E-09	-	0.7581	1.0430791	-	[1.03-1.06]	"CCL20,TDGF1P2"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:227859423	31361310	Johansson Å
+rs9442514-G	1.00E-09	-	0.739	1.0429703	-	[1.03-1.06]	SPSB1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	1:9295877	31361310	Johansson Å
+rs12623041-C	1.00E-10	-	0.6802	1.0421009	-	[1.03-1.05]	"SOCAR,MIR4435-2HG"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:111505565	31361310	Johansson Å
+rs11717778-G	6.00E-11	-	0.6585	1.0418837	-	[1.03-1.05]	"CD200R1P1,CD200R1L"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:112853801	31361310	Johansson Å
+rs249677-A	6.00E-11	-	0.6331	1.0413413	-	[1.03-1.05]	"NDFIP1,SPRY4"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:142159774	31361310	Johansson Å
+rs28749131-G	2.00E-10	-	0.6706	1.041016	-	[1.03-1.05]	"HLA-U,HLA-A"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:29940118	31361310	Johansson Å
+rs1330303-C	5.00E-10	-	0.6461	1.0396092	-	[1.03-1.05]	BNC2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:16715828	31361310	Johansson Å
+rs61192126-T	8.00E-09	-	0.709	1.0390689	-	[1.03-1.05]	"RYBP,LINC00877"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:72345701	31361310	Johansson Å
+rs343478-G	3.00E-10	-	0.5549	1.038961	-	[1.03-1.05]	"GTF3AP1,RANBP6"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:6051399	31361310	Johansson Å
+rs4771332-C	6.00E-09	-	0.6868	1.0384216	-	[1.03-1.05]	"TM9SF2,CCR12P"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	13:99418203	31361310	Johansson Å
+rs3828794-G	1.00E-09	-	0.5206	1.0380982	-	[1.03-1.05]	HLA-DQB1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32668126	31361310	Johansson Å
+rs4381563-T	3.00E-09	-	0.6665	1.0380982	-	[1.03-1.05]	PPCDC	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	15:75108438	31361310	Johansson Å
+rs1143633-C	8.00E-09	-	0.6486	1.0373445	-	[1.03-1.05]	IL1B	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:112832890	31361310	Johansson Å
+rs10501149-G	2.00E-08	-	0.6842	1.0364842	-	[1.02-1.05]	PRR5L	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:36354471	31361310	Johansson Å
+rs8086340-G	3.00E-09	-	0.5355	1.0363768	-	[1.02-1.05]	TNFRSF11A	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	18:62339745	31361310	Johansson Å
+rs13405815-C	3.00E-09	-	0.5362	1.036162	-	[1.02-1.05]	FOSL2	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:28406043	31361310	Johansson Å
+rs9272545-T	1.00E-08	-	0.6122	1.0357327	-	[1.02-1.05]	HLA-DQA1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:32639108	31361310	Johansson Å
+rs7240948-C	7.00E-09	-	0.6013	1.0357327	-	[1.02-1.05]	STARD6	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	18:54338086	31361310	Johansson Å
+rs6479828-A	9.00E-09	-	0.592	1.0356256	-	[1.02-1.05]	LINC02929	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:62615590	31361310	Johansson Å
+rs3793079-T	3.00E-08	-	0.6256	1.0347682	-	[1.02-1.05]	MLN	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:33800011	31361310	Johansson Å
+rs4939490-C	2.00E-08	-	0.6068	1.0346612	-	[1.02-1.05]	"CD6,LINC02954"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:61026179	31361310	Johansson Å
+rs2072713-T	3.00E-08	-	0.5155	1.0341262	-	[1.02-1.05]	CSF2RB	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	22:36923383	31361310	Johansson Å
+rs10986320-C	9.00E-09	-	0.3735	1.036	-	[1.024-1.048]	NEK6	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:124331623	31361310	Johansson Å
+rs4076542-A	2.00E-08	-	0.3335	1.036	-	[1.023-1.048]	"ASCL2,MIR4686"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	11:2215989	31361310	Johansson Å
+rs1942094-G	7.00E-09	-	0.3759	1.036	-	[1.024-1.048]	SMAD4	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	18:51074970	31361310	Johansson Å
+rs60946162-T	5.00E-10	-	0.4549	1.038	-	[1.026-1.05]	LPP	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:188415548	31361310	Johansson Å
+rs13165038-C	5.00E-09	-	0.3259	1.038	-	[1.026-1.051]	"IRF1,IRF1-AS1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:132477658	31361310	Johansson Å
+rs6830371-T	1.00E-09	-	0.3761	1.038	-	[1.026-1.05]	STX18-AS1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	4:4765968	31361310	Johansson Å
+rs17033015-A	7.00E-10	-	0.4244	1.038	-	[1.026-1.05]	"MANBA,NFKB1"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	4:102625147	31361310	Johansson Å
+rs10796303-T	1.00E-09	-	0.3323	1.039	-	[1.027-1.051]	PRKCQ-AS1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:6585738	31361310	Johansson Å
+rs3813308-G	2.00E-10	-	0.4352	1.039	-	[1.027-1.051]	TNFAIP8	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:119355086	31361310	Johansson Å
+rs10818483-T	6.00E-10	-	0.3574	1.039	-	[1.027-1.051]	PHF19	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:120888195	31361310	Johansson Å
+rs2013724-A	2.00E-08	-	0.2644	1.039	-	[1.026-1.053]	"RPLP0P3,PSMA6"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	14:35387142	31361310	Johansson Å
+rs10185028-G	3.00E-08	-	0.227	1.04	-	[1.026-1.054]	REL	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	2:60891604	31361310	Johansson Å
+rs13185930-A	1.00E-08	-	0.2467	1.04	-	[1.026-1.053]	"CDC23,GFRA3"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	5:138241824	31361310	Johansson Å
+rs2746438-T	6.00E-11	-	0.4445	1.04	-	[1.028-1.051]	AHI1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	6:135396930	31361310	Johansson Å
+rs4743311-G	2.00E-08	-	0.2533	1.04	-	[1.026-1.054]	COL15A1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	9:99028596	31361310	Johansson Å
+rs10468514-G	1.00E-10	-	0.3984	1.04	-	[1.028-1.052]	"ARHGAP27,RNA5SP443"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	17:45378874	31361310	Johansson Å
+rs1344674-G	2.00E-11	-	0.4489	1.041	-	[1.029-1.053]	ZBTB38	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	3:141406344	31361310	Johansson Å
+rs4739736-A	1.00E-10	-	0.3478	1.041	-	[1.028-1.053]	"RPL13AP18,RNU6-1213P"	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	8:80365134	31361310	Johansson Å
+rs2393717-G	1.00E-11	-	0.4697	1.041	-	[1.029-1.052]	SPPL3	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:120782572	31361310	Johansson Å
+rs7953139-C	1.00E-11	-	0.4797	1.041	-	[1.03-1.053]	LRRC43	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	12:122177994	31361310	Johansson Å
+rs12784963-G	6.00E-12	-	0.4295	1.042	-	[1.03-1.053]	SUFU	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	10:102577229	31361310	Johansson Å
+rs3116590-G	1.00E-08	-	0.2145	1.042	-	[1.028-1.056]	DLEU1	Hay fever and/or eczema	"Eczematoid dermatitis,allergic rhinitis"	-	GCST009717	13:50234741	31361310	Johansson Å
+chr1:152307547-A	1.00E-11	-	0.0052	-	0.214 unit decrease	[-0.276--0.153]	-	Hay fever rhinitis or eczema (age of onset) (UKB data field 3761)	"atopic eczema,age of onset of allergic disease"	-	GCST90079072	-	34662886	Backman JD
+rs9271588-G	1.00E-26	-	0.523	2.3	-	[1.98-2.70]	"HLA-DQA1,HLA-DRB1"	Hydrolysed wheat protein allergy	wheat allergic reaction	-	GCST009143	6:32623176	31301374	Noguchi E
+rs59325236-A	1.00E-08	-	0.024	2.57	-	[1.85-3.55]	RBFOX1	Hydrolysed wheat protein allergy	wheat allergic reaction	-	GCST009143	16:7706047	31301374	Noguchi E
+chr1:152307547-A	2.00E-13	-	0.0047	1.883	-	[1.592-2.229]	-	ICD10 L30: Eczema or dermatitis	contact dermatitis	-	GCST90077854	-	34662886	Backman JD
+rs2155219-T	1.00E-08	-	0.47	1.22	-	[1.14-1.31]	"EMSY,LINC02757"	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	11:76588150	22036096	Ramasamy A
+rs17513503-G	1.00E-08	-	0.09	1.39	-	[1.24-1.56]	"SLC25A46,BCLAF1P1"	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	5:110810746	22036096	Ramasamy A
+rs2069772-C	1.00E-06	-	0.3	1.19	-	[1.11-1.28]	IL2	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	4:122451978	22036096	Ramasamy A
+rs631208-A	2.00E-06	-	0.6	1.18	-	[1.10-1.26]	"RPL21P119,LINC02177"	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	16:9305867	22036096	Ramasamy A
+rs6673480-T	2.00E-06	-	0.07	1.35	-	[1.19-1.52]	EPS15	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	1:51393570	22036096	Ramasamy A
+rs6554809-C	3.00E-06	-	0.84	1.29	-	[1.16-1.43]	DNAH5	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	5:13740867	22036096	Ramasamy A
+rs7617456-G	3.00E-06	-	0.59	1.18	-	[1.10-1.26]	"TMEM108,NPHP3-AS1"	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	3:133009059	22036096	Ramasamy A
+rs1325195-A	5.00E-06	-	0.59	1.17	-	[1.10-1.26]	ABL2	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	1:179102621	22036096	Ramasamy A
+rs7775228-C	2.00E-09	-	0.13	1.33	-	[1.21-1.45]	"HLA-DQB1,MTCO3P1"	IgE grass sensitization	seasonal allergic rhinitis	-	GCST001303	6:32690302	22036096	Ramasamy A
+rs77199844-?	2.00E-17	(Atopic dermatitis)	NR	1.23	-	[1.15–1.32]	"LCE1F,LCE1E"	Inflammatory skin disease	atopic eczema	-	GCST002740	1:152784619	25574825	Baurecht H
+rs2212434-?	3.00E-12	(Atopic dermatitis)	NR	1.29	-	[1.21–1.39]	"LINC02757,EMSY"	Inflammatory skin disease	atopic eczema	-	GCST002740	11:76570549	25574825	Baurecht H
+rs10888499-?	5.00E-25	(Atopic dermatitis)	NR	1.49	-	[1.38–1.61]	"LCE3E,CRCT1"	Inflammatory skin disease	atopic eczema	-	GCST002740	1:152560266	25574825	Baurecht H
+rs12144049-?	3.00E-30	(Atopic dermatitis)	NR	1.54	-	[1.37–1.73]	"LCE5A,FLG-AS1"	Inflammatory skin disease	atopic eczema	-	GCST002740	1:152468434	25574825	Baurecht H
+rs471144-?	2.00E-12	(Atopic dermatitis)	NR	1.54	-	[1.37–1.73]	"LCE5A,FLG-AS1"	Inflammatory skin disease	atopic eczema	-	GCST002740	1:152481779	25574825	Baurecht H
+rs55879323-?	3.00E-12	(Atopic dermatitis)	NR	-	-	-	FLG-AS1	Inflammatory skin disease	atopic eczema	-	GCST002740	1:152196264	25574825	Baurecht H
+rs13132933-?	1.00E-07	(Atopic dermatitis)	NR	-	-	-	"BLTP1,RN7SL335P"	Inflammatory skin disease	atopic eczema	-	GCST002740	4:122089432	25574825	Baurecht H
+rs1094732-?	9.00E-06	(Atopic dermatitis)	NR	-	-	-	"RN7SL474P,FGF20"	Inflammatory skin disease	atopic eczema	-	GCST002740	8:16940614	25574825	Baurecht H
+rs6686734-?	1.00E-06	(Atopic dermatitis)	NR	-	-	-	MFN2	Inflammatory skin disease	atopic eczema	-	GCST002740	1:12008884	25574825	Baurecht H
+rs8099996-?	3.00E-06	(Atopic dermatitis)	NR	-	-	-	SMARCA4	Inflammatory skin disease	atopic eczema	-	GCST002740	19:11063949	25574825	Baurecht H
+rs77490194-?	3.00E-06	(Atopic dermatitis)	NR	-	-	-	GRM4	Inflammatory skin disease	atopic eczema	-	GCST002740	6:34085916	25574825	Baurecht H
+rs67766926-?	7.00E-09	(Shared)	NR	-	-	-	"REL,NONOP2"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	2:60936446	25574825	Baurecht H
+rs73510898-?	8.00E-08	(Shared)	NR	-	-	-	ZGLP1	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	19:10305768	25574825	Baurecht H
+rs9952991-?	1.00E-07	(Shared)	NR	-	-	-	"PTPN2,LINC01882"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	18:12780465	25574825	Baurecht H
+rs1528473-?	3.00E-07	(Shared)	NR	-	-	-	"RSL24D1,UNC13C"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	15:55094545	25574825	Baurecht H
+rs2059876-?	4.00E-07	(Shared)	NR	-	-	-	CHST8	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	19:33639430	25574825	Baurecht H
+rs45616239-?	1.00E-06	(Shared)	NR	-	-	-	BLTP1	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	4:122335010	25574825	Baurecht H
+rs12001137-?	2.00E-06	(Shared)	NR	-	-	-	"AKAP8P1,JKAMPP1"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	9:11964872	25574825	Baurecht H
+rs2218565-?	2.00E-06	(Shared)	NR	-	-	-	PRR5L	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	11:36314713	25574825	Baurecht H
+rs7798970-?	3.00E-06	(Shared)	NR	-	-	-	STEAP2-AS1	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	7:90006910	25574825	Baurecht H
+rs1012621-?	5.00E-06	(Shared)	NR	-	-	-	TGM3	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	20:2325666	25574825	Baurecht H
+rs11189494-?	7.00E-06	(Shared)	NR	-	-	-	R3HCC1L	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	10:98153375	25574825	Baurecht H
+rs3736830-?	9.00E-06	(Shared)	NR	-	-	-	KPNA3	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	13:49732085	25574825	Baurecht H
+rs17728338-?	4.00E-38	(Opposed)	NR	-	-	-	"ANXA6,TNIP1"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	5:151098757	25574825	Baurecht H
+rs62176107-?	1.00E-34	(Opposed)	NR	-	-	-	"PRKRA,CHROMR"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	2:178436244	25574825	Baurecht H
+rs12130219-?	1.00E-23	(Opposed)	NR	-	-	-	FLG-AS1	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	1:152189630	25574825	Baurecht H
+rs380743-?	4.00E-22	(Opposed)	NR	-	-	-	RASIP1	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	19:48737757	25574825	Baurecht H
+rs4363385-?	2.00E-15	(Opposed)	NR	-	-	-	"SPRR3,SPRR1B"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	1:153016845	25574825	Baurecht H
+rs9405490-?	4.00E-10	(Opposed)	NR	-	-	-	"RN7SL352P,FOXCUT"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	6:1510423	25574825	Baurecht H
+rs9302874-?	2.00E-07	(Opposed)	NR	-	-	-	"LINC01993,SOCS3"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	17:78284479	25574825	Baurecht H
+rs80312298-?	6.00E-07	(Opposed)	NR	-	-	-	MGMT	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	10:129683009	25574825	Baurecht H
+rs10802516-?	6.00E-06	(Opposed)	NR	-	-	-	OR2W5P	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	1:247490110	25574825	Baurecht H
+rs6596086-?	2.00E-18	(Opposed)	NR	-	-	-	RAD50	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	5:132616530	25574825	Baurecht H
+rs2533291-?	3.00E-10	(Opposed)	NR	-	-	-	PTPRN2	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	7:157712962	25574825	Baurecht H
+rs1384974-?	4.00E-08	(Opposed)	NR	-	-	-	"MTND5P15,LINC01208"	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	3:177009491	25574825	Baurecht H
+rs6548123-?	6.00E-08	(Opposed)	NR	-	-	-	MYT1L	Inflammatory skin disease	"atopic eczema,psoriasis"	-	GCST002740	2:2221629	25574825	Baurecht H
+rs61816761-A	3.00E-12	-	NR	-	0.767 unit increase	[0.55-0.98]	"FLG,FLG-AS1"	Metal allergy	allergic disease	-	GCST90018881	1:152313385	34594039	Sakaue S
+rs11802311-C	6.00E-06	-	NR	5.65	-	[2.66-11.97]	PSEN2	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	1:226900791	34391895	Kanai M
+rs12997194-G	8.00E-06	-	NR	2.07	-	[1.51-2.86]	"LINC01819,CHORDC1P1"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	2:42894778	34391895	Kanai M
+rs181829194-G	9.00E-06	-	NR	7.41	-	[3.06-17.98]	"MTARC2P1,RN7SL553P"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	3:5361050	34391895	Kanai M
+rs2947669-T	7.00E-06	-	NR	0.47	-	[0.34-0.66]	"LINC02614,SNRPCP11"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	3:125819518	34391895	Kanai M
+rs79390442-C	8.00E-06	-	NR	3.55	-	[2.04-6.19]	CPNE4	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	3:131942812	34391895	Kanai M
+rs17084754-T	5.00E-06	-	NR	2.69	-	[1.76-4.11]	"KIT,LINC02358"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	4:54744026	34391895	Kanai M
+rs77909744-A	6.00E-06	-	NR	12.28	-	[4.15-36.35]	"RPL6P11,GASK1B"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	4:157987326	34391895	Kanai M
+rs532454805-G	2.00E-06	-	NR	7.94	-	[3.4-18.56]	GASK1B-AS1	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	4:158175500	34391895	Kanai M
+rs2660655-T	8.00E-06	-	NR	2.31	-	[1.6-3.34]	"KCNIP1,KCNIP1-OT1"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	5:170405517	34391895	Kanai M
+rs76631136-A	8.00E-06	-	NR	5.28	-	[2.54-10.98]	"LNC-LBCS,RPL21P61"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	6:19208394	34391895	Kanai M
+rs142701536-C	9.00E-06	-	NR	4.28	-	[2.25-8.12]	"POU3F2,EIF4EBP2P3"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	6:98782685	34391895	Kanai M
+rs80228341-T	9.00E-06	-	NR	6.34	-	[2.8-14.33]	DYNC1I1	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	7:95829622	34391895	Kanai M
+rs57803405-C	8.00E-06	-	NR	0.44	-	[0.31-0.63]	"MCPH1-DT,RN7SKP159"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:6057268	34391895	Kanai M
+rs78668355-G	6.00E-06	-	NR	3.81	-	[2.14-6.8]	"NEFL,DOCK5"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:25034829	34391895	Kanai M
+rs10504034-C	8.00E-06	-	NR	2.01	-	[1.48-2.74]	ZMAT4	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:40674623	34391895	Kanai M
+rs147066410-A	7.00E-06	-	NR	14.29	-	[4.46-45.73]	ATAD2	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	8:123344234	34391895	Kanai M
+rs2271847-C	7.00E-06	-	NR	2.09	-	[1.51-2.88]	MAPK8IP1	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	11:45904894	34391895	Kanai M
+rs117007512-G	1.00E-06	-	NR	9.56	-	[3.85-23.73]	TCF12	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	15:56959573	34391895	Kanai M
+rs139623002-A	5.00E-06	-	NR	5.1	-	[2.53-10.26]	"SMIM17,ZIM2-AS1"	Oxaliplatin	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060088	19:56643369	34391895	Kanai M
+rs79701786-A	6.00E-06	-	NR	4.91	-	[2.47-9.77]	"MYT1L,LINC01250"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	2:2789275	34391895	Kanai M
+rs116850690-A	5.00E-06	-	NR	5.14	-	[2.54-10.39]	VGLL4	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	3:11599164	34391895	Kanai M
+rs2947668-A	1.00E-05	-	NR	0.38	-	[0.25-0.58]	"SNRPCP11,LINC02614"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	3:125820086	34391895	Kanai M
+rs181829194-G	2.00E-07	-	NR	18.6	-	[6.13-56.43]	"MTARC2P1,RN7SL553P"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	3:5361050	34391895	Kanai M
+rs6811901-C	4.00E-06	-	NR	3.54	-	[2.07-6.05]	CAMK2D	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	4:113445575	34391895	Kanai M
+rs192104207-T	2.00E-06	-	NR	15.12	-	[4.92-46.47]	"LINC02476,GTF3AP6"	Oxaliplatin (extreme)	"drug allergy,trait in response to platinum"	colon carcinoma	GCST90060089	7:119383049	34391895	Kanai M
+rs192705221-A	1.00E-09	-	0.0119	7.94	-	[4.09-15.43]	"LINC02622,UNC5B"	Paradoxical eczema in biologic-treated plaque psoriasis	"atopic eczema,response to xenobiotic stimulus"	psoriasis vulgaris	GCST90162550	10:71102192	36804406	Al-Janabi A
+rs72925168-G	2.00E-09	-	0.0276	4.98	-	[2.96-8.4]	SLC1A2	Paradoxical eczema in biologic-treated plaque psoriasis	"atopic eczema,response to xenobiotic stimulus"	psoriasis vulgaris	GCST90162550	11:35306434	36804406	Al-Janabi A
+HLA-B*55:01-?	1.00E-77	-	NR	1.33	-	[1.29-1.37]	-	Penicillin allergy	drug allergy	-	GCST011458	-	32888428	Krebs K
+rs3213749-T	4.00E-09	-	0.124403628	-	0.105587855 unit increase	[0.07-0.141]	CD207	Pollinosis	seasonal allergic rhinitis	-	GCST90018683	2:70831775	34594039	Sakaue S
+rs1050538-G	3.00E-13	-	0.156083872	-	0.11941082 unit increase	[0.087-0.152]	HLA-B	Pollinosis	seasonal allergic rhinitis	-	GCST90018683	6:31356822	34594039	Sakaue S
+rs1140310-C	8.00E-13	-	0.301582347	-	0.09507005 unit decrease	[0.069-0.121]	HLA-DQB1	Pollinosis	seasonal allergic rhinitis	-	GCST90018683	6:32665006	34594039	Sakaue S
+rs10519067-A	4.00E-08	-	0.213709834	-	0.08121239 unit decrease	[0.052-0.11]	RORA	Pollinosis	seasonal allergic rhinitis	-	GCST90018683	15:60776148	34594039	Sakaue S
+rs1438673-T	1.00E-08	-	NR	-	0.0623 unit decrease	[0.041-0.084]	"WDR36,RPS3AP21"	Pollinosis	seasonal allergic rhinitis	-	GCST90018903	5:111131801	34594039	Sakaue S
+rs1050538-G	4.00E-11	-	NR	-	0.1044 unit increase	[0.073-0.135]	HLA-B	Pollinosis	seasonal allergic rhinitis	-	GCST90018903	6:31356822	34594039	Sakaue S
+chr6:32631116-T	1.00E-12	-	NR	-	0.1247 unit decrease	[0.09-0.159]	-	Pollinosis	seasonal allergic rhinitis	-	GCST90018903	-	34594039	Sakaue S
+rs10519067-A	1.00E-08	-	NR	-	0.0785 unit decrease	[0.051-0.106]	RORA	Pollinosis	seasonal allergic rhinitis	-	GCST90018903	15:60776148	34594039	Sakaue S
+rs13414647-A	4.00E-09	-	NR	-	0.1029 unit increase	[0.069-0.137]	"CD207,CLEC4F"	Pollinosis	seasonal allergic rhinitis	-	GCST90018903	2:70829610	34594039	Sakaue S
+rs13403179-C	8.00E-08	-	0.054	2.947	-	[1.989-4.386]	NBAS	Recalcitrant atopic dermatitis	recalcitrant atopic dermatitis	-	GCST002880	2:15342628	25935106	Kim KW
+rs675531-C	7.00E-07	-	0.113	2.193	-	[1.610-2.994]	THEMIS	Recalcitrant atopic dermatitis	recalcitrant atopic dermatitis	-	GCST002880	6:127719694	25935106	Kim KW
+rs35766269-A	1.00E-07	-	0.58	1.946	-	[1.529-2.494]	"LINC00709,LINC02676"	Recalcitrant atopic dermatitis	recalcitrant atopic dermatitis	-	GCST002880	10:8981852	25935106	Kim KW
+rs9540294-G	1.00E-08	-	0.083	2.655	-	[1.904-3.717]	"STARP1,LGMNP1"	Recalcitrant atopic dermatitis	recalcitrant atopic dermatitis	-	GCST002880	13:64989899	25935106	Kim KW
+rs3099143-C	3.00E-07	-	0.137	2.126	-	[1.594-2.841]	SCAPER	Recalcitrant atopic dermatitis	recalcitrant atopic dermatitis	-	GCST002880	15:76812515	25935106	Kim KW
+rs9277630-A	1.00E-11	-	0.26	3.53	-	[2.45-5.09]	HLA-DPB2	Wheat-dependent exercise-induced anaphylaxis	"Exercise induced anaphylaxis,wheat allergic reaction"	-	GCST90026483	6:33114490	34246321	Fukunaga K
+HLA-DPA1*02:01:01-?	5.00E-07	-	NR	0.28	-	[0.17-0.46]	-	Wheat-dependent exercise-induced anaphylaxis	"Exercise induced anaphylaxis,wheat allergic reaction"	-	GCST90026483	-	34246321	Fukunaga K
+HLA-DPB1*02:01:02-?	1.00E-14	-	NR	4.13	-	[2.89-5.93]	-	Wheat-dependent exercise-induced anaphylaxis	"Exercise induced anaphylaxis,wheat allergic reaction"	-	GCST90026483	-	34246321	Fukunaga K
+HLA-DPB1*09:01:01-?	9.00E-06	-	NR	0.23	-	[0.12-0.44]	-	Wheat-dependent exercise-induced anaphylaxis	"Exercise induced anaphylaxis,wheat allergic reaction"	-	GCST90026483	-	34246321	Fukunaga K
+HLA-DPB2*01:01:02-?	1.00E-12	-	NR	3.88	-	[2.67-5.63]	-	Wheat-dependent exercise-induced anaphylaxis	"Exercise induced anaphylaxis,wheat allergic reaction"	-	GCST90026483	-	34246321	Fukunaga K
